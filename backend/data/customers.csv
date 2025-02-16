@@ -1,0 +1,834 @@
+created,modified,first_name,company,code,last_name,phone,email,street,suburb,country,city,province,vat_number,id,owner_id
+2024-10-01 05:03:39.413170,2024-10-01 05:03:39.413232,Nderitu,Dolphin Initiative,+27,David,+27833212853,dolphininitiative@gmail.com,Pomona ,,,kempton park,Gauteng,NULL,Nderitu David +27833212853,
+2024-10-01 05:03:39.418054,2024-10-01 05:03:39.418112,Hugo Needham ,E3 energy 4 all,+254,Clark,+254736140338,hugon@e3energy4all.com,kilifi,,,Mombasa,coast,N/A,Hugo Needham  Clark +254736140338,
+2024-10-01 05:03:39.421067,2024-10-01 05:03:39.421128,David ,Robert Carr-Hartley,+27,Shedrick,+254722510556,robertcarrhartely@mac.com,Karen,,,Nairobi,Nairbi,N/A,David  Shedrick +254722510556,
+2024-10-01 05:03:39.424460,2024-10-01 05:03:39.424517,Geraldine,Tamimi,+254,Evans,+254733743663,pa@tamimiea.com,Karen,,,Nairobi,NULL,N/A,Geraldine Evans +254733743663,
+2024-10-01 05:03:39.426734,2024-10-01 05:03:39.426770,Elixir Health,Elixir Health,+254, Elixir Health,+254733606026,kassiri19@gmail.com,village market,,,Nairobi,NULL,N/A,Elixir Health  Elixir Health +254733606026,
+2024-10-01 05:03:39.429597,2024-10-01 05:03:39.429646,Betty,self,+254,Kamau,+254712868500,bkkinuthia@gmail.com,Nairobi,,,Nairobi,Nairobi,NULL,Betty Kamau +254712868500,
+2024-10-01 05:03:39.431222,2024-10-01 05:03:39.431254,Hellen,self,+254,Githinji,+27825083258,Helen.githinji@telkomsa.net,Nrb,,,Nrb,Nrb,NULL,Hellen Githinji +27825083258,
+2024-10-01 05:03:39.433153,2024-10-01 05:03:39.433188,jasper,Bushwakka Africa,+27,Hewitt,+27233423438,jasper@bushwakka.co.za,Worcester,,,Capetown,western cape,N/A,jasper Hewitt +27233423438,
+2024-10-01 05:03:39.435576,2024-10-01 05:03:39.435627,Johnnie,Johnnie Cross,+254,Cross,+254715805582,johnniecross@me.com,Nanyuki Kenya,,,Nanyuki,NULL,N/A,Johnnie Cross +254715805582,
+2024-10-01 05:03:39.437384,2024-10-01 05:03:39.437414,Louis,The Cottars,+254,Cottars,+254733773378,cottars@gmail.com,Karen,,,"Karen,Nairobi",Nairobi,N/A,Louis Cottars +254733773378,
+2024-10-01 05:03:39.439259,2024-10-01 05:03:39.439286,1920's Safaris,Cottars1920's safari camps ltd,+254,cottars,+254733284268,logistics@cottarsafaris.com,Karen ,,,"Karen,Nairobi",Nairobi,N/A,1920's Safaris cottars +254733284268,
+2024-10-01 05:03:39.441194,2024-10-01 05:03:39.441231,Marcus ,Finlay Horticulture kenya ltd,+254,Rayner,+254722325654,marcus_rayner@finlays.net,Mount Kenya Region,,,Nanyuki,Rift valley,NULL,Marcus  Rayner +254722325654,
+2024-10-01 05:03:39.444166,2024-10-01 05:03:39.444201,Robert,Lovatcanerlley,+254,Carnelly,+254716665428,lovatcarnelley@gmail.com,p.o box 9,,,sulmac,Nairobi,NULL,Robert Carnelly +254716665428,
+2024-10-01 05:03:39.445883,2024-10-01 05:03:39.445924,Jibek,Nereus Trade,+254,Luusa,+254700930230,jibekb@gmail.com,Mzimasprings lane,,,Nairobi,Nairobi,NULL,Jibek Luusa +254700930230,
+2024-10-01 05:03:39.448092,2024-10-01 05:03:39.448133,Petra ,Serenity Spa,+254,Somen,+254706046700,petra.kenya@gmail.com,412 UN Crescent Gigiri,,,Nairobi village market,Nairobi  p.o box 1934-00621,NULL,Petra  Somen +254706046700,
+2024-10-01 05:03:39.449982,2024-10-01 05:03:39.450006,Mwaura ,Transafrica the mining ltd,+254,Njiri,+27832592906,mwauranjiri@gmail.com,Nairobi  p.o box 1063-0200,,,Nairobi,Nairobi,N/A,Mwaura  Njiri +27832592906,
+2024-10-01 05:03:39.451564,2024-10-01 05:03:39.451593,Water,Water Extreme Ltd,+254,Extreme ltd,+254733596486,infinityoutdoorsoffice@gmail.com,"Diani Beach,South Coast",,,Mombasa,Coast,N/A,Water Extreme ltd +254733596486,
+2024-10-01 05:03:39.453596,2024-10-01 05:03:39.453626,Anita,balletoanita,+254,Ballet,+260978057353,balletoanita@gmail.com,Mombasa,,,Malindi,NULL,N/A,Anita Ballet +260978057353,
+2024-10-01 05:03:39.455741,2024-10-01 05:03:39.455762,Benjamin,masafa logistics,+254,Mwikali,0835995695,masafalogistics@gmail.com,Ngara Park Road Nomad Filling station,,,Nairobi,Nairobi,N/A,Benjamin Mwikali 0835995695,
+2024-10-01 05:03:39.457232,2024-10-01 05:03:39.457253,Denise,Denise Jessop,+254,Jessop,+254722518995,denise@supplalife.com,48 murichu rd Bomas of Kenya,,,"langata ,karen Nairobi",Nairobi,NULL,Denise Jessop +254722518995,
+2024-10-01 05:03:39.461460,2024-10-01 05:03:39.461515,paul,Neat Home Basics,+254,Njiri,+254702245860,pnjiri3@gmail.com,Po Box 59797=00200,,,Nairobi,Nairobi,N/A,paul Njiri +254702245860,
+2024-10-01 05:03:39.464417,2024-10-01 05:03:39.464462,Roelene,RDC,+27,Taylor,+27114521471,exports@radiodata.co.za,"1st floor,senet house",,,Edenvale,Gauteng,N/A,Roelene Taylor +27114521471,
+2024-10-01 05:03:39.466375,2024-10-01 05:03:39.466422,African,Po box 324Sedgefield 6573,+254,Tusk clothing cc,+274434341021,accounts@africantusk.co.za,"Po Box25150-00603 Isaac Gathanju Close,Lavington ",,,Lavington,Nairobi,4530175829,African Tusk clothing cc +274434341021,
+2024-10-01 05:03:39.468573,2024-10-01 05:03:39.468612,Edward ,Belgravia,+254,Major,+254720728095,emajor@belgraviaservices.com,kileleshwa ,,,Nairobi,Nairobi,N/A,Edward  Major +254720728095,
+2024-10-01 05:03:39.470826,2024-10-01 05:03:39.470860,kilifi,Kilifi plantations,+254,plantations,+254722412924,chriswilson@gmail.com,kilifi plantations private bag,,,kilifi,Mombasa,N/A,kilifi plantations +254722412924,
+2024-10-01 05:03:39.472633,2024-10-01 05:03:39.472665,P N ,PN Ngari funeral services,+254,Ngari,+254721780419,hannahwainaina79@gmail.com,p o box 15979,,,Nakuru,Riftvalley,N/A,P N  Ngari +254721780419,
+2024-10-01 05:03:39.475012,2024-10-01 05:03:39.475039,Captain,Erica Thomas,+254,Andy's Fishing Suppliers,+254723974666,karla@captainandyskenya.com,po box 80202 watamu,,,Mombasa,Coast,N/A,Captain Andy's Fishing Suppliers +254723974666,
+2024-10-01 05:03:39.476635,2024-10-01 05:03:39.476656,Carey,E3 Environmental,+27,Needham,+27824499633,giles@mweb.co.za,po box 155 Honeydew,,,Johannesburg,Gauteng,N/A,Carey Needham +27824499633,
+2024-10-01 05:03:39.477825,2024-10-01 05:03:39.477844,Mick,Sentinel group,+254,Svinos,+254700472262,mick@sentinel-group.co,36 Ngong Rd ,,,Nairobi ,Narobi,N/A,Mick Svinos +254700472262,
+2024-10-01 05:03:39.479580,2024-10-01 05:03:39.479601,Peter,Instarect Ltd,+254,Hays,+254292513388,info@instarect.com,"Langata North rd,Mamba village",,,po box 44053 Nairobi,Nairobi,N/A,Peter Hays +254292513388,
+2024-10-01 05:03:39.484062,2024-10-01 05:03:39.484118,Sandy,Sandy Bornman,+254,Bornman,+254733455821,sandybornman@gmail.com,po box lamu,,,Lamu,Coast,NULL,Sandy Bornman +254733455821,
+2024-10-01 05:03:39.485504,2024-10-01 05:03:39.485529,Ricardo,Wilderness Eco Africa,+254,Retto,+254712891753,ricardo.retto@ratpanat.com,po box 10293,,,Ngara park Road Tss Filling station,Nairobi,NULL,Ricardo Retto +254712891753,
+2024-10-01 05:03:39.487163,2024-10-01 05:03:39.487193,Tina ,Tina Harris,+254,Harris,+254722294332,tinagharris62@gmail.com,po box 342 Watamu,,,Watamu  80202,Coast,N/A,Tina  Harris +254722294332,
+2024-10-01 05:03:39.488814,2024-10-01 05:03:39.488837,Stephen ,Eden Bliss /Esther,+254,Waweru,+27796456281,snjache@gmail.com, Ngara TSS Filling station ,,,Nairobi,Nairobi,N/A,Stephen  Waweru +27796456281,
+2024-10-01 05:03:39.490345,2024-10-01 05:03:39.490375,Ricardo ,Sura Afrika ltd,+254,Retto,+254720655285,miquel.alimbau@suraafrikasafariscamps.com,po box 10293,,,Arusha,Arusha,NULL,Ricardo  Retto +254720655285,
+2024-10-01 05:03:39.492123,2024-10-01 05:03:39.492152,Peter ,kilifi Boatyard ltd,+254,Bateman,+254723146291,kilifiboats@gmail.com,masha Road Mnarani,,, po box 905 kilifi,coast,NULL,Peter  Bateman +254723146291,
+2024-10-01 05:03:39.494026,2024-10-01 05:03:39.494066,Daniel,Nli Crocodile ltd,+254,T Haller,+254722204859,danil@haller.org.uk,"Po Box 10065,Bamburi",,,Mombasa,Coast,N/A,Daniel T Haller +254722204859,
+2024-10-01 05:03:39.495681,2024-10-01 05:03:39.495705,Keter,Clinton Foundation,+254,Frankline,+25724711494572,fketer@gmail.com,"525 Nyayo,Embakasi",,,Po Box 48339-00100 Nairobi,Nairobi,N/A,Keter Frankline +25724711494572,
+2024-10-01 05:03:39.500766,2024-10-01 05:03:39.500826,MTT Structures,Structures International CC,+27,International CC,+27317004600,debtors@marquee.co.za,"Jogoo Road,Makongeni,opposite Rikana Shopping Centre",,,Nairobi,Nairobi,Vat Number: 4420102487,MTT Structures International CC +27317004600,
+2024-10-01 05:03:39.505275,2024-10-01 05:03:39.505333,sue,Terra spares,+254,Borissow,+254733733771,terrasps@africaonline.o.ke,Stanley Mathenge Rd Industrial area,,,Nakuru,NULL,N/A,sue Borissow +254733733771,
+2024-10-01 05:03:39.508277,2024-10-01 05:03:39.508337,Kijala,Kijala Shako,+27,Shako,+254722765344,rita.shako@gmail.com,morning side avenue,,,jhb ,Gauteng,N/A,Kijala Shako +254722765344,
+2024-10-01 05:03:39.511848,2024-10-01 05:03:39.511907,Roses ,Roses Macadamia Shamba Farmcc,+27,macadamia,+254722828182,roes.shamba@gmail.com,postnet Suite 133pvt Bag x9910,,,White river,Mpumalanga,4750256416,Roses  macadamia +254722828182,
+2024-10-01 05:03:39.514375,2024-10-01 05:03:39.514430,Michelle ,Glen & Michelle Behr,+254,Behr,+254733434033,michellebehr@hotmail.co.uk,po box 3169,,,Nanyuki,NULL,N/A,Michelle  Behr +254733434033,
+2024-10-01 05:03:39.517083,2024-10-01 05:03:39.517144,Jason ,Jason Holley,+254,Holley,+254718769721,jason.hollbros@gmail.com,"1st floor ,spring court watermark ,businesspark,karen",,,"Karen ,Nairobi",NULL,N/A,Jason  Holley +254718769721,
+2024-10-01 05:03:39.519525,2024-10-01 05:03:39.519581,Jacques,Jacques Schrier,+254,Schrier,+254705519633,jacquessschrier@gmail.com,Mimosa Road Plot 153 Runda,,,"Runda,Nairobi",NULL,N/A,Jacques Schrier +254705519633,
+2024-10-01 05:03:39.521317,2024-10-01 05:03:39.521345,Alfred,Alfred& Anne Kitonga,+254,Kitonga,+254722203033,alfredgetonga@yahoo.com,"Nairobi,Tss Filling Station",,,"Ngara, Nairobi",NULL,N/A,Alfred Kitonga +254722203033,
+2024-10-01 05:03:39.523164,2024-10-01 05:03:39.523195,Jane,Jane Wakienda,+254,Wakienda,+254728,mukarijane@gmail.com,"Nairobi,Ngara,Tss filling station",,,"Ngara,Nairobi",NULL,N/A,Jane Wakienda +254728,
+2024-10-01 05:03:39.525205,2024-10-01 05:03:39.525246,Rose ,Rose Agutu,+254,Agutu,+254728961618,rose.agutu@citi.com,1 Rossyln Lone Tree off Limuru Rd,,,"Rossyln park,Nairobi",NULL,N/A,Rose  Agutu +254728961618,
+2024-10-01 05:03:39.526895,2024-10-01 05:03:39.526953,Freda,Freda Jimmy,+27,Freda,+27836048301,fredaco@hotmail.com,Ngara Tss Filling Station,,,Ngara.,NULL,N/A,Freda Freda +27836048301,
+2024-10-01 05:03:39.529056,2024-10-01 05:03:39.529087,Nicola,Crea Africa ltd,+254,Hankey,+254735641379,marina@creaafrica.com,"Lower kabete Road, Nairobi,Kenya",,,Nairobi,NULL,N/A,Nicola Hankey +254735641379,
+2024-10-01 05:03:39.530600,2024-10-01 05:03:39.530619,Martin,creative,+254,axle,4334,test@admin.com,sdf asdfddf,,,nairobi,NULL,N/A,Martin axle 4334,
+2024-10-01 05:03:39.531965,2024-10-01 05:03:39.531999,Jael,Amalia Nutriative Supplies,+254,Indulaji,+254722715536,jaelindulaji@yahoo.com,"p.o Box 12150 Nairobi ,Kenya",,,Nairobi,NULL,N/A,Jael Indulaji +254722715536,
+2024-10-01 05:03:39.533359,2024-10-01 05:03:39.533378,Greg, Greg Foster,+27,Foster,+254728592929,gmf.watamu@gmail.com,"muizenburg Capetown,RSA",,,Capetown,Western Cape,N/A,Greg Foster +254728592929,
+2024-10-01 05:03:39.534611,2024-10-01 05:03:39.534629,stephen ,Saint Harvest Centre,+254,Ng'anga,+254720255234,wandemi.developers@gmail.com,"Nairobi, Embakasi",,,Nairobi,Nairobi,N/A,stephen  Ng'anga +254720255234,
+2024-10-01 05:03:39.535747,2024-10-01 05:03:39.535765,Heather,Heather Boustead,+254,Boustead,+254722526195,heather@langatalink.com,"Karen,Nairobi",,,Nairobi,Nairobi,N/A,Heather Boustead +254722526195,
+2024-10-01 05:03:39.537082,2024-10-01 05:03:39.537101,Mike ,Gallan Africa,+254,Koech,+254722742533,mike.koech@gallanafrica.com,"Nairobi,Kenya",,,Nairobi,Nairobi,N/A,Mike  Koech +254722742533,
+2024-10-01 05:03:39.538486,2024-10-01 05:03:39.538505,James ,Tin Trunk Safaris/James Hutching,+254,Hutchings,+254732415953,nella@tintrunksafari.com,Nella Nencini/James Hutching,,,Mombasa,Mombasa,N/A,James  Hutchings +254732415953,
+2024-10-01 05:03:39.540039,2024-10-01 05:03:39.540059,Dylan,Ibis Farm,+254,Coleman,+254715385065,dylan.coleman@finlays.net,Ibis Farm  Nanyuki,,,Nanyuki,Nanyuki,N/A,Dylan Coleman +254715385065,
+2024-10-01 05:03:39.541083,2024-10-01 05:03:39.541101,Ivan ,Ivan Tomlisnon,+254,Tomlinson,+254722527810,ivantomlinson@gmail.com,"Rumuruti,Nanyuki",,,Nanyuki,Rift Valley,N/A,Ivan  Tomlinson +254722527810,
+2024-10-01 05:03:39.542608,2024-10-01 05:03:39.542630,Robert ,Rokar investments ltd,+254,Okolla,+254724020889,rokola@yahoo.com,"551 Runda Crescent ,Nairobi",,,Nairobi,Nairobi,N/A,Robert  Okolla +254724020889,
+2024-10-01 05:03:39.544425,2024-10-01 05:03:39.544453,Wolfgang,14450 Loresho Drive Nairobi,+27,Barnard,+254713513094,barriesb@gmail.com,200 Woodlands Estate 26Beryl Drive Farramere,,,Benoni,Gauteng,N/A,Wolfgang Barnard +254713513094,
+2024-10-01 05:03:39.545949,2024-10-01 05:03:39.545973,Linda,Linda Camm,+254,Camm,+254726423151,lindacamm@icloud.com,30 Dagotetti road,,,Nairobi,Nairobi,N/A,Linda Camm +254726423151,
+2024-10-01 05:03:39.547611,2024-10-01 05:03:39.547633,Ndegwa,Tiki Architects  ,+27,Nderitu,0114021936,ndegwanderitu@icloud.com,p.o box 69800,,,Bryanston,Gauteng ,N/A,Ndegwa Nderitu 0114021936,
+2024-10-01 05:03:39.549191,2024-10-01 05:03:39.549213,Monica ,Monica Muia,+27,Muia,+254722844604,missmuia@gmail.com,Hydro park 86 Grayston Drive ,,,Hydro park,Gauteng,N/A,Monica  Muia +254722844604,
+2024-10-01 05:03:39.550751,2024-10-01 05:03:39.550775,Anne,Anne Isavwa,+27,Isavwa,+26659009630,anneisavwa@gmail.com,"Po Box 0166 Maseru west 105,4BowkerRd Maseru",,,"Maseru,Lesotho","Maseru,Lesotho",N/A,Anne Isavwa +26659009630,
+2024-10-01 05:03:39.552581,2024-10-01 05:03:39.552616,kennedy,Mrs Veronica Wambui,+27,Njenga,+27735826851,knjenga@uj.ac.za,3fourseason 25countesses Windsor west,,,Johannesburg,Gauteng,N/A,kennedy Njenga +27735826851,
+2024-10-01 05:03:39.555369,2024-10-01 05:03:39.555425,Heidi,Derrick  Soanes,+254,Soanes,+254705849737,Heidi.soanes@gmail.com,"Karen ,Kenya",,,Karen,Nairobi,N/A,Heidi Soanes +254705849737,
+2024-10-01 05:03:39.558204,2024-10-01 05:03:39.558253,Paul,Paul krystal,+254,Krystal,+254720628490,paulkrystall@gamil.com,"Watamu,kenya",,,Watamu,Coast,N/A,Paul Krystal +254720628490,
+2024-10-01 05:03:39.560575,2024-10-01 05:03:39.560618,Chris ,Chris Venn,+254,Venn,+254704492404,chrisvenn@captainandyskenya.com,"Watamu,kenya",,,Watamu,Coast,N/A,Chris  Venn +254704492404,
+2024-10-01 05:03:39.562429,2024-10-01 05:03:39.562459,Lisa ,Motonguvu E.A Ltd,+254,Lisa Hill,+254722205871,lisahill1711@gmail.com,"Karen,Nairobi",,,Karen,Nairobi,N/A,Lisa  Lisa Hill +254722205871,
+2024-10-01 05:03:39.563888,2024-10-01 05:03:39.563916,Robert ,Robert Odhiambo,+254,Odhiambo,+254722227410,rrodhiambo@gmail.com,"Po Box 3319-00506 Nrb,Kenya",,,Nairobi,Nairobi,N/A,Robert  Odhiambo +254722227410,
+2024-10-01 05:03:39.565739,2024-10-01 05:03:39.565770,James,James Savage,+254,Savage,+254733735508,james@savagewilderness.org,"Thigiri Rd,Muthaiga Nairobi,Kenya",,,Nairobi,Nairobi,N/A,James Savage +254733735508,
+2024-10-01 05:03:39.570006,2024-10-01 05:03:39.570089,Louise,Louise Sommerlatte,+254,Sommerlatte,+254702533055,louisehamaji@gmail.com,"Nairobi,Ngara.Park Rd Tss filling station",,,Nairobi,Nairobi,N/A,Louise Sommerlatte +254702533055,
+2024-10-01 05:03:39.573316,2024-10-01 05:03:39.573397,Lewis,Lewis Ogoti,+254,Ogoti,27747754431,lewis7769@gmail.com,Ngara Tss filling station Parkroad,,,Nairobi,Nairobi,N/A,Lewis Ogoti 27747754431,
+2024-10-01 05:03:39.584173,2024-10-01 05:03:39.584243,Robert ,NBC Kenya,+254,Okech,+27845641915,oketchR@nbc.co.za,"Unit 906,Dhanjay Apartments,Valley Arcade,Kolosho Rd,off Gitanga Rd",,,Nairobi,Nairobi,N/A,Robert  Okech +27845641915,
+2024-10-01 05:03:39.586644,2024-10-01 05:03:39.586692,Francis,Recreation Africa,+27,Rale,+27119506000,francis@rale.co.za,69 Drift Bourlevard Muldersdrift,,,Honeydew,Gauteng,N/A,Francis Rale +27119506000,
+2024-10-01 05:03:39.589354,2024-10-01 05:03:39.589400,Steve,Laikipia wilderness,+254,Carey,+254727804922,barendjl@gmail.com,"Po Box 815 Laikipia,Nanyuki",,,Nanyuki,Rift valley,N/A,Steve Carey +254727804922,
+2024-10-01 05:03:39.591113,2024-10-01 05:03:39.591149,Henry,Henry  Henley,+254,Henley,+254722791180,henessica@gmail.com,"Po Box 1730 Nyeri 10100,Kenya",,,Nyeri,Central,N/A,Henry Henley +254722791180,
+2024-10-01 05:03:39.593451,2024-10-01 05:03:39.593525,Devorah,Devorah Felder,+254,Felder,+254700373459,devorehfelder@gmail.com,300 Runda Grove ,,,Nairobi,Nairobi,N/A,Devorah Felder +254700373459,
+2024-10-01 05:03:39.595947,2024-10-01 05:03:39.595994,Rufaro,Rufaro Musvaire,+254,Musvaire,+254791401438,musallio@yahoo.com,"Fourways junction Estate,[113 Violetcourt] Kiambu Rd",,,"Nairobi,Kenya",Nairobi,N/A,Rufaro Musvaire +254791401438,
+2024-10-01 05:03:39.597811,2024-10-01 05:03:39.597840,Samuel,Samuel K Ndungu,+27,Ndungu,+27736005566,kim29ndungu@yahoo.com,Melville 2nd Avenue,,,Johannesburg,Gauteng,N/A,Samuel Ndungu +27736005566,
+2024-10-01 05:03:39.599887,2024-10-01 05:03:39.599919,Richard,Richard Britten-long,+254,Britten-Long,+254722412924,rbi@laird-london.com,Kilifi Plantations Kilifi,,,Kilifi,Coast,N/A,Richard Britten-Long +254722412924,
+2024-10-01 05:03:39.602257,2024-10-01 05:03:39.602286,Joseph ,Jmex Transport,+27,Njenga,+27730119530,njengajose530@gmail.com,"Bezuidenhot valley,Joburg",,,Johannesburg,Gauteng,N/A,Joseph  Njenga +27730119530,
+2024-10-01 05:03:39.604858,2024-10-01 05:03:39.604939,Daniel ,Umash funeral services,+254,Njoroge,+254712213963,njorogekamau@umash.co.ke,Mbagathi way Armed forces memorial,,,Nairobi,Nairobi,N/A,Daniel  Njoroge +254712213963,
+2024-10-01 05:03:39.607887,2024-10-01 05:03:39.607956,Rogers ,Rogers Karani,+254,Karani,+254789864327,rogers.karani@gmail.com,Ngara Park road  Tss filling station,,,Nairobi,Nairobi,N/A,Rogers  Karani +254789864327,
+2024-10-01 05:03:39.610500,2024-10-01 05:03:39.610553,Ross ,Ross Withey,+254,Withey,+254722706895,rosswithey@gmail.com,"Po Box 3041 Nanyuki,Kenya",,,Laikipia,Rift Valley,N/A,Ross  Withey +254722706895,
+2024-10-01 05:03:39.613088,2024-10-01 05:03:39.613153,Peter ,Sentinel Mara Group,+254,Twycross,+254722700077,peter@sentinelsafaris.com,Ngara Park Rd Tss filling station,,,Nairobi,Nairobi,N/A,Peter  Twycross +254722700077,
+2024-10-01 05:03:39.615338,2024-10-01 05:03:39.615413,Jim ,JAR BELL,+254,Bell,+255784616166,jimarbell@hotmail.com,Po Box 905 Kilifi Kenya,,,Kilifi,Coast,N/A,Jim  Bell +255784616166,
+2024-10-01 05:03:39.617633,2024-10-01 05:03:39.617684,Cathrine,Uhuru Flowers,+254,Freeman,+254722863252,catherine@uhuruflowers.co.za,"Karen ,Kenya",,,Karen,Nairobi,N/A,Cathrine Freeman +254722863252,
+2024-10-01 05:03:39.620112,2024-10-01 05:03:39.620180,Issay ,Issay Naidoo,+254,Naidoo,+254704381722,isaynaidoo@gmail.com,"6 Muthangari Residence,Kanjata Rd Lavington",,,Nairobi,Nairobi,N/A,Issay  Naidoo +254704381722,
+2024-10-01 05:03:39.622750,2024-10-01 05:03:39.622794,Gail,Gail Unsworth,+254,Unsworth,+245733993460,jgunsworth@yahoo.com,Tss Filling Station Ngara park road ,,,Nairobi,Nairobi,N/A,Gail Unsworth +245733993460,
+2024-10-01 05:03:39.625713,2024-10-01 05:03:39.625773,Harpinder Singh,Saphire Industrial Supplies ltd,+27,Dhillon VRN 40023476,+255782995500,harpinder37@gmail.com,Po Box 10295 Dar-le salaam Tanzania,,,Dar-le salaam,Dar-le salaam,Tin 12949-177,Harpinder Singh Dhillon VRN 40023476 +255782995500,
+2024-10-01 05:03:39.630720,2024-10-01 05:03:39.630896,susan,Susan Hinga,+27,Hinga,+27731692734,susan@atnet.co.za,"P o Box 1733 kelvin,2954",,,Kelvin,Gauteng,N/A,susan Hinga +27731692734,
+2024-10-01 05:03:39.633058,2024-10-01 05:03:39.633100,Joshua,  Joshua Okwirry,+27,Okwirry,+27742992891,joshus.okwirry@gmail.com,"16 Swemmer Rd,Silvamonte",,,"Silvamonte,Johannesburg",Gauteng,N/A,Joshua Okwirry +27742992891,
+2024-10-01 05:03:39.637266,2024-10-01 05:03:39.637329,Winnifred,Winnifred Bunyenyezi,+254,Bunyenyezi,+27824934049,w.bunyenyezi@gmail.com,"Westlands,Brookside Drive,hse3Grevillea Grove",,,"Westlands,Nairobi",Nairobi,N/A,Winnifred Bunyenyezi +27824934049,
+2024-10-01 05:03:39.641567,2024-10-01 05:03:39.641628,Rose,Frontier Management works,+27,Ali,+27761946629,roseali@worldonline.co.za,205 Lancia Street Lynnwood Ridge Pretoria ,,,Pretoria,Gauteng,N/A,Rose Ali +27761946629,
+2024-10-01 05:03:39.643966,2024-10-01 05:03:39.644006,Abi ,Soul Design,+27,James ,+27765278717,abi@souldesign.co.za,"4,Neiderlandse,lane,Bo Koop ",,,Capetown,Westerncape,N/A,Abi  James  +27765278717,
+2024-10-01 05:03:39.645711,2024-10-01 05:03:39.645738,Hassan,Cabrianha kite Boarding,+27,Hassan,+255774021047,chris@zanzibarwatersports.com,Zanzibar Tamzania,,,Zanzibar,Zanzibar,N/A,Hassan Hassan +255774021047,
+2024-10-01 05:03:39.647476,2024-10-01 05:03:39.647507,Chris ,zanzibar water sports,+27,Godwin,+255774021047,chris@zanzibarwatersports.com,Chalinze Tanzania,,,Dar-le-salaam,Zanzibar,N/A,Chris  Godwin +255774021047,
+2024-10-01 05:03:39.651009,2024-10-01 05:03:39.651061,Jane,Jane Michuki,+254,Michuki,+254722529658,janemichuki@hotmail.com,Ngara TSS Filling Station Nairobi,,,Nairobi,Nairobi,N/A,Jane Michuki +254722529658,
+2024-10-01 05:03:39.653501,2024-10-01 05:03:39.653571,Marcy,Marcy Kerubo,+254,Kerubo,+254719891448,kerubomarcy@yahoo.com,"Ngara Tss Filling Station ,Nairobi",,,Nairobi,Nairobi,N/A,Marcy Kerubo +254719891448,
+2024-10-01 05:03:39.656378,2024-10-01 05:03:39.656446,Robert,Robert Opini,+27,Opini,+254715552760,ropini@hotmail.com,"Morning View Complex,8Fir Rd Morning side unit 44",,,Johannesburg,Gauteng,N/A,Robert Opini +254715552760,
+2024-10-01 05:03:39.658869,2024-10-01 05:03:39.658953,Eddie ,Eriez Magnetic [SA] pty Ltd,+27,kunene,+27114449160,ekunene@eriez.co.za,"30 Innes Rd,[cnr] Graneit Rd,Jetpark,Ext66",,,Johannesburg,Gauteng,N/A,Eddie  kunene +27114449160,
+2024-10-01 05:03:39.660663,2024-10-01 05:03:39.660702,Robyn,"Simply Africa,Langata link shops",+254,Badenhorst,+254724255414,badenhorstrobyn@gmail.com,"Langata South Road,Nairobi Karen",,,Karen,Nairobi,N/A,Robyn Badenhorst +254724255414,
+2024-10-01 05:03:39.663745,2024-10-01 05:03:39.663807,Sharon,Sharon Mina Olago,+254,Mina,+254708427661,solago@aiim-assist.org,"9 Boundary RdSpring valleyRd,Old spring valley",,,Nairobi,Nairobi,N/A,Sharon Mina +254708427661,
+2024-10-01 05:03:39.666960,2024-10-01 05:03:39.667037,Jenz ,Segera Africa ltd,+254,Segera,+254206190800,jens@segera.com,Po Box 180 Nanyuki 10400 ,,,Nanyuki,Rift Valley,N/A,Jenz  Segera +254206190800,
+2024-10-01 05:03:39.669361,2024-10-01 05:03:39.669396,Clive,Awana South africa,+27,Atkins,+27824981448,cratkins54@gmail.com,31 Karoo Rd Crawford Capetown,,,Capetown,Western Cape,N/A,Clive Atkins +27824981448,
+2024-10-01 05:03:39.672126,2024-10-01 05:03:39.672159,Priscilla ,Priscilla Motlhako,+27,Motlhako,+27724846298,motlhakop@gmail.com,N08a Aberfedy Street MorningSide,,,Johannesburg,Gauteng,N/A,Priscilla  Motlhako +27724846298,
+2024-10-01 05:03:39.674438,2024-10-01 05:03:39.674472,Brenda,Brenda Bubi,+254,Bubi,+254722792015,brenda.bubi@gmail.com,"westlands Rd,Nairobi,Kenya",,,Nairobi,Nairobi,N/A,Brenda Bubi +254722792015,
+2024-10-01 05:03:39.676781,2024-10-01 05:03:39.676820,Nick,Alumafish engeneering Ltd,+254,Jooster,+254701863848,alumafish@gmail.com,"Po Box 1888,Malindi,80200",,,Malindi,Coast,N/A,Nick Jooster +254701863848,
+2024-10-01 05:03:39.678833,2024-10-01 05:03:39.678855,Shivam,Goldentyre  kenya Ltd,+254,Vinayak,+254736969696,goldentyrekenya@gmail.com,Ngara Tss filling station Park Rd Ngara,,,"Ngara,Nairobi",Nairobi,N/A,Shivam Vinayak +254736969696,
+2024-10-01 05:03:39.680912,2024-10-01 05:03:39.680941,Etienne,Etienne De Villiiers,+254,Villiers,+254734189020,epvilliers@gmail.com,"Po Box 230,kilifi 80108",,,Kilifi,Coast,N/A,Etienne Villiers +254734189020,
+2024-10-01 05:03:39.682965,2024-10-01 05:03:39.682992,Johan,Johan Swanepoel,+27,Swanepoel,+27823713818,lab@adept.co.za,No 6 die Laan Stellenbosch,,,Stellenbosch,Western Cape,N/A,Johan Swanepoel +27823713818,
+2024-10-01 05:03:39.684691,2024-10-01 05:03:39.684716,Annabelle ,Lelwel Ltd,+254,Keane,+254722716297,mkeane@africaonline.co.ke,"Po Box 289 Timau,kenya",,,Laikipia,Central ,N/A,Annabelle  Keane +254722716297,
+2024-10-01 05:03:39.689618,2024-10-01 05:03:39.689707,Mara North Conservancy ltd,Cheli,+254,Stefano,+254722530550,stefano.cheli@chelipeacock.co.ke,Lengai Hse 1st Floor Wilson Airport,,,Nairobi,Nairobi,N/A,Mara North Conservancy ltd Stefano +254722530550,
+2024-10-01 05:03:39.692773,2024-10-01 05:03:39.692836,Mrs Nolene,Nolene Steenkamp,+27,Steenkamp,+27333454224,nolene@edelnet.co.za,"The Fish Eagle,150 Victoria,Pietermaritzburg,3200",,,Pietermaritzburg,Kwa Zulu Natal,N/A,Mrs Nolene Steenkamp +27333454224,
+2024-10-01 05:03:39.695633,2024-10-01 05:03:39.695888,Daniel,Biashara master sawmills ltd,+254,Mwangi,+254722336583,biasharamaster@yahoo.com,Po Box 597 20107 Njoro,,,Nakuru,Nakuru,N/A,Daniel Mwangi +254722336583,
+2024-10-01 05:03:39.699770,2024-10-01 05:03:39.699838,Grevy's Zebra Trust,Low,+254,Belinda,+254727288039,belindalow@gmail.com,"Po Box 15351-00509,IUCN Mukoma Rd[Magadi Rd] ",,,Nairobi,Nairobi,N/A,Grevy's Zebra Trust Belinda +254727288039,
+2024-10-01 05:03:39.701531,2024-10-01 05:03:39.701567,Cummunities Health Africa Trust,Communiteies Health Africa Trust,+254,Lucy Kananu,+254720387418,chatfinanceassistant@gmail.com,"Po Box 1411 Nanyuki 10400,Lentile Hse Rm218",,,Nanyuki,Laikipia,N/A,Cummunities Health Africa Trust Lucy Kananu +254720387418,
+2024-10-01 05:03:39.703678,2024-10-01 05:03:39.703720,Kleen Kleeners Ltd ,Kleen Kleeners Ltd,+254,Sophie Chege,+254722747356,chegesophie@yahoo.com,"P o Box 23658,00100 Nairobi,Kenya,Rehema place Ngong Rd Block B ",,,Nairobi,Nairobi,N/A,Kleen Kleeners Ltd  Sophie Chege +254722747356,
+2024-10-01 05:03:39.705651,2024-10-01 05:03:39.705678,African Book Hub,African Book Hub,+254,Rose Mwangi,+254722321799,Rose.mwangi@gmail.com,"Po Box 23813-00100 Nairobi,Kenya",,,Nairobi,Nairobi,N/A,African Book Hub Rose Mwangi +254722321799,
+2024-10-01 05:03:39.707479,2024-10-01 05:03:39.707521,Sean ,Samburumburu ltd Sosian Ranch,+254,Outram,+254703707701,sean@sosian.com,"Po Box 6 Rumuruti,Laikipia",,,"Po Box 5 Rumuruti,Laikipia",Central,N/A,Sean  Outram +254703707701,
+2024-10-01 05:03:39.710503,2024-10-01 05:03:39.710576,Moses,Funky Deco,+254,Njane ,+254720889687,funkydeco06@gmail.com,Lavington Amboseli Rd,,,Nairobi,Nairobi,N/A,Moses Njane  +254720889687,
+2024-10-01 05:03:39.713861,2024-10-01 05:03:39.713947,Ken ,Epic Enterprices,+254,Lidwaji,+254720240845,epicenterprices500@gmail.com,"Po Box 69993-00400 Dagia plaza,Nairobi",,,Nairobi,Nairobi,N/A,Ken  Lidwaji +254720240845,
+2024-10-01 05:03:39.717577,2024-10-01 05:03:39.717643,Jannifer ,Citibank,+254,Jannifer w karigi,+254202754184,jannifer.karingi@citi.com,"Po Box 30711-00100 Naoirobi,Kenya",,,upperhill,Nairobi,N/A,Jannifer  Jannifer w karigi +254202754184,
+2024-10-01 05:03:39.721805,2024-10-01 05:03:39.721872,Ross ,Ross Evans,+254,Evans,+254700189040,camillamasters@hotmail.com,"123 Gogo Lane,Hardy Karen",,,Karen,Nairobi,N/A,Ross  Evans +254700189040,
+2024-10-01 05:03:39.724292,2024-10-01 05:03:39.724331,Katy,Mandhari Plants & Designs,+254,Barnes,+254700935822,katy@mandhari.co.ke,"96 Mbagathi Ridge,Po Box 1218 Karen 00502",,,Karen,Nairobi,N/A,Katy Barnes +254700935822,
+2024-10-01 05:03:39.731583,2024-10-01 05:03:39.731667,Sprintex Engineering Services Ltd,Sprintex Engineering Services Ltd,+254,James George Okoth,+254733247584,md@sprintexengineering.com,"Po Box 60889-00200 Nbi,Kenya Off Kagundo Rd Mowlem Area",,,Nairobi,Nairobi,N/A,Sprintex Engineering Services Ltd James George Okoth +254733247584,
+2024-10-01 05:03:39.736882,2024-10-01 05:03:39.736964,Wilec A Division of Actom,Wilec A Division of Action,+27,wilec,+27769505540,bafanak@wilec.co.za,Unit 6/9 City Deep Mini Park Cnr Heidelberg & Outspan Rd,,,City Deep Industrial Park.Jhb,Gauteng,N/A,Wilec A Division of Actom wilec +27769505540,
+2024-10-01 05:03:39.742384,2024-10-01 05:03:39.742462,Tectura Projects,Bedan Nyaga,+27,Tectura Projects,+27834123425,lordbedan@gmail.com,"Cnr 5th & Norvich Street,Sandton,Jhb",,,Johannesburg,Gauteng,N/A,Tectura Projects Tectura Projects +27834123425,
+2024-10-01 05:03:39.746058,2024-10-01 05:03:39.746131,Shirine ,Kemri wellcome Trust Research Programe,+254,Voller,+254714783915,shirinevoller@hotmail.com,"Mnarani Club Hotel,Mombasa-Malindi Highway,Kilifi",,,Kilifi,Coast,N/A,Shirine  Voller +254714783915,
+2024-10-01 05:03:39.749551,2024-10-01 05:03:39.749629,Yvonne ,University of Nairobi,+254,Onyango Oyieke,+254701460244,anyango.oyieke@gmail.com,"Thigiri Farm Rd,New Muthaiga,",,,Nairobi,Nairobi,N/A,Yvonne  Onyango Oyieke +254701460244,
+2024-10-01 05:03:39.756012,2024-10-01 05:03:39.756196,Sumi,E.T Nice  (pty) Ltd,+27,Govender,+27116150075,sumi@et.co.za,"128 KroonhofRd Meadowdale Eastrand,Po Box 40727",,,East Rand,Gauteng,N/A,Sumi Govender +27116150075,
+2024-10-01 05:03:39.759616,2024-10-01 05:03:39.759684,Tessa ,Erena Baber,+254,Baber,+27836818944,tessa@waterberg.net,"Ngara Park Rd TSS Filling Station,Nairobi",,,Nairobi,Nairobi,N/A,Tessa  Baber +27836818944,
+2024-10-01 05:03:39.761669,2024-10-01 05:03:39.761694,Nev,Nev davies,+254,Davies,+254722710086,chainev@hotmail.com,38 Bofa Rd Kilifi Box 1057,,,Kilifi,Coast,N/A,Nev Davies +254722710086,
+2024-10-01 05:03:39.767804,2024-10-01 05:03:39.767886,Ross,Ross G Field,+254,G Field,+254722898942,rosss@specialisedfibreglass.com,TSS Filling Station(Ngara Park Rd) Nairobi,,,Nairobi,Nairobi,N/A,Ross G Field +254722898942,
+2024-10-01 05:03:39.770343,2024-10-01 05:03:39.770405,Eliud ,Eliud Mugwe,+254,Mugwe,+254722924512,mugwe.eliud@gmail.com,TSS Filling Station(Ngara Park Rd) Nairobi,,,Nairobi,Nairobi,N/A,Eliud  Mugwe +254722924512,
+2024-10-01 05:03:39.773219,2024-10-01 05:03:39.773238,Sirikoi  Ltd,Sirikoi Ltd,+254,Sirikoi Ltd,"+254705135777
+",manager@sirikoi.com,Capitol Oil Filling station Ngara park Rd Nairobi,,,Nairobi,Nairobi,N/A,"Sirikoi  Ltd Sirikoi Ltd +254705135777
+",
+2024-10-01 05:03:39.774831,2024-10-01 05:03:39.774861,Natalie,Natalie Geleschun,+254,Geleschun,+254729434917,nuta22@gmail.com,Po Box47021 Nairobi,,,Nairobi,Nairobi,N/A,Natalie Geleschun +254729434917,
+2024-10-01 05:03:39.776678,2024-10-01 05:03:39.776710,Jane,Hygiene & Health Ltd,+254,Mangoa,+254722518566,nickmangoa@gmail.com,P O Box 40012-0506 Nyayo Stadium Nairobi,,,"Nyayo Stadium,Nairobi",Nairobi,N/A,Jane Mangoa +254722518566,
+2024-10-01 05:03:39.781938,2024-10-01 05:03:39.782020,Mak ,Northscape,+254,Glen,+254722756646,markglen@northscape.co.ke,Po Box 15283-00509Nairobi,,,Nairobi,Nairobi,N/A,Mak  Glen +254722756646,
+2024-10-01 05:03:39.784575,2024-10-01 05:03:39.784615,Sophie,Turnstar systems,+254,Kimani,+27843244102,sowakim@yahoo.com,Ngara Park Rd Capitol oil filling station,,,Nairobi,Nairobi,N/A,Sophie Kimani +27843244102,
+2024-10-01 05:03:39.789136,2024-10-01 05:03:39.789209,Muma & Kanjama Advocates,Muma & Kanjama Advocates,+254,Muma & Kanjama Advocates,+254701460244,mumamumalaw@yahoo.com,I&M Bank Hse 2nd  Ngong Avenue Upperhill Nairobi,,,Nairobi,Nairobi,N/A,Muma & Kanjama Advocates Muma & Kanjama Advocates +254701460244,
+2024-10-01 05:03:39.791485,2024-10-01 05:03:39.791534,Edward ,Edward Danby,+254,Danby,+254797940228,edward.danby@gmail.com,"Sukari Sugar Industries Ndhiwa,Homabay",,,Homabay,Homabay,N/A,Edward  Danby +254797940228,
+2024-10-01 05:03:39.794014,2024-10-01 05:03:39.794057,Les,Bible Way Baptist Union,+27,Roos,+27823724133,bibleway@baptistunion.org.za,Johannesburg Gauteng,,,Gauteng,Gauteng,N/A,Les Roos +27823724133,
+2024-10-01 05:03:39.795259,2024-10-01 05:03:39.795281,Greenhills Investments,Greenhills investments Ltd,+254,Shah,+254733513168,info@kingswaytryes.com,"Village Market,Gigiri,Nairobi,Kenya",,,Nairobi,Nairobi,N/A,Greenhills Investments Shah +254733513168,
+2024-10-01 05:03:39.797043,2024-10-01 05:03:39.797067,Caroline ,Caroline Wangari,+254,Wangari,+254722515322,wmurungu@gmail.com,"Ibis Valley Unit 26 Gem Lane,Kileleshwa",,,Nairobi,Nairobi,N/A,Caroline  Wangari +254722515322,
+2024-10-01 05:03:39.798789,2024-10-01 05:03:39.798820,Allen,Allen Mutahi,+254,Mutahi,+27734844036,allen.mutahi@gmail.com,Ngara Park Rd Capitol oil Filling station,,,Nairobi,Nairobi,N/A,Allen Mutahi +27734844036,
+2024-10-01 05:03:39.800512,2024-10-01 05:03:39.800540,Owen,Cello Electronics,+254,Evans,+254722609391,owen@celloelectronics.com,"Rumuruti,Laikipia",,,Laikipia,Laikipia,N/A,Owen Evans +254722609391,
+2024-10-01 05:03:39.802376,2024-10-01 05:03:39.802398,Dan ,Dan Onyango Maina,+254,Onyango,+254723404313,onyango.maina@gmail.com,Po Box 8172-0100,,,Nairobi,Nairobi,N/A,Dan  Onyango +254723404313,
+2024-10-01 05:03:39.804044,2024-10-01 05:03:39.804067,Maxin,OUT OF THIS WORLD,+27,Maxin,+27835849122,maxin@outofthisworld.co.za,Capetown Out of tgis world,,,Capetown,Western Cape,N/A,Maxin Maxin +27835849122,
+2024-10-01 05:03:39.805473,2024-10-01 05:03:39.805498,Foresight  Intetiors Ltd,Leuco Tool Industries (pty) Ltd,+27,Foresight Intetiors Ltd,+254724991656,mariamwaweru@foresightgroup.co.ke,Johannesburg,,,Kesington,Gauteng,N/A,Foresight  Intetiors Ltd Foresight Intetiors Ltd +254724991656,
+2024-10-01 05:03:39.807156,2024-10-01 05:03:39.807182,Vilkas Ltd,Vilkas Ltd,+254,Vilkas Ltd,+254734423414,arielresnick@yahoo.com,Ack Garden House3Rd FloorPo Box 21524,,,Nairobi,Nairobi,N/A,Vilkas Ltd Vilkas Ltd +254734423414,
+2024-10-01 05:03:39.808789,2024-10-01 05:03:39.808809,Mwareria ,Mwareria Gathenya,+254,Gathenya,+27718720292,jmuggo@gmail.com,Ngara Park Rd Capitol Oil filling station,,,Nairobi,Nairobi,N/A,Mwareria  Gathenya +27718720292,
+2024-10-01 05:03:39.810535,2024-10-01 05:03:39.810561,Dominic ,Dominic Karanja,+27,Karanja,+254736338595,mercy.mulinge@gmail.com,Po Box 11577 Hatfield Pretoria,,,Pretoria(Tshwane),Gauteng,N/A,Dominic  Karanja +254736338595,
+2024-10-01 05:03:39.812265,2024-10-01 05:03:39.812291,Munir ,Munir Kassam,+254,Kassam,+254716059138,info@maraedensafaricamp.com,Po Box 32272-00600 19 Munderendu Rd Langata,,,Langata,Nairobi,N/A,Munir  Kassam +254716059138,
+2024-10-01 05:03:39.816491,2024-10-01 05:03:39.816559,The Mugie Conservancy ltd,The Mugie Conservancy ltd,+27, Mugie Ranch,+254722385727,gm@mugie.org,Mugie Ranch Maralal Rd,,,Maralal,Maralal,N/A,The Mugie Conservancy ltd  Mugie Ranch +254722385727,
+2024-10-01 05:03:39.818578,2024-10-01 05:03:39.818610,Bardahl Africa,Bardahl Africa,+27,Bardahl Africa,+27845812884,j.hill@crownfinancial.co.za,"Bitline Premises,143 Springs Rd Denne Rd Brakpan",,,Brakpan,Gauteng,N/A,Bardahl Africa Bardahl Africa +27845812884,
+2024-10-01 05:03:39.820357,2024-10-01 05:03:39.820399,Talisman Restaurant,Talsman Restaurant  ltd,+254,ltd,+254720427333,ruth.wangechi@executiveoutsourcing.co.ke,"320 Ngong Road,Karen ,Nairobi,Kenya",,,Nairobi,Nairobi,N/A,Talisman Restaurant ltd +254720427333,
+2024-10-01 05:03:39.823612,2024-10-01 05:03:39.823695,Ben ,Ben Spins,+254,Spinks,+254702294243,bzspinks@gmail.com,Po Box 15416 Nakuru Kenya,,,Nakuru,Rift Valley,N/A,Ben  Spinks +254702294243,
+2024-10-01 05:03:39.826755,2024-10-01 05:03:39.826860,Louise,Turkana Basins,+254,Leakey,+254722528586,louiseleakey@gmail.com,Ngara Park Road Capitol Oil Filling Station ,,,Nairobi,Nairobi,N/A,Louise Leakey +254722528586,
+2024-10-01 05:03:39.831534,2024-10-01 05:03:39.831626,Abe Construction Services(pty)ltd,Abe Construction Chemicals (pty)ltd,+27,Abe construction chemicals(pty)ltd,+27113069000,www.abe.co.za,Po Box 5100 Boksburg North 101 Mainreef Rd ,,,Boksburg North,Gauteng,N/A,Abe Construction Services(pty)ltd Abe construction chemicals(pty)ltd +27113069000,
+2024-10-01 05:03:39.835500,2024-10-01 05:03:39.835578,Belgravia Services Ltd,Belgravia Services Ltd,+254,Belgravia services ltd,+254720728095,emajor@belgraviaservices.com,Po Box 5748 Dar er Salaam.1408 oyster Bay Guinea Street,,,Dar er Salaam ,Dar es Sallam,N/A,Belgravia Services Ltd Belgravia services ltd +254720728095,
+2024-10-01 05:03:39.839425,2024-10-01 05:03:39.839492,Aqua valley Srvices ltd,Aqua valley services ltd,+254,c/o Duncan,+27103500050,info@aquavalley.co.ke,Po Box 1647 Naivasha .Kenya,,,Naivasha,Rift valley,N/A,Aqua valley Srvices ltd c/o Duncan +27103500050,
+2024-10-01 05:03:39.842514,2024-10-01 05:03:39.842585,Jeremy,Afrcan Bell Tents,+254,Wyatt,+254704500050,jeremywyatt@gmail.com,"Po Box 15296,00509 Nairobi Kenya",,,Nairobi,Nairobi,N/A,Jeremy Wyatt +254704500050,
+2024-10-01 05:03:39.846054,2024-10-01 05:03:39.846170,Micheal ,Mister Potatoes Ltd,+254,Rattos,+254729285262,mrattos@yahoo.com,Po Box 47744 Nairobi Kenya,,,Nairobi ,Nairobi,N/A,Micheal  Rattos +254729285262,
+2024-10-01 05:03:39.854740,2024-10-01 05:03:39.854817,Tumaren Ltd,Tumaren Ltd,+254,Tumaren Ltd,+254711735100,julian@africanascents.com,Po Box1760 10400 Nanyuki,,,Nanyuki,Rift Valley,N/A,Tumaren Ltd Tumaren Ltd +254711735100,
+2024-10-01 05:03:39.859569,2024-10-01 05:03:39.859600,Sheila,Sheila Wanjogu Mutua ,+254,Wanjogu,+254728331504,sheilawanjogu@yahoo.com,Po Box 12148 00300 Nairobi ,,,Nairobi,Nairobi,N/A,Sheila Wanjogu +254728331504,
+2024-10-01 05:03:39.863181,2024-10-01 05:03:39.863266,Almasi ,Almasi Projects (pty)ltd,+27,Projects ,+27623776292,almasiprojects@gmail.com,"ERF 115 Corner Battelship Rd & Turn Rd Laser Park,Honeydew",,,Honeydew,Gauteng,N/A,Almasi  Projects  +27623776292,
+2024-10-01 05:03:39.866665,2024-10-01 05:03:39.866705,Herbal Zone Kenya,Herbal Zone Kenya ltd,+254,Herbal Zone Kenya,+254736067730,accounts@herbalzone.co.za,"Casa Acacia Apartments,George Pdmore Lane,across Bishop,Nairobi",,,Nairobi,Nairobi,N/A,Herbal Zone Kenya Herbal Zone Kenya +254736067730,
+2024-10-01 05:03:39.868884,2024-10-01 05:03:39.868926,Canvas bydesign ltd,Canvas bydesign,+254,Canvas bydesign ltd,+254720809892,accounts@bydesign.co.ke,po.BOX 15114-009509 Ndorobo Road off Mukoma road,,,Karen ,Nairobi,N/A,Canvas bydesign ltd Canvas bydesign ltd +254720809892,
+2024-10-01 05:03:39.870849,2024-10-01 05:03:39.870874,Arty Round-Turner,Sand Island Beach Cottages,+254,Arty Round-Turner,+27833055544,hughr@kutanagroup.co.za,"Po Box 5516,Diani Beach",,,Diani Beach,Coast,N/A,Arty Round-Turner Arty Round-Turner +27833055544,
+2024-10-01 05:03:39.872671,2024-10-01 05:03:39.872690,Esther,Esther Wambui,+254,Wambui,+254726073574,projects@valsa.co.za,Po Box 842-00208.Ngong Hills,,,Ngong,Nairobi,N/A,Esther Wambui +254726073574,
+2024-10-01 05:03:39.874334,2024-10-01 05:03:39.874358,Geo Solar ,George Weru,+254,Works,+2540000,gweru@solarworksealtd.co.ke,"Po Box 28546-00100,Saku Business park unit2North AirportRd",,,Nairobi,Nairobi,N/A,Geo Solar  Works +2540000,
+2024-10-01 05:03:39.875686,2024-10-01 05:03:39.875712,Sophie,Service off ltd,+254,Kinyua,+254722706272,sophie@therivercafekenya.com,P o Box 687-00100 Gpo Nairobi,,,Nairobi,Nairobi,N/A,Sophie Kinyua +254722706272,
+2024-10-01 05:03:39.877659,2024-10-01 05:03:39.877684,Edward,Ecocon Africa ltd,+254,Ghaui,+254729028572,edwardghaui@gmail.com,Po Box 1690 Nanyuki 10400 ,,,Nanyuki,Laikipia,N/A,Edward Ghaui +254729028572,
+2024-10-01 05:03:39.879829,2024-10-01 05:03:39.879872,Olive Tree,The Olive Tree Holdings,+254,Olive Tree,+254713074721,theolivetreehold@gmail.com,Po Box 15259-00609 Langata,,,Langata,Nairobi,N/A,Olive Tree Olive Tree +254713074721,
+2024-10-01 05:03:39.882307,2024-10-01 05:03:39.882354,Charles ,Diligent Interior,+254,Muturi,+254727291494,deligentinterior@gmail.com,Nairobi River Rd Seed House 1 Rm No405 21585-00100,,,Nairobi,Nairobi,N/A,Charles  Muturi +254727291494,
+2024-10-01 05:03:39.887175,2024-10-01 05:03:39.887251,Nicholas ,Canvas ByDesign,+254,Okoko,+254720809892,accounts@bydesign.co.ke,"Ndorobo Rd offMukoma Rd,Siajabu House Langata Nairobi",,,Langata,Nairobi,N/A,Nicholas  Okoko +254720809892,
+2024-10-01 05:03:39.890442,2024-10-01 05:03:39.890502,Duncan,Kutoka Ardhini ltd,+254,Adamson,+254721980818,info@aquavalley.co.ke,"Po Box 528-00502 Karen,Kenya",,,Karen,Nairobi,N/A,Duncan Adamson +254721980818,
+2024-10-01 05:03:39.892685,2024-10-01 05:03:39.892747,Michelle,Flamingo Hill Camps ltd,+254,Lane,+254723904885,michlane69@icloud.com,"Po Box 237-00502 Karen,Kenya",,,Karen,Nairobi,N/A,Michelle Lane +254723904885,
+2024-10-01 05:03:39.894815,2024-10-01 05:03:39.894854,Sasha,House of Treasure,+254,Horner,+254722522397,sasha@treasures.co.ke,Po Box 3027 Nanyuki Kenya,,,Nanyuki,Rift Valley,N/A,Sasha Horner +254722522397,
+2024-10-01 05:03:39.897627,2024-10-01 05:03:39.897667,Mona ,Mona Kareithi,+254,Kareithi,+254726258077,monakareithi@gmail.com,Po Box 3200-00100 Msanduku Lane Valley Arcade,,,Nairobi,Nairobi,N/A,Mona  Kareithi +254726258077,
+2024-10-01 05:03:39.899316,2024-10-01 05:03:39.899357,Gerard,Gerald Beaton,+254,Beaton,+254721486272,gerard@asiliaafrica.com,Ngara Capitol Oil Filling Station,,,Nairobi,Nairobi,N/A,Gerard Beaton +254721486272,
+2024-10-01 05:03:39.901976,2024-10-01 05:03:39.902013,RD,RD Roberts Ltd,+254,Roberts,+254723970929,richard@richardscamp.com,163 Koitobos Rd Hardy Karen,,,Karen,Nairobi,N/A,RD Roberts +254723970929,
+2024-10-01 05:03:39.903803,2024-10-01 05:03:39.903831,Simon,Simon Crompton,+254,Crompton,+254726607546,simon_crompton@mac.com,"Po Box 634 Kilifi Kenya,Takaungu Reach, Kilifi Plantation",,,Mombasa,Coast,N/A,Simon Crompton +254726607546,
+2024-10-01 05:03:39.905451,2024-10-01 05:03:39.905471,African Camp Solutions ltd,African Camp Solutions,+254,African Camp Solutions ltd,+254707734716,yvonne@africancampsolutions.co.ke,Po Box 1690-10400 Onestop opp Nanyuki Airstrip,,,Nanyuki,Laikipia,N/A,African Camp Solutions ltd African Camp Solutions ltd +254707734716,
+2024-10-01 05:03:39.908134,2024-10-01 05:03:39.908180,Samuel,Samuel Komu,+254,Komu,+254722522702,sam.komu@yahoo.com,"Po Box 21965-00100 Nairobi,Kenya",,,Nairobi,Nairobi,N/A,Samuel Komu +254722522702,
+2024-10-01 05:03:39.910584,2024-10-01 05:03:39.910642,Kalpana,Kalpana Gudhka,+254,Gudhka,+254722568611,kalpana.gudhka@gmail.com,"5th Parklands Avenue,Iregi Rd,Maisonette NoA",,,Parklands,Nairobi,N/A,Kalpana Gudhka +254722568611,
+2024-10-01 05:03:39.913114,2024-10-01 05:03:39.913154,Rene,Rene Benzinge,+254,Benzinge,+254722523511,rbenzinge@hotmail.com,"Chestnut Apartments,Kayahwe Rd,Kilimani",,,Kilimani,Nairobi,N/A,Rene Benzinge +254722523511,
+2024-10-01 05:03:39.915123,2024-10-01 05:03:39.915147,Leckan Ventures ltd,Leckan Ventures ltd,+254,Leckan Ventures ltd,+254723130148,Njaginephat@gmail.com,Po Box6555-00100 Nairobi,,,Nairobi,Nairobi,N/A,Leckan Ventures ltd Leckan Ventures ltd +254723130148,
+2024-10-01 05:03:39.917914,2024-10-01 05:03:39.917944,AVC Management Company Ltd,AVC Management Company Ltd,+254,AVC Managent Company Ltd,+27829234705,henkv@mnarani.net,"Po Box 80108,Mnarani Club ,Kilifi Kenya",,,Kilifi,Coast,N/A,AVC Management Company Ltd AVC Managent Company Ltd +27829234705,
+2024-10-01 05:03:39.920402,2024-10-01 05:03:39.920434,Tanya,Lagovista Ltd,+254,Carr-Hartley,+254733609862,tanyamikey@specialisedsafaris.com,55 Ndorbo Rd  Langata,,,Nairobi,Nairobi,N/A,Tanya Carr-Hartley +254733609862,
+2024-10-01 05:03:39.921812,2024-10-01 05:03:39.921837,Gilfrid ,Suyian Ranch Ltd,+254,Powys,+254722642822,gilfrid@suyian.com,Po Box 1449 Nanyuki 10400,,,Nanyuki,Laikipia,N/A,Gilfrid  Powys +254722642822,
+2024-10-01 05:03:39.923921,2024-10-01 05:03:39.923940,Sam,Sam Odupoi,+254,Odupoi,+27732208668,sleyian@gmail.com,Po Box 405 Narok,,,Narok,Rift Valley,N/A,Sam Odupoi +27732208668,
+2024-10-01 05:03:39.925836,2024-10-01 05:03:39.925855,Roger ,Driftwood Beach Club,+254,Sylvester,+254704492404,karla@captainandyskenya.com,Po Box 80202 Watamu ,,,Watamu,Coast,N/A,Roger  Sylvester +254704492404,
+2024-10-01 05:03:39.927170,2024-10-01 05:03:39.927188,Brandon,Recreation Africa Group of Companies,+27,Govander,+27742437103,purchasing@rali.co.za,Muldersdrift Estate 69 Drift Boulevard,,,Johannesburg,Gauteng,N/A,Brandon Govander +27742437103,
+2024-10-01 05:03:39.928936,2024-10-01 05:03:39.928965,Samson,Samson Ronoh,+27,Ronoh,+27834371283,ronoh@webmail.co.za,"296 Albert,Adamson Street.Garsfontein Pretoria",,,Pretoria,Gauteng,N/A,Samson Ronoh +27834371283,
+2024-10-01 05:03:39.931593,2024-10-01 05:03:39.931642,Maryanne,MaryAnne Kahuno,+254,Kahuno,+27614105195,m.kahuno@gmail.com,Po Box Plot 10 Gandhi Avenue Nairobi west 6202-00100,,,Nairobi west,Nairobi,N/A,Maryanne Kahuno +27614105195,
+2024-10-01 05:03:39.934409,2024-10-01 05:03:39.934456,Palkesh,Palkesh Shah,+254,Shah,+254721274858,doreen@spinknit.biz,"Po Box 39542-00623 Nairobi,Kenya",,,Nairobi,Nairobi,N/A,Palkesh Shah +254721274858,
+2024-10-01 05:03:39.936789,2024-10-01 05:03:39.936849,Hama ,Hama Munykwa,+254,Munyikwa,+254714922191,hama.munyikwa@gmail.com,1 West Park Mpaka Rd Westlands,,,Westlands,Nairobi,N/A,Hama  Munyikwa +254714922191,
+2024-10-01 05:03:39.939166,2024-10-01 05:03:39.939208,The ,The Safari collection Collection ltd,+254,Safari collection Ltd,+254733865610,accounts@the safaricollection.com,"Po Box  15565-00503  ,Langata,Nairobi",,,Lanagata,Nairobi,N/A,The  Safari collection Ltd +254733865610,
+2024-10-01 05:03:39.940650,2024-10-01 05:03:39.940684,Priscilla ,Priscilla Mhlaba,+254,Mhlaba,+254716914020,priscilla.mhlaba,19 Casa Ozone Denispritt Rd Kilimani,,,Kilimani,Nairobi,N/A,Priscilla  Mhlaba +254716914020,
+2024-10-01 05:03:39.942797,2024-10-01 05:03:39.942825,Christopher ,Christopher Stewart,+254,Stewart,+254735160012,chrisjmsrewart@gmail.com,Ngara Tss Filling Station,,,Nairobi,Nairobi,N/A,Christopher  Stewart +254735160012,
+2024-10-01 05:03:39.944952,2024-10-01 05:03:39.944987,Stuart ,Ausquest Kenya ltd,+254,Barden,+254703119444,sturtbarden70@gmail.com,Po Box 272-72-00100 Nairobi Kenya,,,Nairobi,Nairobi,N/A,Stuart  Barden +254703119444,
+2024-10-01 05:03:39.946816,2024-10-01 05:03:39.946848,Majiphonics Ltd,Majiponics Ltd,+254,c/o Max,+254713080306,armbrust.max@gmail.com,Po Box 14938-0800 Nairobi Kenya,,,Nairobi,Nairobi,N/A,Majiphonics Ltd c/o Max +254713080306,
+2024-10-01 05:03:39.948622,2024-10-01 05:03:39.948649,Klein ,Klein Karoo Seed Marketing,+27,Karoo,+27824516691,charlotte@seedmarketing.co.za,Po Box 159 Oudtshoorn,,,Oudtshoorn,Western Cape,N/A,Klein  Karoo +27824516691,
+2024-10-01 05:03:39.950276,2024-10-01 05:03:39.950306,Lattitude ltd,Lattitude ltd,+254,C/o Amory,+254721845779,amorymacleod@gmail.com,Po Box 333 Naro Moru,,,Naro Moru,Rift Valley,N/A,Lattitude ltd C/o Amory +254721845779,
+2024-10-01 05:03:39.954765,2024-10-01 05:03:39.954845,Elaine,Elaine Muthee,+254,Muthee,+27818110429,elainekeria@gmail.com,Unit 78 MatikaLifestyle Estate Capricon Rd Paulshof,,,Johannesburg,Gauteng,N/A,Elaine Muthee +27818110429,
+2024-10-01 05:03:39.957344,2024-10-01 05:03:39.957393,Herbal Zone pty ltd,Herbal Zone Pty Ltd,+27,c/o Nikki,+27219301915,info@herbalzone.co.za,Po Box 21240 Parrow 7499 Capetown,,,Capetown,Western Cape,4550243788,Herbal Zone pty ltd c/o Nikki +27219301915,
+2024-10-01 05:03:39.959196,2024-10-01 05:03:39.959217,Wikus,Wikus Roets,+254,Roets,+254723979546,wikus.roets@ke.multichoice.com,"9Resson Gardens,Cnr Langata & Silanga Rd Karen",,,Karen,Nairobi,N/A,Wikus Roets +254723979546,
+2024-10-01 05:03:39.962420,2024-10-01 05:03:39.962479,Laragai,Laragai Management Ltd,+254,Management ,+254722203108,laragai@borona.co.ke,Po  Box 137-10400 Nanyuki,,,Nanyuki,Laikipia ,N/A,Laragai Management  +254722203108,
+2024-10-01 05:03:39.964908,2024-10-01 05:03:39.964974,Musiara,Musiara Ltd,+254,Ltd,+254715813678,thor@governorscamp.com,Unit1 Nairobi Business Park Ngong Racecourse,,,Po Box 48217-0100 Nairobi,Nairobi,N/A,Musiara Ltd +254715813678,
+2024-10-01 05:03:39.967925,2024-10-01 05:03:39.967960,Ewaso,Ewaso Conservation Company,+254,Conservation ,+254722392989,operations@ewasolions.org,Po Box 14996-0800,,,Nairobi,Nairobi,N/A,Ewaso Conservation  +254722392989,
+2024-10-01 05:03:39.970586,2024-10-01 05:03:39.970631,Jamie,Jamie Manuel,+254,Manuel,+254719788128,jjmanwell85@gmail.com,Po Box  7477-20100 Nakuru,,,Nakuru,Rift Valley,N/A,Jamie Manuel +254719788128,
+2024-10-01 05:03:39.973009,2024-10-01 05:03:39.973043,Asilia,Asilia Kenya ltd,+254,Kenya Ltd,+254702926274,sospeter@asiliaafrica.com,"Po Box 25150-00603 Issac Gathanju Close,Lavington ",,,Lavington,Nairobi,N/A,Asilia Kenya Ltd +254702926274,
+2024-10-01 05:03:39.977198,2024-10-01 05:03:39.977251,Kovco,Almar Containers (East Africa) Ltd,+254,Kovco,+254719675272,toby@almar.co.ke,Po Box 41213-80100 Mombasa Rd ,,,Nairobi(Industrial area),Nairobi,N/A,Kovco Kovco +254719675272,
+2024-10-01 05:03:39.979179,2024-10-01 05:03:39.979204,Faith,Faith Ndunge  Misyo,+27,Ndunge,+27735741175,muskik@gmail.com,"27 Highgate,Fish Hoek 7975",,,Capetown,Western Cape,N/A,Faith Ndunge +27735741175,
+2024-10-01 05:03:39.981377,2024-10-01 05:03:39.981407,Jane,Mbaku Funeral Services Ltd,+254,Lamu,+254722751904,masuetex@yahoo.com,Po Box 7802-00300 Nairobi,,,Nairobi,Nairobi,N/A,Jane Lamu +254722751904,
+2024-10-01 05:03:39.983478,2024-10-01 05:03:39.983511,Bilisa ,Bilisa Haywood,+254,Wood,+254726642745,bilisa@olerai.co.ke,Po Box 414 -20500Narok ,,,Narok ,Narok County,N/A,Bilisa  Wood +254726642745,
+2024-10-01 05:03:39.986053,2024-10-01 05:03:39.986095,Jeremy,Crop Nutrition Ltd,+254,Cordingley,+254733604069,jeremy@cropnuts.com,Po Box 66437 Nairobi,,,Nairobi,Nairobi,N/A,Jeremy Cordingley +254733604069,
+2024-10-01 05:03:39.989635,2024-10-01 05:03:39.989701,Bruce,Bruce Roberts,+254,Roberts,+254704499462,bruce_roberts@btinternet.com,Po Box2445-00502 Nairobi,,,Nairobi,Nairobi,N/A,Bruce Roberts +254704499462,
+2024-10-01 05:03:39.998457,2024-10-01 05:03:39.998538,Tara,OL Donyo Farm Timau Ltd,+254,Llewelyn,+254792674681,tarallewelyn@gmail.com,Po Box 111-10400 Nanyuki,,,Nanyuki,Laikipia County,N/A,Tara Llewelyn +254792674681,
+2024-10-01 05:03:40.001587,2024-10-01 05:03:40.001636,Peter ,Peter Ruysenaars,+254,Ruysenaars,+254722295021,peterruysenaars@gmail.com,Po Box 86952-80100 Mombasa,,,Mombasa,Coast,N/A,Peter  Ruysenaars +254722295021,
+2024-10-01 05:03:40.006484,2024-10-01 05:03:40.006544,Blue,Blue Disa Trading 28cc,+27,Disa Trading 28cc,+254796409847,brooks.nairobi@gmail.com,12 Potgeiter Road,,,Midrand,Gauteng,N/A,Blue Disa Trading 28cc +254796409847,
+2024-10-01 05:03:40.022802,2024-10-01 05:03:40.022977,Coastal ,Coastal Chiropractic,+254,Chiropractic,+27823886078,robpalmer.chiro@gmail.com,Ngara ParK ROAD,,,Nairobi,Nairobi,A012123823Y,Coastal  Chiropractic +27823886078,
+2024-10-01 05:03:40.026564,2024-10-01 05:03:40.026613,Meg ,Meg Palmer,+254,Palmer,+27823886078,robpalmer.chiro@gmail.com,Ngara Park Road,,,Nairobi,Nairobi,N/A,Meg  Palmer +27823886078,
+2024-10-01 05:03:40.029482,2024-10-01 05:03:40.029500,Meg,Meg Palmer,+254,Palmer,+27823886078,robpalmer.chiro@gmail.com,Ngara Park Road,,,Nairobi,Nairobi,N/A,Meg Palmer +27823886078,
+2024-10-01 05:03:40.031668,2024-10-01 05:03:40.031716,Governers,Governers Camp,+254,Camp,+254202734000,pauline@classicsafariafrica.com,"1st Floor,Block A,Nairobi Business Park ,Ngong Rd Nairobi",,,Nairobi,Nairobi,N/A,Governers Camp +254202734000,
+2024-10-01 05:03:40.034571,2024-10-01 05:03:40.034619,Hussein,Northern Rangelands Trust,+254,Osman,+254725023811,osman.hussein@nrt-kenya.org,Nanyuk Road,,,Isiolo ,Mandera County,N/A,Hussein Osman +254725023811,
+2024-10-01 05:03:40.037807,2024-11-12 09:18:12.201839,East Coast Engineering Ltd,East Coast Engineering Ltd,+254,KRA PIN: P051354842B,+254720443588,rossanoricci@yahoo.com,Po Box 1235-8108 ,,,Kilifi,Coast,N/A,Rossano  Ricci +254720443588,
+2024-10-01 05:03:40.043119,2024-10-01 05:03:40.043207,East Coast Engineering Ltd,East Coast Engineering Ltd,+254,Rossano Ricci,+254720443588,rossanoricci@yahoo.com,Po Box 1235-8108 Kilifi,,,Kilifi,Coast,N/A,East Coast Engineering Ltd Rossano Ricci +254720443588,
+2024-10-01 05:03:40.047076,2024-10-01 05:03:40.047149,Angama ,Angama  Mara,+254,Mara,+254730630302,Alison.mitchell@angama.com,"Wilson  Business Park,Foxtrot 1st Floor Wilson Airport",,,"Off Langata Rd,Nairobi",Nairobi,N/A,Angama  Mara +254730630302,
+2024-10-01 05:03:40.050099,2024-10-01 05:03:40.050170,Sotic ,Sotic Botanical Blends & Co Ltd,+254,Botanical,+254702091700,the.studio.net@gmail.com,Unit A-1 Westlands,,,Nairobi,Nairobi,N/A,Sotic  Botanical +254702091700,
+2024-10-01 05:03:40.054376,2024-10-01 05:03:40.054445,woodoc,Woodoc Africa ltd,+27,Africa,+27824903461,harry@woodoc.com,22Barrat Road ,,,"Krugersdorp,Factoria",Gauteng,N/A,woodoc Africa +27824903461,
+2024-10-01 05:03:40.057483,2024-10-01 05:03:40.057564,Woodoc Africa ltd,Woodco Africa ltd,+27,Africa,+27824903461,harry@woodoc.com,22 Barrat Road Krugersdorp ,,,"Factoria,Krugersdorp",Gauteng,N/A,Woodoc Africa ltd Africa +27824903461,
+2024-10-01 05:03:40.060930,2024-10-01 05:03:40.061002,Luvit General Trading ltd,Luvit General Trading Ltd,+254,Luvit,+254705974597,sukhi@gmail.com,Po Box 66026-00800 Jirore Rd,,,Nairobi,Nairobi,N/APo51655293U,Luvit General Trading ltd Luvit +254705974597,
+2024-10-01 05:03:40.064809,2024-10-01 05:03:40.064873,Caroline,Caroline Gachanja,+254,Gacanja,+254722716297,carol.bachanja@timaflor.com,Po Box 41171-80100,,,Timau,Laikipia,N/A,Caroline Gacanja +254722716297,
+2024-10-01 05:03:40.068041,2024-10-01 05:03:40.068092,Lolomarik,Lolomarik Farm,+254,Farm,+254733641632,lomomarik@maraniafarm.com,Po Box 255-10406,,,Timau,Laikipia,N/A,Lolomarik Farm +254733641632,
+2024-10-01 05:03:40.070492,2024-10-01 05:03:40.070531,Square,Square Orange,+254,Orange,+27119545292,harry@woodoc.com,Jirore Rd off Enterprise Rd Industrial area,,,Nairobi,Nairobi,4240268930,Square Orange +27119545292,
+2024-10-01 05:03:40.072296,2024-10-01 05:03:40.072315,Rekara,Rekara Mills(pty)ltd,+254,Mills,+27119545292,natasja@woodoc.com,Jirore Rd off Enterprise Rd Industrial area,,,Nairobi,Nairobi,4850112501,Rekara Mills +27119545292,
+2024-10-01 05:03:40.073827,2024-10-01 05:03:40.073862,Richard,Tsavo Trust,+254,Moller,+254722203554,richard@tsavotrust.rg,Po Box 204 Mtito Andei 90128,,,Mtito Andei,Eastern ,N/A,Richard Moller +254722203554,
+2024-10-01 05:03:40.076102,2024-10-01 05:03:40.076126,Tsavo ,Richard Moller,+254,Trust,+254722203554,richard@tsavotrust.org,Po Box 204 Mtito Andei,,,Mtito Andei,Eastern ,N/A,Tsavo  Trust +254722203554,
+2024-10-01 05:03:40.077506,2024-10-01 05:03:40.077530,Nature's ,Nature Touch,+254,Touch,+254721175146,diacheng@gmail.com,Kitisuru Road ,,,Po Box 3158-00506,Nairobi,N/A,Nature's  Touch +254721175146,
+2024-10-01 05:03:40.079210,2024-10-01 05:03:40.079230,Lab Electronics Components(pty)ltd,Lab Electronics Components(pty)ltd,+27,Hammer,+27117928206,info@hammerenergizer.co.za,Po Box 44166 Linden,,,Randurg,Gauteng,4330107519,Lab Electronics Components(pty)ltd Hammer +27117928206,
+2024-10-01 05:03:40.081115,2024-10-01 05:03:40.081136,Almasi Projects(pty)ltd,Almasi Projects(pty)ltd,+27,Nephat Maina,+27623776292,almasiprojects@gmail.com,"1985 Tonnel Avenue,Fleurhof",,,Florida,Gauteng,4170281770,Almasi Projects(pty)ltd Nephat Maina +27623776292,
+2024-10-01 05:03:40.082743,2024-10-01 05:03:40.082763,Knights & Apps,Knights & Apps,+254,Romano,+27623776292,romano@knithsandapps.com,Jubelee Place Langata Rd opp CatholicUniversity,,,Langata ,Nairobi,N/A,Knights & Apps Romano +27623776292,
+2024-10-01 05:03:40.084738,2024-10-01 05:03:40.084765,Sun,Sun World Safaris,+254,World ,+254735164425,info@sunworlsafaris.com,Po Box 396094,,,"Nairobi ,Kenya",Nairobi,N/A,Sun World  +254735164425,
+2024-10-01 05:03:40.087194,2024-10-01 05:03:40.087242,Lewa ,Convervsancy,+254,Wild  conservancy,+254722850579,batian@51degreesltd.com,Po Box 30600,,,Isiolo ,Laikipia,4800186217,Lewa  Wild  conservancy +254722850579,
+2024-10-01 05:03:40.089613,2024-10-01 05:03:40.089651,Kwale Disrict Eye ,Kwale District Eye Centre,+254,Centre,+254722288544,eyeskwale@africaonline.co.ke,Po box 901,,,Mombasa,Coast,N/A,Kwale Disrict Eye  Centre +254722288544,
+2024-10-01 05:03:40.091589,2024-10-01 05:03:40.091621,Crop Nutriation,Crop Nutrition Laboratory,+254,Laboratory,+254720639933,mwihaki.ndungu@cropnuts.com,Mashiara Park Kaptagat Rd Loresho,,,Nairobi,Nairobi ,N/A,Crop Nutriation Laboratory +254720639933,
+2024-10-01 05:03:40.093845,2024-10-01 05:03:40.093874,Barend ,Laikipia Wilderness,+254,Lamprecht,+254701068321,barendjl@gmail.com,Po Box 815 Laikipia,,,Nanyuki,Laikipia,N/A,Barend  Lamprecht +254701068321,
+2024-10-01 05:03:40.095181,2024-10-01 05:03:40.095201,Lisa,Lisa Barratt,+254,Barratt,+254728812200,lisa.barratt.africa@gmail.com,Normad Fillings Station,,,Ngara,Ngara,N/A,Lisa Barratt +254728812200,
+2024-10-01 05:03:40.096773,2024-10-01 05:03:40.096792,Terrene,Terrenne Investment Company ltd,+254,Investment ltd,+254720704003,terrenegroup@gmail.com,Po Box 74414-00200,,,Nairobi,Nairobi,N/A,Terrene Investment ltd +254720704003,
+2024-10-01 05:03:40.098063,2024-10-01 05:03:40.098081,Sankale,Maji Moto Eco camp,+254,Ole Ntuntu,+254717469560,sankalekenya@gmail.com,Maji Moto Eco Camp,,,Narok ,Rift Valley,N/A,Sankale Ole Ntuntu +254717469560,
+2024-10-01 05:03:40.099536,2024-10-01 05:03:40.099554,Intersec,ltd,+254,Technical Kenya,+25420341300,intersectech@yahoo.com,Po Box  7744,,,"Nairobi,Kenya",Nairobi,N/A,Intersec Technical Kenya +25420341300,
+2024-10-01 05:03:40.103078,2024-10-01 05:03:40.103096,Northern,Africa ltd,+254,lites ltd,+254797738983,willy@ecosteelafrica.com,Po Box 1483-00502,,,"Nairobi,Keny",Nairobi,N/A,Northern lites ltd +254797738983,
+2024-10-01 05:03:40.104644,2024-10-01 05:03:40.104662,Danco,Danco Capital ltd,+254,Capital ltd,+254700555786,sales@dancocapital.co.ke,Po Box 46206-00100,,,"Nairobi,Kenya",Nairobi,N/A,Danco Capital ltd +254700555786,
+2024-10-01 05:03:40.106946,2024-10-01 05:03:40.106987,Rory,Rory Green,+254,Green ,+254705283877,rorygreen2017@gmail.com,Kilifi Bofa 41,,,Kilifi,Coast,N/A,Rory Green  +254705283877,
+2024-10-01 05:03:40.108726,2024-10-01 05:03:40.108757,;,Elewana Travel Ltd,+254,Elewana Travel ltd,+25472`849716,rachael.kinyua@elewana.com.kinyua,"1st Floor Lengai House Wilson Airport,Po  Box743-00517",,,"Uhuru Gardens ,Nairobi",Nairobi,N/A,; Elewana Travel ltd +25472`849716,
+2024-10-01 05:03:40.111182,2024-10-01 05:03:40.111215,Peter,Peter Karanja,+27,Karanja,+27849543833,peterkaranja@yahoo.com,"340 Vine Ferndale ,Randburg",,,Johannesburg,Gauteng,N/A,Peter Karanja +27849543833,
+2024-10-01 05:03:40.114157,2024-10-01 05:03:40.114224,Eunice,Eunice Misiani,+27,Misiani,+27828195555,eunice_misiani@yahoo.com,Po Box 92489,,,Norwood ,Gauteng,N/A,Eunice Misiani +27828195555,
+2024-10-01 05:03:40.115859,2024-10-01 05:03:40.115883,Benjamin,BenjaminJohn Simpson,+254,John Simpson,+254727992820,ben@tropicairkenya.com,Plot1/1 Daiga Ethi,,,Laikipia,Laikipia,N/A,Benjamin John Simpson +254727992820,
+2024-10-01 05:03:40.118779,2024-10-01 05:03:40.118839,Manda,Manda Conservation & Safaris ltd,+254,Conservation & Safaris ltd,"+254202115453,+254711481476",aacounts@mandabay.com,"Magadi Rd,Seminary Street,Po Box 24576-00502 Nairobi",,,Magadi Tenting Center,Nairobi,N/A,"Manda Conservation & Safaris ltd +254202115453,+254711481476",
+2024-10-01 05:03:40.121949,2024-10-01 05:03:40.121999,Botswana ,Botswana Consolidators Desert charm,+27,Consolidators Desert Charm,+27119740342,kitty@botcon.co.za,1 Van Acht Street Cnr Waterpas Street Isando Ext 3,,,Isando Po Box 783 Isando ,Gauteng,N/A,Botswana  Consolidators Desert Charm +27119740342,
+2024-10-01 05:03:40.124193,2024-10-01 05:03:40.124254,Cpower, Cpower Consulting ltd,+254, consulting ltd,+254721351498,afelixs@yahoo.com,Po Box 1633-00502,,,Nairobi,Nairobi,N/A,Cpower  consulting ltd +254721351498,
+2024-10-01 05:03:40.126614,2024-10-01 05:03:40.126670,Bomshell,Bomshell Traders ltd,+254,Traders,+254719339981,mufhaamid@gmail.com,Po Box 580-10101,,,Nairobi,Nairobi,N/A,Bomshell Traders +254719339981,
+2024-10-01 05:03:40.130165,2024-10-01 05:03:40.130231,Orion,Orion Hotels Ltd,+254,Hotels Ltd,+254726462838,admin@bushtopscamps.com,Po Box 10283-80101 Bamburi,,,"Bamburi ,Kenya",Coast ,N/A,Orion Hotels Ltd +254726462838,
+2024-10-01 05:03:40.132780,2024-10-01 05:03:40.132840,Sunbird,Sunbird Business Services Kenya ,+254,Business services Kenya,+255752158171,pghose@sunbirdgroup.co,Chiromo Road Westlands,,,Nairobi,Nairobi,N/A,Sunbird Business services Kenya +255752158171,
+2024-10-01 05:03:40.135965,2024-10-01 05:03:40.136040,Kitengela ,Kitengela Hot Glass ltd,+27,Hot Glass Ltd,+254722523284,office@kitengela.com,Po Box 349-00502,,,Kitengela,Nairobi,N/A,Kitengela  Hot Glass Ltd +254722523284,
+2024-10-01 05:03:40.138689,2024-10-01 05:03:40.138741,Jamie,Jamie Hendriksen,+254,Hendriksen,+254711761308,jamie@wildlifeworks.com,Rukinga Ranch,,,310 -80300 Voi,Coast ,N/A,Jamie Hendriksen +254711761308,
+2024-10-01 05:03:40.141432,2024-10-01 05:03:40.141497,valsa,Valsa Trading (pty)ltd,+27,Trading,+27823582903,svilen@valsa.co.za,"Erf 115,Laserpark,Honeydew",,,Corner BattleshipRd & Boat Rd ,Gauteng,N/A,valsa Trading +27823582903,
+2024-10-01 05:03:40.144357,2024-10-01 05:03:40.144426,Vibe,Vibe Nairobi ltd,+254,Nairobi ltd,+254700927767,kennedy@vibenairobi.co.ke,Karen Plains Rd,,,Karen Plains 24594-00502,Nairobi,N/A,Vibe Nairobi ltd +254700927767,
+2024-10-01 05:03:40.146186,2024-10-01 05:03:40.146205,Enchoro,Enchoro Shamba Ltd,+254,Shamba ltd,+254707116083,enchoro1@gmail.com,Po Box 194-60300,,,Isiolo,Laikipia,N/A,Enchoro Shamba ltd +254707116083,
+2024-10-01 05:03:40.148134,2024-10-01 05:03:40.148156,Esther,Esther Ndegwa,+27,Ndegwa,+27724980665,estherndegwa@gmail.com,15David Street Sandown,,,Sandton,Gauteng,N/A,Esther Ndegwa +27724980665,
+2024-10-01 05:03:40.149758,2024-10-01 05:03:40.149787,Stanfajoy,Clement Murimi,+254,Co ltd,+254720411811,clement.murimi@gmail.com,Po Box 20497-00100,,,Nairobi,Nairobi,N/A,Stanfajoy Co ltd +254720411811,
+2024-10-01 05:03:40.151177,2024-10-01 05:03:40.151207,Jonathan,Jonathan Bastard,+254,Bastard,+254724029652,j@matalai.co,Ngara Park rd ,,,Nairobi,Nairobi,N/A,Jonathan Bastard +254724029652,
+2024-10-01 05:03:40.162276,2024-10-01 05:03:40.162345,Malkia,Ricardo Retto,+27,Africa ltd,+34669468464,ricardo.retto@eastafricacamps.com,Monrovia Street,,,Runda,Nairobi,N/A,Malkia Africa ltd +34669468464,
+2024-10-01 05:03:40.164488,2024-10-01 05:03:40.164513,Northern,Northern Rangelands Trust,+254,Ragelands Trust,+254725023811,osman.hussein@nrt-kenya.org,Priavte Bag Isiolo 60300,,,Isiolo,Laikipia,N/A,Northern Ragelands Trust +254725023811,
+2024-10-01 05:03:40.166686,2024-10-01 05:03:40.166713,Pro,Pro Baggage Services CC,+27,Baggage services Cc,+27115523517,laylin@nickelfreight.com,6-284 Doedar Street Pomona ,,,Kempton park,Gauteng,4520248867,Pro Baggage services Cc +27115523517,
+2024-10-01 05:03:40.174444,2024-10-01 05:03:40.174520,Gospel of God,Gospel of God Church,+27,Church,+27710400346,bjmpofo@gmail.com,1018 Millar bRoad,,,Vereeining,Gauteng,N/A,Gospel of God Church +27710400346,
+2024-10-01 05:03:40.178307,2024-10-01 05:03:40.178369,Solar ,Loice Kanyingi,+254,Works,+254712070760,procure@solarworksealtd.co.ke,North Airport Road off Mambasa Road,,,"Nairbi,Po Box 28546-00100","Nairobi Saku Business Park ,unit No.2",N/A,Solar  Works +254712070760,
+2024-10-01 05:03:40.180606,2024-10-01 05:03:40.180629,Happy ,Happy Occassions,+254,Occassions,+254720361717,antonumwangi60@gmail.com,"Jogoo Road,Makongeni,Po Box 48339-00100",,,Nairobi(Rikana Shopping Centre),Nairobi,N/A,Happy  Occassions +254720361717,
+2024-10-01 05:03:40.182541,2024-10-01 05:03:40.182594,Alex ,Alex Hunter,+254,Hunter,+254721242361,alex@alexhuntersafaris.com,Park Road,,,Ngara,Nairobi,N/A,Alex  Hunter +254721242361,
+2024-10-01 05:03:40.184323,2024-10-01 05:03:40.184350,Rajesh,Rajesh Maini,+27,Maini,+254716481767,rajseh.maini@skyhealtcareltd.com,Po Box 40142,,,Nairobi,Nairobi,N/A,Rajesh Maini +254716481767,
+2024-10-01 05:03:40.186071,2024-10-01 05:03:40.186089,Dr Patrick,Dr Patrick Avery,+27,Avery,+447739323831,doctoravery@yahoo.com,"2 Midgell Cottages,Brockley way,Bristol BS48 4AG",,,Bristol ,Brockley way,N/A,Dr Patrick Avery +447739323831,
+2024-10-01 05:03:40.188406,2024-10-01 05:03:40.188438,Paul,Paul Denton Robin,+27,Denton,+27825585536,realdenton@gmail.com,"117 Strand Street,Crystal park",,,Benoni,Gauteng,N/A,Paul Denton +27825585536,
+2024-10-01 05:03:40.191095,2024-10-01 05:03:40.191169,Bruce,Bruce Buckland ,+254,Buckland ,+254704492404,karla@captainandyskenya.com,"Malindi ,Kilifi",,,Malindi ,Coast ,N/A,Bruce Buckland  +254704492404,
+2024-10-01 05:03:40.193425,2024-10-01 05:03:40.193470,Peter,Peter Njenga ,+27,Njenga,+27769848082,peter.njenga@kenaconsult.com,"R37 Ruimsig Crescent,Woodhill",,,Pretoria,Gauteng,N/A,Peter Njenga +27769848082,
+2024-10-01 05:03:40.195778,2024-10-01 05:03:40.195810,Evy,Evy Van Weezendonk,+254,Van Weezendonk,+254727523244,evy.vanweezendonk@gmail.com,15 Mbagathi Ridge,,,Karen,Nairobi,N/A,Evy Van Weezendonk +254727523244,
+2024-10-01 05:03:40.197514,2024-10-01 05:03:40.197541,Lafritopia,Lafritopia ltd,+254,ltd,+254736156516,lafritopia@gmail.com,Po  Box 624-00621,,,Naiobi,Nairobi,N/A,Lafritopia ltd +254736156516,
+2024-10-01 05:03:40.198774,2024-10-01 05:03:40.198794,John ,John Grobbelaar ,+254,Grobbelaar,+27823171649,john@stragencies.com,Park Road ,,,Ngara,Nairobi,N/A,John  Grobbelaar +27823171649,
+2024-10-01 05:03:40.201818,2024-10-01 05:03:40.201894,Simba,Simba Corporation Ltd,+254,Corporation ltd,+27824130373,capeex2@gmail.com,Po Box 4829-00100 Nairobi ,,,Nairobi,Nairobi,N/A,Simba Corporation ltd +27824130373,
+2024-10-01 05:03:40.205592,2024-10-01 05:03:40.205672,Mars,Mars Manufacturing,+27,Manufacturing,+27828321282,sales@coatings.co.za,"20 Bulman Road ,mkondeni Po Box 32 ",,,Pieteemaritzburg,Kwa Zulu Natal,N/A,Mars Manufacturing +27828321282,
+2024-10-01 05:03:40.212675,2024-10-01 05:03:40.212743,Adele,Adele Forsyth,+27,Forsyth,+27844842185,procurement@rali.co.za,69 Drift Boulevard,,,Muldersdrift Carnival,Gauteng,N/A,Adele Forsyth +27844842185,
+2024-10-01 05:03:40.215238,2024-10-01 05:03:40.215273,STR,STR Agencies(pty)ltd,+27,Agencies(pty)ltd,+27823171649,john@stragencies.com,"9 spurrier Road,Ardbennie",,,Gauteng,Johannesburg,N/A,STR Agencies(pty)ltd +27823171649,
+2024-10-01 05:03:40.217964,2024-10-01 05:03:40.218017,Organo,Organo Nairobi Ltd,+254,Nairobi ltd,+27117942261,michelle.cuppan@organogold.com,Po Box 24615-00502,,,Nairobi ,Nairobi,N/A,Organo Nairobi ltd +27117942261,
+2024-10-01 05:03:40.219523,2024-10-01 05:03:40.219549,Transeast Group,Transeast Group,+254, C/o Crisspin Sassoon,+25470700853,ramadhan.fakih@transeastgroup.com,Po Box 85531-80100,,,Mombasa,Coast ,N/A,Transeast Group  C/o Crisspin Sassoon +25470700853,
+2024-10-01 05:03:40.221656,2024-10-01 05:03:40.221692,Benita,Benita Genis,+254,Genis,+254731316263,benitgenis@gmail.com,Hardy Lion Hut  Gardens-unit2,,,Karen,Nairobi,N/A,Benita Genis +254731316263,
+2024-10-01 05:03:40.224176,2024-10-01 05:03:40.224236,Max ,Max Van Wageningen,+254,Van Wageningen,+254733575767,max@cocoon.co.ke,Po Box 63716 Nairobi,,,Nairobi,Nairobi,N/A,Max  Van Wageningen +254733575767,
+2024-10-01 05:03:40.225889,2024-10-01 05:03:40.225922,RO,RO Water Equipments,+254,Water,+254711222524,mike@governersballoonsafaris.com,"1st floor,BlockA Nairobi Business park,Ngong Road",,,Nairobi,Nairobi,N/A,RO Water +254711222524,
+2024-10-01 05:03:40.228153,2024-10-01 05:03:40.228195,Aero,Aero Club of East Africa,+254,Club of East Afrca,+254725329540,accounts@aeroclubea.com,Po Box 40813-00100,,,Nairobi,nairobi,N/A,Aero Club of East Afrca +254725329540,
+2024-10-01 05:03:40.230692,2024-10-01 05:03:40.230757,Mr Jason,Mr Jason Brown,+27,Brown,+27685369576,jaybrown51@hotmail.com,"7 Top of the Hill,Sunningdale",,,Durban,Kwa Zulu Natal,N/A,Mr Jason Brown +27685369576,
+2024-10-01 05:03:40.236889,2024-10-01 05:03:40.236969,Johan,Johan Smith,+254,Smith,+254737282303,johansm1965@gmail.com,Park Road ,,,Ngara,Nairobi,N/A,Johan Smith +254737282303,
+2024-10-01 05:03:40.241260,2024-10-01 05:03:40.241340,Irene ,Irene Ayuma,+27,Ayuma,+26876060145,ire1bill@gmail.com,Tubungu Township Ploat 674 Matsahpa ,,,Mansini,Eswatini Swaziland,N/A,Irene  Ayuma +26876060145,
+2024-10-01 05:03:40.245619,2024-10-01 05:03:40.245678,Stanley,Stanley Son Limited,+254,Son Limeted,+254722833277,robinofulu@gmail.com,Po Box 18889-00500,,,Nairobi,Nairobi,PIN:Poo608443y,Stanley Son Limeted +254722833277,
+2024-10-01 05:03:40.249425,2024-10-01 05:03:40.249479,Kalika,Kalika Sahi Ruparelia,+254,Sahi ,+254721300210,kalika@ruparelia.co.ke,Po Box 46157-00100,,,Nairobi,Nairobi,N/A,Kalika Sahi  +254721300210,
+2024-10-01 05:03:40.252172,2024-10-01 05:03:40.252241,Asilia,Asilia Lodges & Camps(pty)ltd,+27,Lodges & Camps(pty)ltd,+27214180468,nastassja@asiliaafrica.com,Suite 3 1ST Floor waterview park,,,Water close Century city Capetown,Wetsern Province,4420261234,Asilia Lodges & Camps(pty)ltd +27214180468,
+2024-10-01 05:03:40.255192,2024-10-01 05:03:40.255211,Lifestyle,Lifestyle Junction (pty)ltd,+254,Junction(pty)ltd,+27720198123,ronny@thelsj.com,One Hydepark 4 Hurlingham Road,,,Johannesburg,Gauteng,N/A,Lifestyle Junction(pty)ltd +27720198123,
+2024-10-01 05:03:40.257781,2024-10-01 05:03:40.257831,Chembros ,Chembros Chemicals ltd,+27,Chembros ,+272141880173,ops@jjchembros.co.za,Megawatt Road,,,Aeroport Spartan ,Gauteng ,N/A,Chembros  Chembros  +272141880173,
+2024-10-01 05:03:40.260507,2024-10-01 05:03:40.260556,Kennedy,Kennedy Shmekha,+254,Shimekha,+27795156807,kennedy.shimekha@gmail.com,No40  Niven Avenue.Douglasdale,,,Sandton,Gauteng,N/A,Kennedy Shimekha +27795156807,
+2024-10-01 05:03:40.263040,2024-10-01 05:03:40.263081,Everett ,Everett aviation Charter Ltd,+254,Aviation Charter ltd,+254720201015,finance@everettaviation.com,Po Box 10528-80101,,,Mombasa ,Coast,N/A,Everett  Aviation Charter ltd +254720201015,
+2024-10-01 05:03:40.265251,2024-10-01 05:03:40.265292,Anton,Anton Marais,+254,Marais,+254792752526,antonmarais@standardbank.co.za,Ngara Park Road .Normad Filling Station Ngara,,,Ngara,Nairobi,N/A,Anton Marais +254792752526,
+2024-10-01 05:03:40.268133,2024-10-01 05:03:40.268219,Kingsway,Kingsway Tyres ltd,+254,Tyres ltd,+254733699504,esther.wangui@kingswaytyres.com,"Kingsway House,University way Po box 11324-00400",,,Nairobi,Nairobi,N/A,Kingsway Tyres ltd +254733699504,
+2024-10-01 05:03:40.270439,2024-10-01 05:03:40.270472,Yalusi,Yalusi Tractor Hire Services,+254,Tractor Hire services ,+27820643550,henrynato@haypp.com,Po Box 957 Webuye,,,Webuye,Western Province,N/A,Yalusi Tractor Hire services  +27820643550,
+2024-10-01 05:03:40.272914,2024-10-01 05:03:40.272974,S Van,Svan der kolk,+27,Der Kolk,+27110296224,smvdk@xsinet.co.za,"No:1136 Albertina Sisulu Road,Bezuidenhout valley",,,Johannesburg,Gauteng,N/A,S Van Der Kolk +27110296224,
+2024-10-01 05:03:40.275508,2024-10-01 05:03:40.275554,Chrome,Chrome Cargo,+27,Cargo,+27823695160,admin@chromegroup.co.za,199 Kemstom Avenue,,,Benoni Po Box 5098,Gauteng,N/A,Chrome Cargo +27823695160,
+2024-10-01 05:03:40.278704,2024-10-01 05:03:40.278762,Hygrotech,Hygrotech East Africa ltd,+254,East Africa ltd,+254722205148,fiona.mbai@hygrotech.co.ke,Po Box 41446-00100,,,Nairobi Kenya,Nairobi,N/A,Hygrotech East Africa ltd +254722205148,
+2024-10-01 05:03:40.281661,2024-10-01 05:03:40.281699,Daniel ,Daniel Harriesburg,+27,Harriesberg,+27723789396,harrisbergd@gmail.com,"No1136 Albertina Sisulu Road,Bwzuidenhout valley",,,Johannesburg,Gauteng,N/A,Daniel  Harriesberg +27723789396,
+2024-10-01 05:03:40.284454,2024-10-01 05:03:40.284516,Nature,Nature Systems Kenya ltd,+254,Systems kenya Ltd,+254719884810,chhris@naturesystems.org,Po Box 15906-00509,,,Nairobi,Nairobi,N/A,Nature Systems kenya Ltd +254719884810,
+2024-10-01 05:03:40.286123,2024-10-01 05:03:40.286164,Daniel ,Daniel Harriesburg,+27,Harriesberg,+27723787396,harrisbergd@gmail.com,No1136 Albertina Sisulu Road ,,,Johannesburg,Gauteng,N/A,Daniel  Harriesberg +27723787396,
+2024-10-01 05:03:40.288998,2024-10-01 05:03:40.289050,The Tribe ,The Tribe Hotel,+254,Hotel,+254207122488,mwangi@villagemarket-kenya.com,Po Box 1333-00621,,,Limuru Road,Nairobi,N/A,The Tribe  Hotel +254207122488,
+2024-10-01 05:03:40.291317,2024-10-01 05:03:40.291403,Sacoken ,Sacoken Hauliers (pty)ltd,+254,Hauliers(pty)ltd,+254725221800,1136.masafalogstics@gmail.com,Po box 237-00200 Ngara Park Road Nomad Filling Station,,,Nairobi,Nairobi,N/A,Sacoken  Hauliers(pty)ltd +254725221800,
+2024-10-01 05:03:40.293747,2024-10-01 05:03:40.293786,Edward,Edward Kihara,+27,Kihara,+27832616182,engineerek@hotmail.com,81 Wild Olive Manor,,,"Olivedale ,Randburg",Gauteng ,N/A,Edward Kihara +27832616182,
+2024-10-01 05:03:40.296327,2024-10-01 05:03:40.296366,William,Lolomarik farm,+254,Rous,+254798213206,williamrous@gmail.com,"Lolomarik Farm,Bee Cottage",,,Timau,Meru,N/A,William Rous +254798213206,
+2024-10-01 05:03:40.299619,2024-10-01 05:03:40.299678,Blue ,Blue Oryx Safaris ltd,+254,Oryx Safaris Ltd,+254711104716,stormandrob@gmail.com,Po Box 388  Nanyuki 10400,,,Nanyuki,Laikipia,N/A,Blue  Oryx Safaris Ltd +254711104716,
+2024-10-01 05:03:40.302771,2024-10-01 05:03:40.302839,ol Jogi,Ol Jogi Ltd,+254,ltd,+254715805582,jgec@mac.com,Po Box 259-10400 Nanyuki,,,Nanyuki,Laikipia,N/A,ol Jogi ltd +254715805582,
+2024-10-01 05:03:40.306220,2024-10-01 05:03:40.306290,Mariah,Mariah Wanjiru Gicuki,+27,Wanjiru Gicuki,+27827714243,wanjigichuki@yahoo.com,No:26 Hugo Naude Street ,,,Montogemery Park,Gauteng ,N/A,Mariah Wanjiru Gicuki +27827714243,
+2024-10-01 05:03:40.309909,2025-02-12 13:34:08.129647,Mr Selwyn,Selwyn Pogir,+27,Pogir,+27114541304,selwyn@pogir.co.za,Block A Ground Floor St Andrews Office Park 39Wordsworth Avenue,,,Bedfordview Johannesburg,Gauteng,N/A,Selwyn Pogir +27114541304,
+2024-10-01 05:03:40.312266,2024-10-01 05:03:40.312301,Heath,Heath Ltd,+254,ltd,+254719432565,justin@yoyalafrican.com,Po Box 63493-00619,,,Nairobi,Nairobi,N/A,Heath ltd +254719432565,
+2024-10-01 05:03:40.314382,2024-10-01 05:03:40.314409,Infinity ,Infinity Baisikeli Shop,+27,Baisikeli Shop,+254710919595,poochetty1@gmail.com,Po Box 22795-00505,,,Nairobi,Nairobi,N/A,Infinity  Baisikeli Shop +254710919595,
+2024-10-01 05:03:40.316890,2024-10-01 05:03:40.316925,Homeland,Homeland Events,+254,Events,+27730119530,njengajoe530@gmail.com,Po Box 87 kisumu,,,Kisumu,Western,N/A,Homeland Events +27730119530,
+2024-10-01 05:03:40.325014,2024-10-01 05:03:40.325062,Masafa,Masafa Logistics(pty)ltd,+27,Logistics,+27114700702,1136.masafalogistics@gmail.com,No1136 Albertina Sisulu Road Bezuidenhout Valley,,,Johannesburg,Gauteng,N/A,Masafa Logistics +27114700702,
+2024-10-01 05:03:40.328999,2024-10-01 05:03:40.329080,Luco Grill &,Luco Grill& Catering Services,+254,Catering Services,+254705619573,luisenriquetellez@gmail.com,Mitini 6Mitini1 Estate,,,Nairobi ,Nairobi,N/A,Luco Grill & Catering Services +254705619573,
+2024-10-01 05:03:40.332633,2024-10-01 05:03:40.332689,Stanislaw,Stanislaw Trzebinski Studios(pty)ltd,+27,Trzebinski studios(pty)ltd,+27796487909,admin@stanislawtrzebinski.com,170 Albert Road Woodstock Foundry,,,Capetown,Western Cape,N/A,Stanislaw Trzebinski studios(pty)ltd +27796487909,
+2024-10-01 05:03:40.334632,2024-10-01 05:03:40.334659,Allan,Kupenda Africa,+254,Brooks,+27716735332,brooks.nairobi@gmail.com,Chillipepper Farm Kuenia Road,,,Po Box 16042-00509,Nairobi,N/A,Allan Brooks +27716735332,
+2024-10-01 05:03:40.336159,2024-10-01 05:03:40.336178,Nemtek,Nemtek Ltd,+27,ltd,+27115689449,gerhardt.gouws@nemtek.co.za,"stand 251,Aintree Avenue",,,"Northriding,Randburg",Gauteng,N/A,Nemtek ltd +27115689449,
+2024-10-01 05:03:40.337684,2024-10-01 05:03:40.337703,Happy,"Happy Church,Ruiru",+254,Church,+254721895977,psthoseawamuyu@gmail.com,Toll-station-Church avenue,,,Ruiru,Kiambu County,N/A,Happy Church +254721895977,
+2024-10-01 05:03:40.339752,2024-10-01 05:03:40.339776,Peter,Peter Beckmann,+254,Beckmann,+254708991003,peterbeckmann@gmail.com,Po Box 180-00621,,,Rossylyn Green,Nairobi,N/A,Peter Beckmann +254708991003,
+2024-10-01 05:03:40.340993,2024-10-01 05:03:40.341021,Oceantribe,Oceantribe kenya,+254,kenya,+254700934854,mark.slingo@oceantribe.co,"Ngara Park Road,Nomad Filling Station",,,Nairobi,Nairobi,N/A,Oceantribe kenya +254700934854,
+2024-10-01 05:03:40.342634,2024-10-01 05:03:40.342654,Karla,Karla Bunting,+254,Bunting,+254704492404,karla@captainandyskenya.com,Watamu,,,Malindi,Coast,N/A,Karla Bunting +254704492404,
+2024-10-01 05:03:40.345798,2024-10-01 05:03:40.345831,Collins,Collins Mursoi,+27,Mursoi,+27653971690,mursoic@gmail.com,"152 Louis Botha Avenue,",,,6 Street John Lane Houghton Estate;Johannesburg,Gauteng,N/A,Collins Mursoi +27653971690,
+2024-10-01 05:03:40.347324,2024-10-01 05:03:40.347347,Peter,Peter Becker,+254,Barker,+254740103609,peter.barker3@gmail.com,Ngara Park Road ,,, Nairobi,Nairobi,N/A,Peter Barker +254740103609,
+2024-10-01 05:03:40.348776,2024-10-01 05:03:40.348796,Planning,Planning Interiors (Dancb-Pia),+254,Interiors ltd(DANCB-PIA),+254719869344,alex@planninginteriors.com,Roshanmaer palce Lenana Road,,,Nairobi,Nairobi,N/A,Planning Interiors ltd(DANCB-PIA) +254719869344,
+2024-10-01 05:03:40.350099,2024-10-01 05:03:40.350117,Hawkvision,Hawkvision Technologies ltd,+254,Technologies ltd,+254722899935,kevogb@gmail.com,White Ash  Shopping Complex off Munyu Road Luthuli,,,Nairobi,Nairobi,N/A,Hawkvision Technologies ltd +254722899935,
+2024-10-01 05:03:40.353308,2024-10-01 05:03:40.353379,Living Life,Living Life Concept Design,+254,Concept Design,+254712764798,indigopeople.dedign@icloud.com,Plot 32 Vipingo Beach Estate,,,Vipingo Mombasa Po Box 104840,Mombasa,N/A,Living Life Concept Design +254712764798,
+2024-10-01 05:03:40.355733,2024-10-01 05:03:40.355800,Saltys,Saltys ltd(pty)ltd,+254,ltd,+254704361744,saltys.office@gmail.com,Po Box 88441-80100,,,Mombasa,Coast,N/A,Saltys ltd +254704361744,
+2024-10-01 05:03:40.358324,2024-10-01 05:03:40.358377,Golden ,Golden Key Casino ltd,+254,Key Casino ltd,+254722552888,angeline.muthoni@tamarind.co.ke,Po Box 33-80100,,,Mombasa,Coast,N/A,Golden  Key Casino ltd +254722552888,
+2024-10-01 05:03:40.360628,2024-10-01 05:03:40.360677,Michael ,Michael Black,+27,Black,+254790650720,mike.Black@flydoc.org,"50 Outspan,Sunset Acres ,6 Dekaap Sandton",,,Sandon,Gauteng,N/A,Michael  Black +254790650720,
+2024-10-01 05:03:40.367077,2024-10-01 05:03:40.367329,OIA,OIA Global(pty)ltd,+27,Global(pty)ltd,+27634371889,khanya.mlonyeni@oiaglobal.com,"The link,173 Oxford Road ",,,Johannesburg,Gauteng,N/A,OIA Global(pty)ltd +27634371889,
+2024-10-01 05:03:40.372373,2024-10-01 05:03:40.372429,Flamingoo,Flamingoo Foods Company ltd,+254,Foods company ltd,+254711595716,adrian@flamingoofoods.com,Po Box 407,,,Mpanda,Mpanda,N/A,Flamingoo Foods company ltd +254711595716,
+2024-10-01 05:03:40.384287,2024-10-01 05:03:40.384346,Location,Location Africa Films ltd,+254,Africa films ltd,+254724926571,africafilms@africaonline.co.za,Po Box 76677-00508 Nairobi,,,Nairobi,Nairobi,N/A,Location Africa films ltd +254724926571,
+2024-10-01 05:03:40.389277,2024-10-01 05:03:40.389335,Kenya,Kenya Biologics ltd,+254,Biologics ltd,+254717297023,alice@uneekkenya.com,Punda Milia Rd off Sagana Rd,,,Makuyu,Muranga,N/A,Kenya Biologics ltd +254717297023,
+2024-10-03 10:50:31.958372,2024-10-03 10:50:31.958414,Greg,Taltec,+27,Talbot,+27824583800,brnphiri2@gmail.com,7 Theuns Mulder Street,Brits,South Africa,Brits,Gauteng,Pvt,Greg Talbot +27824583800,4
+2024-10-09 10:03:16.439570,2024-10-09 10:03:16.439610,Mnarani,Mnarani Beach Club,+27,Beach Club,012491108,gerdadk@vrs-services.co.za,Ngara Park Road,Ngara,South Africa,Nairobi,Gauteng,Pvt,Mnarani Beach Club 012491108,4
+2024-10-09 10:39:55.546897,2024-10-09 10:39:55.546960,Isaac,Test,+254,Kiiru,0712474242,hwood6042@gmail.com,,,,,,,Isaac Kiiru 0712474242,1
+2024-10-11 09:39:07.109805,2024-10-11 09:39:07.109853,Noman,Nyali Canvas,+254,Kitonga,+254722268693,directors@nyalicanvas.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,Pvt,Noman Kitonga +254722268693,4
+2024-10-14 10:34:14.915070,2024-12-17 06:10:47.265556,Janet,Woman and the world,+254,Woman and the world,0115951740,,,,,,,,Janet Woman and the world 0115851740,2
+2024-10-21 09:33:49.941729,2024-10-21 09:33:49.941783,Chrispin,Pvt,+254,Sassoon,+254722410046,sassooncrispin@gmail.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,Pvt,Chrispin Sassoon +254722410046,4
+2024-10-21 11:36:43.354710,2024-10-21 11:36:43.354749,Samuel,Pvt,+27,Minta,+27638252658,brnphiri2@gmail.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,Pvt,Samuel Minta +27638252658,4
+2024-10-23 06:18:51.704293,2024-10-23 06:18:51.704337,Isaac,Test,+254,Kiiru,0795188803,,,,,,,,Isaac Kiiru 0795188803,1
+2024-10-23 09:38:33.777847,2024-10-23 09:38:33.777893,JASON,African Creative,+27,ROSENSTEIN,+27 215550036,jason@africancreative.co.za,Showroom Unit 7 River Park 2 35 Columbus Crescent,River Gate,South Africa,Cape Town,Eastern Cape,,JASON ROSENSTEIN +27 215550036,4
+2024-10-24 07:21:47.421109,2024-10-24 07:21:47.421146,Esther,Pvt,+27,Gichamba,0726498984,joburg@masafalogistics.com,,,South Africa,,,,Esther Gichamba 0726498984,2
+2024-10-24 07:29:09.143916,2024-10-24 07:29:09.143955,Mary,Pvt,+268,Njoki,+26876715746,joburg@masafalogistics.com,,,South Africa,,,,Mary Njoki +26876715746,2
+2024-10-24 07:36:29.428330,2024-10-24 07:36:29.428378,David,Pvt,+27,Gachomo,+27721222456,joburg@masafalogistics.com,,,South Africa,,,,David Gachomo +27721222456,2
+2024-10-24 07:44:40.160707,2024-10-24 07:44:40.160753,Esther,,+27,Githinji,+27,,,,,,,,Esther Githinji +27,2
+2024-10-24 08:01:12.370990,2024-10-24 08:01:12.371038,Abi,Pvt,+27,James,+27765278717,joburg@masafalogistics.com,,,South Africa,,,,Abi James +27765278717,2
+2024-10-24 08:11:44.473494,2024-10-24 08:11:44.473543,Alex,Pvt,+27,Kiguru,+27847063351,joburg@masafalogistics.com,,,South Africa,,,,Alex Kiguru +27847063351,2
+2024-10-24 08:34:52.838739,2024-10-24 08:34:52.838776,Jinesh,Pvt,+27,Patel,+27842496048,joburg@masafalogistics.com,,,South Africa,,,,Jinesh Patel +27842496048,2
+2024-10-24 09:11:39.584823,2024-10-24 09:11:39.584883,Pharma,Pvt,+27,Germania,0826785959,joburg@masafalogistics.com,,,South Africa,,,,Pharma Germania 0826785959,2
+2024-10-24 09:36:12.430969,2024-10-24 09:36:12.431024,Mercy,Pvt,+27,Wanyoike,+27611699091,joburg@masafalogistics.com,,,South Africa,,,,Mercy Wanyoike +27611699091,2
+2024-10-24 13:31:35.564776,2024-10-24 13:31:35.564823,Yashie,Yashie Organics,+27,Organics,+276850328,yashieorganics@gmail.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,Pvt,Yashie Organics +276850328,4
+2024-10-25 10:12:45.504178,2024-10-25 10:12:45.504217,Hawk Vision,Hawk Vision Technologies,+254,Technologies,+254,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Hawk Vision Technologies +254,4
+2024-10-25 10:44:34.194041,2024-10-25 10:44:34.194087,Sirai,Sirai House,+27,House,0828798836,operations@siraihouse.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Sirai House 0828798836,1
+2024-10-25 12:19:34.877548,2024-10-25 12:19:34.877625,Trupti,Pvt,+254,Gudka,+254734685009,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Trupti Gudka +254734685009,18
+2024-10-25 12:46:06.128909,2024-10-25 12:46:06.128961,Richard,pvt,+254,orina,+254725145874,,,,kenya,nairobi,,,Richard orina +254725145874,2
+2024-10-26 08:22:22.147515,2024-10-26 08:22:22.147581,Paul,Pvt,+27,Mbuthia,+27647329267,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Paul Mbuthia +27647329267,4
+2024-10-26 08:33:41.365034,2024-10-26 08:33:41.365082,Maria,Pvt,+27,Mumia,+27722333967,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Maria Mumia +27722333967,4
+2024-10-26 09:36:09.765961,2024-10-26 09:36:09.765994,Golden Key,Golden Key casino,+254,Casino,+254722552888,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,Pvt,Golden Key Casino +254722552888,4
+2024-10-26 09:54:50.407645,2024-10-26 09:54:50.407691,Videlis,Pvt,+27,Kamoni,+27824188347,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Videlis Kamoni +27824188347,4
+2024-10-26 09:55:25.415133,2024-10-26 09:55:25.415189,Gibson,Pvt,+27,Mucharo,+27783124429,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Gibson Mucharo +27783124429,18
+2024-10-26 10:35:52.609738,2024-10-26 10:35:52.609790,Nick,Sunbird Support Services,+254,Fisher,+254717223608,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Nick Fisher +254717223608,18
+2024-10-26 10:46:04.642050,2024-11-04 12:49:03.233419,Sunbird Business,Sunbird Business Service,+254,Services Kenya ltd.,+254717223608,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Kelly Omondi +254717223608,18
+2024-10-26 12:03:18.834268,2024-10-26 12:03:18.834346,Terresia,Pvt,+254,N Macharia,+254729489110,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Terresia N Macharia +254729489110,18
+2024-10-28 08:27:30.980092,2024-10-28 08:27:30.980133,Charles,Pvt,+254,Aloke,+254725566033,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Charles Aloke +254725566033,4
+2024-10-28 09:31:00.359516,2024-10-28 09:31:00.359567,Frank,Pvt,+254,Duke,+254704033011,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Frank Duke +254704033011,18
+2024-10-28 09:57:43.739156,2024-10-28 09:57:43.739197,John,Pvt,+254,Perret,+254722936177,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,John Perret +254722936177,18
+2024-10-28 10:30:12.972496,2024-10-28 10:30:12.972552,Geoffrey,Pvt,+254,Karanja,+254723036000,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Geoffrey Karanja +254723036000,18
+2024-10-28 10:52:49.065644,2024-10-28 10:52:49.065704,Rose,pvt,+254,Nalo,0702129226,,Ngara,Nairobi,Kenya,Nairobi,,,Rose Nalo 0702129226,2
+2024-10-28 11:47:38.396074,2024-10-28 11:47:38.396130,Romageco,pvt,+254,Kenya Limited,0733621883,,Ngara,Nairobi,Kenya,Nairobi,,,Romageco Kenya Limited 0733621883,2
+2024-10-28 12:00:24.040867,2024-10-28 12:00:24.040923,Fozia,pvt,+254,Fozia,0723145967,,Ngara,Nairobi,Kenya,Nairobi,,,Fozia Fozia 0723145967,2
+2024-10-29 05:49:46.470350,2024-10-29 05:57:01.081291,Julius,pvt,+254,Muriithi,0722256767,,Ngara,Nairobi,Kenya,Nairobi,,,Julius Muriithi 0720252353,2
+2024-10-29 06:00:57.558608,2024-10-29 06:00:57.558656,Karla,pvt,+254,Bunting,0704492404,,Ngara,Nairobi,Kenya,Nairobi,,,Karla Bunting 0704492404,2
+2024-10-29 06:30:02.397431,2024-10-29 06:30:02.397480,Captain,Captain Andy's fishing,+254,Andys,0723471777,,Ngara,Nairobi,Kenya,Nairobi,,,Captain Andys 0723471777,2
+2024-10-29 10:02:08.213925,2024-10-29 10:02:08.213973,Angie,pvt,+254,Ngugi,0728608205,,Ngara,Nairobi,Kenya,Nairobi,,,Angie Ngugi 0728608205,2
+2024-10-29 12:04:19.842861,2024-10-29 12:04:19.842923,LAB,LAB Electronic Components(Pty) Ltd,+27,Electronics,0117928206,info@hammerenergizer.co.za,,,South Africa,,,4330107519,LAB Electronics 0117928206,4
+2024-10-29 13:47:39.651669,2024-10-29 13:47:39.651724,Cynthia,pvt,+254,Mwende,0722230249,,Ngara,Nairobi,Kenya,Nairobi,,,Cynthia Mwende 0722230249,2
+2024-10-29 18:40:04.225543,2024-10-29 18:40:04.225584,Jackie,PVT,+254,Kenani,+254725098040,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Jackie Kenani +254725098040,1
+2024-10-30 08:53:43.831625,2024-11-08 10:20:03.614072,Zeitz Foundation,Zeitz Foundation,+254,Pin P051362973I,+254,nairobi@masafalogistics.com,Ngara,Nairobi,Kenya,Nairobi,,,GRANT BURDEN +254115480039,2
+2024-10-30 14:56:21.184064,2024-10-30 14:56:21.184121,Maurice,Pvt,+27,Kamau,0812678269,,Ngara Park Road,Ngara,South Africa,Nairobi,Nairobi,,Maurice Kamau 0812678269,4
+2024-10-30 15:07:35.085067,2024-10-30 15:07:35.085103,Ali,Pvt,+27,Mwadadi,0611581943,,Ngara Park Road,Ngara,South Africa,Nairobi,Nairobi,,Ali Mwadadi 0611581943,4
+2024-10-31 06:33:58.540784,2024-10-31 06:33:58.540826,Mustafa,pvt,+254,,0786427452,,Ngara,Nairobi,Kenya,Nairobi,,,Mustafa None 0786427452,2
+2024-10-31 06:53:38.285793,2024-10-31 06:53:38.285884,Debbie,pvt,+254,Shar,0713509688,,Ngara,Nairobi,Kenya,Nairobi,,,Debbie Shar 0713509688,2
+2024-10-31 07:54:28.205032,2024-10-31 07:54:28.205066,Yolanda,pvt,+254,,0722511073,,Ngara,Nairobi,Kenya,Nairobi,,,Yolanda None 0722511073,2
+2024-10-31 08:26:14.617577,2024-10-31 08:26:14.617630,Purity,pvt,+254,,0724669448,,Ngara,Nairobi,Kenya,Nairobi,,,Purity None 0724669448,2
+2024-10-31 11:57:32.378400,2024-10-31 12:02:37.202536,moses,pvt,+254,ngigi,0111945302,,Ngara,Nairobi,Kenya,Nairobi,,,moses ngigi 0701068321,2
+2024-10-31 11:58:11.159264,2024-10-31 11:58:11.159306,Richard,pvt,+254,orina,0725145874,richardorina81@gmail.com,,,,,,,Richard orina 0725145874,19
+2024-11-01 11:43:25.879281,2024-11-01 11:43:25.879322,Samuel,KIPETO ENERGY,+254,Kimani,+254728295362,samuel.kimani@kipetoenergy.co.ke,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Samuel Kimani +254728295362,4
+2024-11-04 15:05:29.647286,2024-11-04 15:05:29.647323,Kris,Pvt,+27,Collyer,+254719508144,joburg@masafalogistics.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Kris Collyer +254719508144,4
+2024-11-05 06:03:57.865503,2024-11-05 06:06:16.655140,beatrice,pvt,+254,wanjiku,+254721142325,nairobi@masafalogistics.com,,,kenya,nairobi,,,beatrice wanjiku +254721142325,19
+2024-11-05 09:48:50.449084,2024-11-05 09:48:50.449147,Victoria,Pvt,+27,Dekker,+27721855954,joburg@masafalogistics.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Victoria Dekker +27721855954,4
+2024-11-05 13:54:30.780382,2024-11-05 13:54:30.780425,John,Quality Express Tucson Logistics Ltd,+254,Mbugua,+254724324746,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,John Mbugua +254724324746,4
+2024-11-06 06:45:07.560723,2024-11-06 06:45:07.560790,Evans,Pvt,+254,Karanu,+254715595374,anglersint@yahoo.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Evans Karanu +254715595374,4
+2024-11-06 09:29:21.484413,2024-11-06 09:29:21.484446,Moses,Ozone outdoor,+254,Mburu,0701248648,,Ngara park,Ngara,Kenya,Nairobi,Nairobi,,Moses Mburu 0701248648,21
+2024-11-06 10:17:26.001615,2024-11-06 10:17:26.001663,Captain,Captain Andys,+254,Andys,+254719864761,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Captain Andys +254719864761,21
+2024-11-06 10:21:19.251681,2024-11-06 10:21:19.251714,David,Dolphin Initiative,+27,Nderitu,+27833212853,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,David Nderitu +27833212853,18
+2024-11-06 10:21:42.968782,2024-11-06 10:21:42.968830,Peter,Pvt,+254,Wainaina,+254721677399,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Peter Wainaina +254721677399,4
+2024-11-06 10:59:21.465919,2024-11-06 10:59:21.465974,Beatrice,Beatrice Odeo,+254,Odeo,+254723179302,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Beatrice Odeo +254723179302,21
+2024-11-06 10:59:36.525455,2024-11-06 10:59:36.525495,Abdi,Pvt,+27,Saed,+27634220618,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Abdi Saed +27634220618,4
+2024-11-06 11:00:03.193408,2024-11-06 11:00:03.193513,Dominic,Pvt,+254,Weeks,+254715468284,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Dominic Weeks +254715468284,18
+2024-11-06 11:13:53.628458,2024-11-06 11:13:53.628508,Note Books,Note Books Kenya,+254,Kenya,+254729879991,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Note Books Kenya +254729879991,21
+2024-11-06 11:36:20.035944,2024-11-06 11:36:20.035994,Fozia,Pvt,+254,Fazil,+254723145967,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Fozia Fazil +254723145967,18
+2024-11-06 12:29:32.674161,2024-11-06 12:29:32.674220,Nicholas,Pvt,+27,Odhiambo,+27817983827,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Nicholas Odhiambo +27817983827,18
+2024-11-06 14:31:19.976376,2024-11-06 14:31:19.976406,Florence,Pvt,+27,Otieno,+27823351899,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Florence Otieno +27823351899,18
+2024-11-07 07:07:41.185651,2024-11-07 07:07:41.185700,Jane,Pvt,+254,Wainoi,+2544721327850,joburg@masafalogistics.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Jane Wainoi +2544721327850,4
+2024-11-07 09:26:52.213571,2024-11-07 09:26:52.213607,Esther,Pvt,+27,Agunda,+27731347052,joburg@masafalogistics.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Esther Agunda +27731347052,4
+2024-11-07 10:54:34.219719,2024-11-07 10:54:34.219766,Jairus,Pvt,+27,Munyoki,0798254858,joburg@masafalogistics.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Jairus Munyoki 0798254858,4
+2024-11-07 11:35:36.032683,2024-11-07 11:35:36.032727,Damian,Pvt,+27,Fison,+254726984153,damiansfison@gmail.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Damian Fison +254726984153,4
+2024-11-08 07:01:16.034018,2024-11-08 07:01:16.034067,Valery,Geotextile East Africa Ltd,+254,Weyn,+254733711781,valery.weyn@geotextileeastafrica.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Valery Weyn +254733711781,4
+2024-11-08 07:46:20.613728,2024-11-08 07:46:20.613773,Hilda,Pvt,+27,Hilda,+27,joburg@masafalogistics.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Hilda Hilda +27,4
+2024-11-08 07:59:56.078268,2024-11-08 07:59:56.078320,Alice,Pvt,+27,Hair pieces,+27734118841,joburg@masafalogistics.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Alice Hair pieces +27734118841,4
+2024-11-08 08:27:16.868407,2024-11-08 08:27:16.868447,Tawanda,Betar Procurement,+27,Zangure,+27625510169,brnphiri2@gmail.com,69 on 9th Avenue,Bezuidenhout Valley,South Africa,Johannesburg,Gauteng,,Tawanda Zangure +27625510169,4
+2024-11-08 09:14:12.121285,2024-11-08 09:14:12.121322,James,Pvt,+27,Gitare,+27722924310,joburg@masafalogistics.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,James Gitare +27722924310,4
+2024-11-08 09:22:46.921060,2024-11-08 09:22:46.921098,Susan,Pvt,+27,Fisher,+27732883155,joburg@masafalogistics.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Susan Fisher +27732883155,4
+2024-11-08 09:55:59.626934,2024-11-08 09:55:59.626981,Esther Wairimu,Pvt,+27,Thiru,+2764727397,joburg@masafalogistics.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Esther Wairimu Thiru +2764727397,4
+2024-11-08 10:09:23.356599,2024-11-08 10:09:23.356650,Abubakar,Pvt,+27,Kaira,+27616964996,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Abubakar Kaira +27616964996,4
+2024-11-08 10:24:46.522181,2024-11-08 10:24:46.522231,Sunbird,Sunbird Business Services,+254,Business Services,+254717223608,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Sunbird Business Services +254717223608,4
+2024-11-08 10:54:39.693650,2024-11-08 10:54:39.693696,Moses,Note books Kenya,+254,Sukali,+254729879991,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Moses Sukali +254729879991,4
+2024-11-08 11:05:48.896239,2024-11-08 11:05:48.896301,John,Pvt,+27,Wamahiu,+254720365376,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,John Wamahiu +254720365376,4
+2024-11-08 11:13:36.919589,2024-11-08 11:24:53.642308,Samuel,Pvt,+254,Komu,+254722522702,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Samuel Kimani +254722522702,4
+2024-11-08 11:35:27.377753,2024-11-08 11:35:27.377788,Selwyn,Pvt,+27,Pogir,+2782557555,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Selwyn Pogir +2782557555,4
+2024-11-08 11:38:55.666181,2024-11-08 11:38:55.666221,Rhoda,Pvt,+27,Karanja,+254722576996,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Rhoda Karanja +254722576996,4
+2024-11-08 11:41:39.960325,2024-11-08 11:41:39.960376,Mr,Pvt,+27,Mapundo,+27787183292,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Mr Mapundo +27787183292,4
+2024-11-08 12:24:19.255202,2024-11-08 12:24:19.255249,Kilifi,Kilifi Plantation,+254,Plantation,+254733803040,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Kilifi Plantation +254733803040,4
+2024-11-08 14:12:29.793826,2024-11-08 14:12:29.793875,David,Pvt,+264,Kamau,+264812441819,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,David Kamau +264812441819,4
+2024-11-08 14:31:23.250579,2024-11-12 09:56:11.020393,EAST COAST ENGINEERING LTD,EAST COAST ENGINEERING LTD,+254,KRA PIN: P051354842B,+254,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Rossano Ricci +254,4
+2024-11-08 14:40:44.655786,2024-11-08 14:40:44.655818,Specialised,Specialised Fibre Glass,+254,Fibre Glass,+254721444735,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Specialised Fibre Glass +254721444735,4
+2024-11-08 14:45:53.126802,2024-11-08 14:45:53.126843,Nancy,Pvt,+254,Sharon,+25472644402,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Nancy Sharon +25472644402,4
+2024-11-08 14:56:28.791892,2024-11-08 14:56:28.791954,Mr,Pvt,+254,Stanley,+254721608786,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Mr Stanley +254721608786,4
+2024-11-08 15:02:30.556942,2024-11-08 15:02:30.556989,Nicky,Pvt,+254,Watson,+254748177108,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Nicky Watson +254748177108,4
+2024-11-08 15:13:41.327064,2024-11-08 15:13:41.327114,Arthur,Pvt,+254,Chege,+254714371303,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Arthur Chege +254714371303,4
+2024-11-08 15:18:26.173237,2024-11-08 15:18:26.173281,Adrian,,+27,Githanji,+254722553538,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Adrian Githanji +254722553538,4
+2024-11-08 15:22:52.579483,2024-11-08 15:22:52.579533,Mrs,Pvt,+254,Salome,+254741943209,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Mrs Salome +254741943209,4
+2024-11-08 15:28:59.167670,2024-11-08 15:28:59.167705,Peter,Pvt,+254,Mburu,+254701492124,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Peter Mburu +254701492124,4
+2024-11-08 15:32:27.964927,2024-11-08 15:32:27.964970,Iris,Pvt,+254,Muto,+254702252253,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Iris Muto +254702252253,4
+2024-11-08 15:37:32.600214,2024-11-08 15:37:32.600260,MEPS,MEPS Fencing,+254,Fencing,+254,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,MEPS Fencing +254,4
+2024-11-08 15:41:16.560845,2024-11-08 15:41:16.560881,Mr,Pvt,+254,Kevin,+254722899935,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Mr Kevin +254722899935,4
+2024-11-08 15:48:01.826046,2024-11-08 15:48:01.826103,Johnson,Pvt,+254,Nsimbo,+254714689712,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Johnson Nsimbo +254714689712,4
+2024-11-09 06:36:14.144335,2024-11-09 06:36:14.144381,Eric,Epimax Kenya,+254,Tabot,+254799898053,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Eric Tabot +254799898053,4
+2024-11-09 10:59:56.555800,2024-11-09 10:59:56.555848,Dorcas,PVT,+27,Kerubo,0738506868,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Dorcas Kerubo 0738506868,21
+2024-11-11 12:19:57.489425,2024-11-11 12:19:57.489483,Banglatrading kenya Ltd,Banglatrading kenya Ltd,+254,PIN: P052153212E,+254724688005,,3A Fairview road,Pangani,Kenya,Nairobi,Nairobi,P052153212E,Banglatrading kenya Ltd PIN: P052153212E +254724688005,4
+2024-11-11 12:27:22.497479,2024-11-11 12:27:22.497523,Angel Perfumes and Cosmetics Pty (Ltd),Angel Perfumes and Cosmetics Pty (Ltd),+27,VAT Reg:4170267746,+27112795904,,Bangla Trading Kenya LTD 13A Fairview Road,Pangani,Kenya,Nairobi,Nairobi,,Angel Perfumes and Cosmetics Pty (Ltd) VAT Reg:4170267746 +27112795904,4
+2024-11-11 13:47:39.099794,2024-11-11 13:47:39.099852,Daniel,Pvt,+254,Mutua,+254115275790,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Daniel Mutua +254115275790,18
+2024-11-11 13:57:19.890540,2024-11-11 13:57:19.890591,Mirriam,Pvt,+27,Mutungi,+27798855498,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Mirriam Mutungi +27798855498,18
+2024-11-11 14:07:42.997956,2024-11-11 14:07:42.998006,Ruth,Pvt,+254,Lulu,+254700512126,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Ruth Lulu +254700512126,18
+2024-11-11 14:22:46.965685,2024-11-11 14:22:46.965732,Lawrence,Pvt,+27,Juma,+27767896708,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Lawrence Juma +27767896708,18
+2024-11-12 06:02:03.672521,2024-11-12 06:02:03.672575,Laxcon,Laxcon,+254,Hardware & Spares limited,+254710272572,,Ngara Park Road,,Kenya,Nairobi,,,Laxcon Hardware & Spares limited +254710272572,2
+2024-11-12 07:39:37.337427,2024-11-12 07:39:37.337471,Francis,PVT,+254,Njoroge,0722615243,,Ngara Park Road,,Kenya,Nairobi,,,Francis Njoroge 0722615243,2
+2024-11-12 09:15:51.411547,2024-11-12 09:15:51.411605,Pepe,Pvt,+254,Akin,+254740326229,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Pepe Akin +254740326229,18
+2024-11-12 09:47:41.926733,2024-11-20 10:00:32.406975,Dragonfly Crackers Ltd,Dragonfly Crackers Ltd,+254,Pin No:- P052100930F,+254732702204,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Roots Creation +27815434037,18
+2024-11-12 10:02:17.304277,2024-11-12 10:02:17.304314,Christina,Pvt,+27,Kuria,+27695914473,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Christina Kuria +27695914473,18
+2024-11-12 10:10:40.504115,2024-11-12 10:10:40.504159,Ruth,Pvt,+27,Joubert,+27790239587,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Ruth Joubert +27790239587,18
+2024-11-12 10:31:36.955805,2024-11-12 10:31:36.955891,Dauerhaft,Dauerhaft Pty Ltd,+27,Pty Ltd,+27834005024,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Dauerhaft Pty Ltd +27834005024,18
+2024-11-12 12:33:16.624564,2024-11-12 12:33:16.624614,Nancy,Pvt,+27,Wariga,+27825009108,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Nancy Wariga +27825009108,18
+2024-11-13 09:42:35.439826,2024-11-13 09:42:35.439872,Wamuthoni,,+27,,+27843241580,,,,,,,,Wamuthoni None +27843241580,3
+2024-11-13 09:49:29.190794,2024-11-13 09:49:29.190842,Grace,,+27,Wambui,+27623062954,,,,,,,,Grace Wambui +27623062954,3
+2024-11-13 09:52:29.058772,2024-11-13 09:52:29.058818,Mary,,+27,Kioko,+27632771429,,,,,,,,Mary Kioko +27632771429,3
+2024-11-13 09:58:05.614068,2024-11-13 09:58:18.770512,Philip,,+27,Nyamwega,0,,,,,,,,Philip Nyamwega 0,3
+2024-11-13 10:03:15.658897,2024-11-13 10:03:15.658943,Cathy,,+254,.,0,,,,,,,,Cathy . 0,3
+2024-11-13 10:04:03.873767,2024-11-13 10:04:03.873824,Susan,,+254,Kithinji,0,,,,,,,,Susan Kithinji 0,3
+2024-11-13 10:24:00.804882,2024-11-13 10:24:00.804935,Dorcas,,+254,Kioko,0,,,,,,,,Dorcas Kioko 0,3
+2024-11-13 10:26:22.980679,2024-11-13 10:26:22.980723,Ruth,,+254,Mateli,0722969789,,,,,,,,Ruth Mateli 0722969789,3
+2024-11-13 10:29:55.103352,2024-11-13 10:29:55.103392,Nyarai,,+267,Msivinu,+26777481386,,,,,,,,Nyarai Msivinu +26777481386,3
+2024-11-13 10:32:25.586641,2024-11-13 10:32:25.586685,Armand,,+27,Cape town,+27782065467,,,,,,,,Armand Cape town +27782065467,3
+2024-11-13 10:34:35.031709,2024-11-13 10:34:35.031748,Frolence,,+27,Muthoni,+27747936881,,,,,,,,Frolence Muthoni +27747936881,3
+2024-11-13 10:37:34.808021,2024-11-13 10:37:34.808054,Douglas,,+27,Maina,+27727477215,,,,,,,,Douglas Maina +27727477215,3
+2024-11-13 10:41:04.259509,2024-11-13 10:41:04.259571,Mama,,+254,Kamau Office,0,,,,,,,,Mama Kamau Office 0,3
+2024-11-13 10:43:32.780045,2024-11-13 10:43:32.780093,Betty,,+27,Kim,+27671093148,,,,,,,,Betty Kim +27671093148,3
+2024-11-13 10:47:18.290874,2024-11-13 10:47:18.290944,Martha,,+27,Cape town,+27822940658,,,,,,,,Martha Cape town +27822940658,3
+2024-11-13 10:50:25.594879,2024-11-13 10:50:25.594926,Damaris,,+27,Kibe,+27626321654,,,,,,,,Damaris Kibe +27626321654,3
+2024-11-14 07:55:02.689690,2024-11-14 07:55:02.689768,Tara,Sirai house,+27,Rowe,+27828798836,,Ngara Park Road,,Kenya,Nairobi,,,Tara Rowe +27828798836,2
+2024-11-14 08:46:33.569913,2024-11-14 08:46:33.569958,Simon,Pvt,+27,Ndungu,+2766442659,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Simon Ndungu +2766442659,4
+2024-11-14 11:05:40.998796,2024-11-14 11:05:40.998846,Sunbird Business,Sunbird Business,+254,Services Tanzania ltd.,0717223608,,Ngara Park Road,Nairobi,Kenya,Nairobi,,,Sunbird Business Services Tanzania ltd. 0717223608,2
+2024-11-14 11:27:58.734678,2024-11-14 11:27:58.734700,Sunbird Business,Sunbird Business,+254,Services Tanzania ltd.,0717223608,,Ngara Park Road,Nairobi,Kenya,Nairobi,,,Sunbird Business Services Tanzania ltd 0717223608,2
+2024-11-14 14:49:25.996617,2024-11-14 14:49:25.996679,Olivia,Pvt,+27,Kennaway,+27615110984,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Olivia Kennaway +27615110984,4
+2024-11-15 09:13:08.418483,2024-11-15 09:13:08.418536,Bhire,Pvt,+254,Chatthe,+254722257555,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Bhire Chatthe +254722257555,4
+2024-11-15 10:57:17.619766,2024-11-15 10:57:17.619797,Amy May,Pvt,+27,Roux,0827001130,,Ngara Park Road,Ngara,South Africa,Nairobi,Nairobi,,Amy May Roux 0827001130,4
+2024-11-19 07:36:03.260110,2024-11-19 07:36:03.260172,Anne M,Anne M Services Ltd,+254,Services Ltd,+19788606700,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Anne M Services Ltd +19788606700,4
+2024-11-19 11:47:02.174970,2024-11-19 11:47:02.175021,Sprintex,Sprintex Engineering,+254,Engineering,+254721692342,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Sprintex Engineering +254721692342,18
+2024-11-19 12:00:42.952068,2024-11-19 12:00:42.952119,Elvis,Kuzi Trading,+254,Kaburi,+254700322873,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Elvis Kaburi +254700322873,18
+2024-11-19 12:14:35.206629,2024-11-19 12:14:35.206681,Rhoda,Pvt,+254,Wambui,+254742496414,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Rhoda Wambui +254742496414,18
+2024-11-19 12:23:54.639996,2024-11-19 12:23:54.640051,Gard,Pvt,+254,Njuguna,+254712036373,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Gard Njuguna +254712036373,18
+2024-11-19 12:30:37.883011,2024-11-19 12:30:37.883057,Kontariza,Kontariza Technology,+254,Technology,+254737504562,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Kontariza Technology +254737504562,18
+2024-11-19 12:54:14.716485,2024-11-19 12:54:14.716541,Caroline,Pvt,+254,Kilu,+254793927759,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Caroline Kilu +254793927759,18
+2024-11-19 13:01:29.973342,2024-11-19 13:01:29.973384,Payan,Pvt,+254,Ole moi,+254701665719,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Payan Ole moi +254701665719,18
+2024-11-19 13:09:57.877986,2024-11-19 13:09:57.878037,Margaret,Pvt,+254,Wangari,+254715378141,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Margaret Wangari +254715378141,18
+2024-11-19 14:14:04.231793,2024-11-19 14:14:04.231840,Antionet,Mnarani Beach,+254,Do toit,+254713143380,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Antionet Do toit +254713143380,18
+2024-11-19 18:35:51.291020,2024-11-19 18:35:51.291058,Kelly,Pvt,+254,Omondi,+2547417223608,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Kelly Omondi +2547417223608,18
+2024-11-19 18:44:05.189366,2024-11-19 18:44:05.189415,Catia,Pvt,+254,Carcalho,+254797931504,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Catia Carcalho +254797931504,18
+2024-11-20 10:04:53.131278,2024-11-20 10:04:53.131330,Happy,Happy Cow,+254,Cow,+254715812499,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Happy Cow +254715812499,18
+2024-11-20 10:11:01.525709,2024-11-20 10:11:01.525746,Kevin,Pvt,+27,Moffat,+27604021709,brnphiri2@gmail.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Kevin Moffat +27604021709,4
+2024-11-20 10:22:28.563408,2024-11-20 10:22:28.563467,John,Pvt,+27,Mangana,+27846600831,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,John Mangana +27846600831,18
+2024-11-20 10:35:27.091092,2024-11-20 10:35:27.091162,Sterlings,Sterlings,+27,(Pretoria),+27827899358,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Sterlings (Pretoria) +27827899358,4
+2024-11-22 07:15:53.910078,2024-11-22 07:15:53.910125,East Africa,East Africa Security Solutions,+27,Security Solutions,+254715467464,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,East Africa Security Solutions +254715467464,4
+2024-11-22 12:54:34.647196,2024-11-22 12:54:34.647273,Robert,Coastal Chiro Chiropractic and wellness,+254,Palmer,+254795715311,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Robert Palmer +254795715311,4
+2024-11-23 11:07:30.499385,2024-11-23 11:07:30.499440,Paul,Pvt,+27,Kiratu,0824078326,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Paul Kiratu 0824078326,4
+2024-11-25 12:28:48.463698,2024-11-26 06:53:32.167144,Desert,Desert Rose,+254,Rose,+254733 555 516,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Desert Rose +254792294325,4
+2024-11-25 12:45:24.500189,2024-11-26 06:54:40.246715,Jaffer,Jaffer Holdings,+254,Holdings,+254733 555 516,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Jaffer Holdings +254,4
+2024-11-25 20:29:34.892281,2024-11-25 20:29:34.892333,Rose,Pvt,+27,Nekesa,+27715233993,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Rose Nekesa +27715233993,18
+2024-11-25 20:38:15.798345,2024-11-25 20:38:15.798399,Fransisca,Pvt,+27,Mizirai,+27732917686,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Fransisca Mizirai +27732917686,18
+2024-11-25 20:44:41.872265,2024-11-25 20:44:41.872320,Fatuma,Pvt,+254,Hassan,+254722520359,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Fatuma Hassan +254722520359,18
+2024-11-25 20:48:43.205215,2024-11-25 20:48:43.205267,Esther,Pvt,+27,Khamba,+27727089219,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Esther Khamba +27727089219,18
+2024-11-25 20:53:34.339585,2024-11-25 20:53:34.339644,Kerubo,Pvt,+254,Wesley,+25471482381,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Kerubo Wesley +25471482381,18
+2024-11-25 21:00:05.318764,2024-11-25 21:00:05.318818,Eric,Pvt,+254,Wachira,+254724881804,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Eric Wachira +254724881804,18
+2024-11-25 21:06:41.714207,2024-11-25 21:06:41.714258,Mr,Pvt,+27,Tony,+27826054629,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Mr Tony +27826054629,18
+2024-11-25 21:13:50.955599,2024-11-25 21:13:50.955668,Eric,Pvt,+254,Odiba,+254707753554,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Eric Odiba +254707753554,18
+2024-11-25 21:27:16.378489,2024-11-25 21:27:16.378545,Moses,Pvt,+27,Mazegeza,+27747158170,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Moses Mazegeza +27747158170,18
+2024-11-25 21:38:18.915596,2024-11-25 21:38:18.915658,Jasper,Pvt,+254,Horsey,+254717546198,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Jasper Horsey +254717546198,18
+2024-11-25 21:49:53.900070,2024-11-25 21:49:53.900123,Iris,Pvt,+254,Amuto,+254701225253,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Iris Amuto +254701225253,18
+2024-11-25 21:53:58.867552,2024-11-25 21:53:58.867605,Monica,Pvt,+27,Mutuma,+27848642272,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Monica Mutuma +27848642272,18
+2024-11-26 10:27:15.490985,2024-11-26 10:27:15.491056,Florence,Pvt,+254,Mwangi,+254729824310,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Florence Mwangi +254729824310,18
+2024-11-26 11:16:10.880470,2024-11-26 11:16:10.880509,Miss,Pvt,+254,Lenet,+254711273781,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Miss Lenet +254711273781,4
+2024-11-26 12:40:21.588615,2024-11-26 12:40:21.588676,Maurice,Pvt,+27,kamau,+27812678269,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Maurice kamau +27812678269,4
+2024-11-26 14:25:06.754349,2024-11-26 14:25:06.754406,Gogetza,Gogetza LOgistics,+27,Logistcs,+27833446965,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Gogetza Logistcs +27833446965,4
+2024-11-27 06:19:42.567784,2024-11-27 06:19:42.567826,Prince,Pvt,+27,Mlalazi,0717761792,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Prince Mlalazi 0717761792,4
+2024-11-27 07:38:27.746639,2024-11-27 07:38:27.746677,Janet,Pvt,+254,Wangari,0797281694,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Janet Wangari 0797281694,4
+2024-11-27 11:13:59.169442,2024-11-27 11:13:59.169498,Keneth,Pvt,+27,Cheruiyote,0715572069,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Keneth Cheruiyote 0715572069,4
+2024-11-28 08:08:16.930988,2024-11-28 08:08:16.931030,Blessing,Pvt,+254,Matarwa,+254758424322,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Blessing Matarwa +254758424322,4
+2024-11-28 10:18:29.577165,2024-11-28 10:18:29.577206,North Coast,North Coast Quarry PTY LTD,+254,Quarry PTY LTD,+245615247071,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,North Coast Quarry PTY LTD +245615247071,18
+2024-11-28 10:31:40.234750,2024-11-28 10:31:40.234794,Bindi,pvt,+254,Shar,+254733614170,,Ngara Park Road,Nairobi,Kenya,Nairobi,,,Bindi Shar +254733614170,2
+2024-11-28 10:34:33.901948,2024-11-28 10:34:33.901990,Patrick,Pvt,+27,Mbugua,+27635913053,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Patrick Mbugua +27635913053,18
+2024-11-28 10:53:26.557171,2024-11-28 10:53:26.557219,Emily Njura,Pvt,+254,Justin,+25472588439,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Emily Njura Justin +25472588439,18
+2024-11-28 11:55:23.273772,2024-11-28 11:55:23.273894,Amy Roux,Pvt,+27,May,+27827001130,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Amy Roux May +27827001130,18
+2024-11-28 14:40:02.198343,2024-11-28 14:40:02.198397,John,John Giraffe,+27,Githakwa,+27785888269,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,John Githakwa +27785888269,18
+2024-11-29 15:11:29.867232,2024-11-29 15:11:29.867291,Kampi,kampi Yaboma,+254,Ya Boma,+243818320452,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Kampi Ya Boma +243818320452,4
+2024-11-30 08:18:54.099424,2024-11-30 08:18:54.099475,Priscah,Pvt,+254,Jelagat,+254 714 606070,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Priscah Jelagat +254 714 606070,4
+2024-11-30 08:25:24.927357,2024-11-30 08:25:24.927395,Lucy .N,,+254,MBURU,+254722802859,nairobi@masafalogistics.com,Ngara,Nairobi,Kenya,Nairobi,,,Lucy .N MBURU +254722802859,2
+2024-11-30 08:32:57.468060,2024-11-30 08:47:36.867691,Mama Hilda,,+254,,+254720697757,nairobi@masafalogistics.com,Ngara,Nairobi,Kenya,Nairobi,,,Mama Hilda Mama Hilda +254720697757,2
+2024-11-30 10:03:48.200304,2024-11-30 10:03:48.200360,Kenneth,Pvt,+27,Cheruiyot,07155772069,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Kenneth Cheruiyot 07155772069,4
+2024-12-02 08:12:41.557770,2024-12-02 08:12:41.557822,Channan Agricultural Contractors,Channan Agricultural Contractors Kenya Limited,+254,Kenya Limited,+254789180008,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Channan Agricultural Contractors Kenya Limited +254789180008,18
+2024-12-02 08:39:20.682275,2024-12-02 08:39:20.682321,Lana Trzebinski,Lana Trzebinski creations,+254,Creation,+254722692176,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Lana Trzebinski Creation +254722692176,18
+2024-12-02 09:00:53.120827,2024-12-02 09:00:53.120876,Margaret,Pvt,+254,Monyani,+27792381213,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Margaret Monyani +27792381213,4
+2024-12-02 09:06:37.816258,2024-12-02 09:06:37.816310,Hassan Njiffon,Pvt,+254,Allassa,+254722621624,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Hassan Njiffon Allassa +254722621624,4
+2024-12-02 09:38:05.999727,2024-12-02 09:38:05.999775,Mrs,Pvt,+254,Ruth,+254722440130,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Mrs Ruth +254722440130,4
+2024-12-02 09:59:15.049541,2024-12-02 09:59:15.049609,Susan,Pvt,+254,Hinga,+27730652734,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Susan Hinga +27730652734,4
+2024-12-02 10:07:51.958552,2024-12-02 10:07:51.958604,Amber,Pvt,+254,Parkinson,+254706343190,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Amber Parkinson +254706343190,4
+2024-12-02 12:19:06.410073,2024-12-02 12:19:06.410117,Mercy,Pvt,+254,Nguni,+254723260128,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Mercy Nguni +254723260128,18
+2024-12-03 09:44:41.627075,2024-12-03 09:44:41.627113,Morgan,Pvt,+254,Madoya,+25472317930,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Morgan Madoya +25472317930,18
+2024-12-03 09:47:42.260834,2024-12-03 09:47:42.260882,Moo (K),Moo (K) Limited,+254,Limited,+254722850154,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Moo (K) Limited +254722850154,18
+2024-12-03 10:29:39.780336,2024-12-03 10:29:39.780386,Priscillah,Pvt,+27,K,+27718592545,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Priscillah K +27718592545,18
+2024-12-04 06:59:16.492928,2024-12-04 06:59:16.493017,Pooversen,Infinity Bhaisikeli,+254,Chetty,+254710919595,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Pooversen Chetty +254710919595,4
+2024-12-04 08:21:41.475235,2024-12-04 08:21:41.475294,Emily,Pvt,+254,Njura,+254717546198,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Emily Njura +254717546198,4
+2024-12-04 08:59:09.749578,2024-12-04 08:59:09.749622,Kare,Pvt,+254,Glover,+254722521740,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Kare Glover +254722521740,4
+2024-12-04 09:04:51.703034,2024-12-04 09:04:51.703086,Esther,Pvt,+254,Muya,+254710941236,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Esther Muya +254710941236,4
+2024-12-04 09:08:30.636541,2024-12-04 09:08:30.636643,Ashley,Pvt,+254,Honzeri,+54701057144,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Ashley Honzeri +54701057144,4
+2024-12-04 09:14:01.843867,2024-12-04 09:14:01.843907,Fransis,Pvt,+254,Kamau,+2547252477601,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Fransis Kamau +2547252477601,4
+2024-12-04 09:15:43.503988,2024-12-04 09:15:43.504044,Anne M,Anne M Services,+27,Services,+1(978)8606700,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Anne M Services +1(978)8606700,18
+2024-12-04 09:38:34.738622,2024-12-04 09:38:34.738662,Said,Pvt,+254,TSS,+254722558111,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Said TSS +254722558111,18
+2024-12-04 09:49:02.091899,2024-12-04 09:49:02.091946,Morehk,Morehk Logistics,+27,Logistics,+27717284138,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Morehk Logistics +27717284138,4
+2024-12-04 09:49:34.293452,2024-12-04 09:49:34.293505,Mebo,Pvt,+254,Mebo,+254700256368,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Mebo Mebo +254700256368,18
+2024-12-04 09:54:55.210866,2024-12-04 09:54:55.210915,Justin,Pvt,+254,Archer,+254112620924,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Justin Archer +254112620924,18
+2024-12-04 10:02:01.027509,2024-12-04 10:02:01.027569,Andrew,Pvt,+254,Githinji,+254724959990,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Andrew Githinji +254724959990,18
+2024-12-04 10:13:27.903768,2024-12-04 10:13:27.903832,Julius,Pyrex East Africa,+254,Muriethe,+25420252353,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Julius Muriethe +25420252353,18
+2024-12-04 10:18:06.491312,2024-12-04 10:18:06.491361,Anne,Pvt,+27,Thoobe,+278716820234,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Anne Thoobe +278716820234,4
+2024-12-04 10:19:53.135383,2024-12-04 10:19:53.135456,Millicent,Pvt,+254,Oum,+254792603841,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Millicent Oum +254792603841,18
+2024-12-04 10:29:32.730023,2024-12-04 10:29:32.730077,George,Pvt,+254,Kirato,+254722609656,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,George Kirato +254722609656,18
+2024-12-04 10:43:04.477539,2024-12-13 08:55:23.463165,Adil,Pvt,+27,Kawaja,+254722512304,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Adil Kawaja +27782275665,4
+2024-12-04 11:18:54.041140,2024-12-04 11:18:54.041193,Peter,Pvt,+254,Mbatia,0731328485,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Peter Mbatia 0731328485,4
+2024-12-04 13:52:59.274365,2024-12-04 13:52:59.274421,Steve,Pvt,+254,Curtis,+254733897661,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Steve Curtis +254733897661,4
+2024-12-05 09:28:06.599136,2024-12-05 09:28:06.599196,African,African tusk ACT,+27,Tusk (ACT),0861 432 433,stephie@africantusk.co.za,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,African Tusk (ACT) 0861 432 433,4
+2024-12-05 09:42:42.089706,2024-12-05 09:42:42.089757,Kamau,Pvt,+254,Njoroge,+254725790425,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Kamau Njoroge +254725790425,18
+2024-12-05 09:53:36.956616,2024-12-05 09:53:36.956654,Sirikoi,Sirikoi Lodge CO,+254,Lodge CO,+254724583344,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Sirikoi Lodge CO +254724583344,18
+2024-12-05 10:00:51.525246,2024-12-05 10:00:51.525293,Cresent Island,Cresent Island Game Sanctuary CO,+254,Game Sanctuary CO,+254724583344,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Cresent Island Game Sanctuary CO +254724583344,18
+2024-12-05 10:15:40.661566,2024-12-05 10:15:40.661611,Hugo,Pvt,+254,Nadheem Clark,+254724583344,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Hugo Nadheem Clark +254724583344,18
+2024-12-05 10:26:20.728915,2024-12-05 10:26:20.728956,Top,Top Class,+27,Class,+27 82 920 8990,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Top Class +27 82 920 8990,4
+2024-12-06 06:55:02.415948,2024-12-06 06:55:02.416014,Francis,Pvt,+254,Kamau,+254725247601,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Francis Kamau +254725247601,4
+2024-12-06 07:07:38.416329,2024-12-06 07:07:38.416374,Ashley,Pvt,+254,Honzeri,+254701057144,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Ashley Honzeri +254701057144,4
+2024-12-06 07:23:58.020741,2024-12-06 07:23:58.020795,Farah,Pvt,+254,Farah,+254722521811,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Farah Farah +254722521811,4
+2024-12-06 07:35:55.833727,2024-12-06 07:35:55.833783,Millicent,Pvt,+27,Sirengo,+27655985653,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Millicent Sirengo +27655985653,4
+2024-12-06 07:47:57.897892,2024-12-06 07:47:57.897941,Mumbua,Pvt,+254,Kabiru,+254715060835,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Mumbua Kabiru +254715060835,4
+2024-12-06 08:20:06.651404,2024-12-06 08:20:06.651479,Bedan,Pvt,+27,Nyaga,+277,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Bedan Nyaga +277,4
+2024-12-06 09:00:49.370607,2024-12-06 09:00:49.370668,Pyrex East Africa,Pyrex East Africa,+254,Julius Muriethi,+25420252353,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Pyrex East Africa Julius Muriethi +25420252353,4
+2024-12-06 09:28:17.301897,2024-12-06 09:28:17.301951,Grace,Pvt,+27,Njoroge,0765975115,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Grace Njoroge 0765975115,4
+2024-12-06 09:33:34.741786,2024-12-06 09:33:34.741856,Dave,Pvt,+254,Williamson,+254722415172,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Dave Williamson +254722415172,4
+2024-12-06 09:41:18.158949,2024-12-06 09:41:18.159010,Olivia,Asha Eleven,+254,Asha Eleven,+27833454221,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Olivia Asha Eleven +27833454221,4
+2024-12-06 09:46:12.954742,2024-12-06 09:46:12.954794,John,Pvt,+27,Ngahu,+27797565814,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,John Ngahu +27797565814,4
+2024-12-06 09:57:33.831250,2024-12-06 09:57:33.831307,Judy,Pvt,+27,Njoki,+27656255936,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Judy Njoki +27656255936,4
+2024-12-06 10:06:14.209663,2024-12-06 10:06:14.209712,Specialised,Specialised Fibre glass,+27,Fibreglass,+254721444735,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Specialised Fibreglass +254721444735,4
+2024-12-06 10:16:49.632884,2024-12-06 10:16:49.632917,Rosemary Kabiru,Pvt,+27,Wanjiru,+254721642022,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Rosemary Kabiru Wanjiru +254721642022,4
+2024-12-06 10:27:12.689370,2024-12-06 10:27:12.689431,Ark,Ark funeral,+254,Funeral,+254725774001,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Ark Funeral +254725774001,4
+2024-12-06 11:12:45.959397,2024-12-06 11:12:45.959469,Mr,Pvt,+27,Edwin,+27744322380,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Mr Edwin +27744322380,4
+2024-12-06 11:54:07.147363,2024-12-06 11:54:07.147421,Rose,Pvt,+27,Wainaina,+27832616183,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Rose Wainaina +27832616183,4
+2024-12-06 13:07:58.529354,2024-12-06 13:07:58.529411,Beth,Pvt,+27,Mushangi,+27725367594,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Beth Mushangi +27725367594,4
+2024-12-06 13:27:41.855207,2024-12-06 13:27:41.855279,LORNA,Pvt,+27,OBARE,+277,Lornah2@yahoo.com,"nit 6 Hillfred Mews Complex,  -","53 Earls Avenue, WINDSOR EAST",South Africa,Pretoria,Gauteng,,LORNA OBARE +277,4
+2024-12-06 14:42:38.110289,2024-12-06 14:42:38.110339,Senzokuhle,Senzokuhle Wire Baskets,+27,Wire Baskets,+277,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Senzokuhle Wire Baskets +277,4
+2024-12-07 11:18:11.493623,2024-12-07 11:18:11.493674,Njeri,Pvt,+254,Ngithe,+254704702235,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Njeri Ngithe +254704702235,4
+2024-12-07 11:28:31.724403,2024-12-07 11:28:31.724455,Eisen,Pvt,+254,Paint,+254721429910,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Eisen Paint +254721429910,4
+2024-12-09 08:57:24.262155,2024-12-09 08:57:24.262214,Peter,Pvt,+254,Njuguna,+254104405720,daconoilgroup@gmail.com,Ngara Park Road,Ngara,South Africa,Nairobi,Nairobi,,Peter Njuguna +254104405720,4
+2024-12-09 11:16:30.764109,2024-12-09 11:16:30.764170,Mrs,Pvt,+254,Domitillah,+254728599666,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Mrs Domitillah +254728599666,4
+2024-12-10 07:57:29.313868,2024-12-10 07:57:29.313923,Benjamin,Pvt,+254,Mahianya,+254720686770,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Benjamin Mahianya +254720686770,4
+2024-12-10 11:40:47.817353,2024-12-10 11:40:47.817410,Tendai,Pvt,+27,Huni,+27799722483,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Tendai Huni +27799722483,4
+2024-12-11 07:39:35.373162,2024-12-11 07:39:35.373197,Dorinah,Pvt,+254,Rynah,+254743907753,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Dorinah Rynah +254743907753,4
+2024-12-11 09:09:56.101824,2024-12-11 09:09:56.101883,Lucy,Pvt,+254,Musira,+254708873816,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Lucy Musira +254708873816,4
+2024-12-11 09:18:12.299892,2024-12-11 09:18:12.299927,Clement,Pvt,+27,Mpofu,+27732929649,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Clement Mpofu +27732929649,4
+2024-12-11 09:23:18.362498,2024-12-11 09:23:18.362540,Mama,Pvt,+27,Edwin,+27717545335,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Mama Edwin +27717545335,4
+2024-12-11 10:04:34.769827,2024-12-11 10:04:34.769880,Ruth,Pvt,+254,Maina,+254724315658,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Ruth Maina +254724315658,4
+2024-12-11 10:05:15.599753,2024-12-11 10:05:15.599807,Edwin,Pvt,+254,Edwin,+254758951422,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Edwin Edwin +254758951422,18
+2024-12-11 10:12:29.224536,2024-12-11 10:12:29.224580,Anne,Pvt,+254,Komu,+254724431674,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Anne Komu +254724431674,18
+2024-12-11 10:16:58.547802,2024-12-11 10:16:58.547834,Beth,Pvt,+27,Wawero,+27613213274,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Beth Wawero +27613213274,4
+2024-12-11 10:29:42.311574,2024-12-11 10:29:42.311625,Caroline,Pvt,+254,Waithera,+254701009425,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Caroline Waithera +254701009425,18
+2024-12-11 10:34:06.531882,2024-12-11 10:34:06.531941,Blessings,Pvt,+254,Matarwa,+254758424322,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Blessings Matarwa +254758424322,18
+2024-12-11 10:39:23.811426,2024-12-11 10:39:23.811486,Watamu Surf,Watamu Surf Shop,+254,Shop,+254115139691,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Watamu Surf Shop +254115139691,18
+2024-12-11 10:49:33.808741,2024-12-11 10:49:33.808795,Robert,Pvt,+27,Wachira,+27655677945,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Robert Wachira +27655677945,4
+2024-12-11 10:56:22.610762,2024-12-11 10:56:22.610817,Grace,Pvt,+254,Muthoni,+254711521137,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Grace Muthoni +254711521137,18
+2024-12-11 11:03:14.303812,2024-12-16 07:28:35.101480,Louise,Cotter's Safari,+254,Cotters,+254733284268,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Louise Cotters +254733284268,18
+2024-12-11 11:10:33.279435,2024-12-11 11:10:33.279485,Jason,Pvt,+254,Winner,+254722330841,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Jason Winner +254722330841,18
+2024-12-11 11:18:16.277376,2024-12-11 11:18:16.277425,Sharon,Pvt,+254,Akura,+254741260270,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Sharon Akura +254741260270,18
+2024-12-11 11:24:50.804456,2024-12-11 11:24:50.804544,Faranak,Kalabash Village Market,+254,Ehsani,+25472252181,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Faranak Ehsani +25472252181,4
+2024-12-11 11:28:57.205695,2024-12-11 11:28:57.205755,Jael,Pvt,+254,Indula,+254722715536,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Jael Indula +254722715536,4
+2024-12-11 11:35:52.909278,2024-12-11 11:35:52.909320,Arnold,Pvt,+254,Chepkonga,+254725860002,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Arnold Chepkonga +254725860002,18
+2024-12-11 11:43:42.933971,2024-12-11 11:43:42.934013,Chris,Pvt,+254,Collyer,+254719508144,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Chris Collyer +254719508144,18
+2024-12-11 12:20:17.133699,2024-12-11 12:20:17.133756,Martha,Pvt,+27,Juma,+27717955754,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Martha Juma +27717955754,18
+2024-12-11 12:28:57.126982,2024-12-11 12:28:57.127033,Ndegwa,Cheche Books,+254,Nguru,+254710103681,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Ndegwa Nguru +254710103681,18
+2024-12-11 12:31:15.790753,2024-12-11 12:31:15.790817,David,Pvt,+27,Gremmo,0123291788,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,David Gremmo 0123291788,4
+2024-12-11 12:42:29.883551,2024-12-11 12:42:29.883594,Betty,Pvt,+27,Mundia,0817977237,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Betty Mundia 0817977237,4
+2024-12-11 13:11:07.768800,2024-12-11 13:11:07.768850,Sibongile,Pvt,+27,Ndashe,+27 647542538,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Sibongile Ndashe +27 647542538,4
+2024-12-11 14:33:57.565936,2024-12-11 14:33:57.565988,Heidi,Pvt,+254,Verhoeven,+254741825009,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Heidi Verhoeven +254741825009,4
+2024-12-12 08:56:16.719755,2024-12-12 08:56:16.719806,Ehasan,Pvt,+254,Soha,+254733897661,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Ehasan Soha +254733897661,4
+2024-12-12 09:02:24.542224,2024-12-12 09:02:24.542296,Christine,Pvt,+254,Wambui,+254114121621,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Christine Wambui +254114121621,4
+2024-12-12 09:45:17.057356,2024-12-12 09:45:17.057414,Adil,Pvt,+254,Kawaja,+254722512304,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Adil Kawaja +254722512304,4
+2024-12-12 09:56:17.548446,2024-12-12 09:56:17.548495,Gladys,Pvt,+254,Cheriyote,+254717425157,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Gladys Cheriyote +254717425157,4
+2024-12-12 10:39:08.121815,2024-12-12 10:39:08.121875,Dan,Pvt,+254,Rogers,+254743080335,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Dan Rogers +254743080335,4
+2024-12-12 10:58:49.415468,2024-12-12 10:58:49.415505,Elizabeth,Pvt,+27,Wakiruri,+27728791877,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Elizabeth Wakiruri +27728791877,4
+2024-12-12 11:40:52.443742,2024-12-12 11:40:52.443790,Ninteen twenties,Pvt,+254,Safari,+254735158176,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Ninteen twenties Safari +254735158176,4
+2024-12-12 11:56:50.138771,2024-12-12 11:56:50.138814,Mary,Pvt,+254,Kilu,+254793927759,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Mary Kilu +254793927759,4
+2024-12-12 12:23:15.785795,2024-12-12 12:23:15.785837,Steven,Pvt,+27,Aloyo,+27787742238,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Steven Aloyo +27787742238,4
+2024-12-12 12:33:02.997386,2024-12-12 12:33:02.997436,Crop,Crop Nutrition,+254,Nutrition,+2540203561192,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Crop Nutrition +2540203561192,4
+2024-12-12 12:38:38.596589,2024-12-12 12:38:38.596647,George,Pvt,+27,Aburi,0742578276,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,George Aburi 0742578276,4
+2024-12-13 07:26:08.424902,2024-12-13 07:26:08.424937,Gudka,Pvt,+27,Sonia,0842354049,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Gudka Sonia 0842354049,4
+2024-12-13 08:35:05.563168,2024-12-13 08:35:05.563209,MEPS,MEPS Fencing,+254,Fencing,+25477,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,MEPS Fencing +25477,4
+2024-12-13 13:33:15.342735,2024-12-13 13:33:15.342788,Darren,Pvt,+27,Wygil,+27836887210,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Darren Wygil +27836887210,4
+2024-12-13 13:51:30.670978,2024-12-13 13:51:30.671021,Yash,Pvt,+27,Sharma,+254794070801,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Yash Sharma +254794070801,4
+2024-12-16 06:52:54.119064,2024-12-16 06:52:54.119115,Bedan,Sirai house,+254,Nyagah,0720612694,,Ngara Park Road,Nairobi,Kenya,Nairobi,,,Bedan Nyagah 0720612694,2
+2024-12-16 09:14:13.352882,2024-12-16 09:14:13.352928,Mrs,Pvt,+27,Lorna,+277,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Mrs Lorna +277,4
+2024-12-17 08:35:45.107400,2024-12-17 08:35:45.107439,Institute of,Institute of Engineering,+27,Engineering,+254725685032,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Institute of Engineering +254725685032,4
+2024-12-18 11:36:28.072100,2024-12-18 11:36:28.072161,Peter,Pvt,+27,Kimingi,0730995168,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Peter Kimingi 0730995168,4
+2024-12-18 13:00:48.546533,2024-12-18 13:00:48.546603,Mfangano,Mfangano Solutions,+27,Solutions,0827471920,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Mfangano Solutions 0827471920,4
+2024-12-19 12:50:17.567865,2024-12-19 12:53:28.943201,Crown Hotel,Crown Hotel Crown and Resort,+27,Crown and Resort,0813739154,,Hafen Street,Uderits,Namibia,,Namibia,,Crown Hotel Crown 0813739154,4
+2024-12-20 05:43:20.714456,2024-12-20 05:43:20.714512,The Muse,The Muse Gallery,+27,Gallery,+27795774270,,69 on 9th Avenue,Bezuidenhout Valley,South Africa,Johannesburg,Gauteng,,The Muse Gallery +27795774270,4
+2024-12-20 08:57:00.289437,2024-12-20 08:57:00.289479,Mrs,Pvt,+254,Naomi,+254700561937,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Mrs Naomi +254700561937,4
+2024-12-21 08:07:18.310204,2024-12-21 08:07:18.310279,Brian,Pvt,+27,Onyango,+27739225881,,Ngara Park Road,Ngara,Kenya,Ngara,Nairobi,,Brian Onyango +27739225881,4
+2024-12-21 08:20:30.979387,2024-12-21 08:20:30.979452,Mr Oscar,Pvt,+254,Malar,+254720219825,,Ngara Park Road,Ngara,kenya,Ngara,Nairobi,,Mr Oscar Malar +254720219825,4
+2024-12-21 08:58:16.790887,2024-12-21 08:58:16.790935,Mr John,Pvt,+254,Mbugua,+254724324746,,Ngara Park Road,Ngara,Kenya,Ngara,Nairobi,,Mr John Mbugua +254724324746,4
+2024-12-21 09:37:25.529689,2024-12-21 09:37:25.529741,Mr James,Pvt,+27,Mburu,+27792221642,,Ngara Park Road,Ngara,Kenya,Ngara,Nairobi,,Mr James Mburu +27792221642,4
+2024-12-31 08:43:55.064568,2024-12-31 08:43:55.064612,Daniel,Pvt,+27,Mwangi,+27826386411,,Ngara Park Road,Ngara,Kenya,Ngara,Nairobi,,Daniel Mwangi +27826386411,18
+2024-12-31 09:07:31.599183,2024-12-31 09:07:31.599229,Oscar,Pvt,+254,Malaa,+254720219825,,Ngara Park Road,Ngara,Kenya,Ngara,Nairobi,,Oscar Malaa +254720219825,18
+2024-12-31 12:51:40.579058,2024-12-31 12:51:59.948669,Sterlings,Sterlings   (PTA),+27,Sterlings,+27827899358,,Kampala,Uganda,Uganda,Kampala,Kampala,,Sterlings Sterlings +27827899358,1
+2024-12-31 13:16:57.321893,2024-12-31 13:16:57.321925,Wooden interior and,Wooden interior and Wood work limited,+254,Wood work limited,+254721680068,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Wooden interior and Wood work limited +254721680068,1
+2025-01-03 06:56:17.391042,2025-01-03 07:08:18.528004,Mr Osborn,Pvt,+27,Smith,+254727105076,,Ngara Park Road,Ngara,Kenya,Ngara,Nairobi,,Mr Osborn Smith +27746188600,4
+2025-01-03 08:14:52.204281,2025-01-03 08:14:52.204332,Mark,Pvt,+254,Ogada,+254727531273,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Mark Ogada +254727531273,4
+2025-01-03 08:51:03.314577,2025-01-03 08:51:03.314625,The Fig,The Fig & Olive Limited,+254,& Olive limited,0706343190,,Nairobi,,kenya,Nairobi,,,The Fig & Olive limited 0706343190,2
+2025-01-03 08:55:20.337039,2025-01-03 08:55:20.337084,Violet,wekk crafted,+254,Well Crafted,0706639466,,Nairobi,,kenya,Nairobi,,,Violet Well Crafted 0706639466,2
+2025-01-03 10:47:36.799811,2025-01-03 10:47:36.799857,Lydia,Amboseli Trust For Elephants,+254,Tiller,0728953709,,Nairobi,,kenya,Nairobi,,,Lydia Tiller 0728953709,2
+2025-01-04 07:18:00.373755,2025-01-04 07:18:00.373806,Christian,Christian bookstore,+27,bookstore,+254727105076,,Ngara Park Road,Ngara,Kenya,Ngara,Nairobi,,Christian bookstore +254727105076,4
+2025-01-06 13:59:34.894243,2025-01-06 13:59:34.894277,Royal Tobacco,Royal Tobacco Kenya Ltd,+254,Kenya Ltd,+254737945608,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Royal Tobacco Kenya Ltd +254737945608,18
+2025-01-07 11:11:22.643190,2025-01-10 09:13:49.863696,Eco smart essentials (Pty) Ltd t/a ProNature,Eco smart essentials (Pty) Ltd t/a ProNature,+27,6a Donnington road KILLARNEY Gardens Cape town,+27646295998,,No 69 on 9th avenue,Bezuidenhout valley,South Africa,johannesburg,Gauteng,,Affordable Dreams +27646295998,4
+2025-01-08 10:56:41.658444,2025-01-08 10:56:41.658488,Anthony,Pvt,+27,Mwangi,+27634114234,joburg@masafalogistics.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Anthony Mwangi +27634114234,4
+2025-01-08 11:57:24.897335,2025-01-08 11:57:24.897396,Miss,Pvt,+27,Terresia,+27787605371,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Miss Terresia +27787605371,4
+2025-01-08 12:17:09.484347,2025-01-08 12:17:09.484384,Wangechi,Pvt,+254,Kariuki,+254721967825,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Wangechi Kariuki +254721967825,4
+2025-01-08 12:23:12.253418,2025-01-08 12:23:12.253469,Anne,Pvt,+27,Karanja,+27740530267,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Anne Karanja +27740530267,4
+2025-01-08 12:36:41.388197,2025-01-08 12:36:41.388241,Rose,Pvt,+27,Otieno,+27790824575,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Rose Otieno +27790824575,4
+2025-01-08 12:38:52.157595,2025-01-08 12:38:52.157635,Dorene,Pvt,+254,Musweharari,+254797199425,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Dorene Musweharari +254797199425,4
+2025-01-08 12:52:27.906542,2025-01-08 12:52:27.906599,Salome,Pvt,+27,Kanyara,+27725867025,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Salome Kanyara +27725867025,4
+2025-01-08 13:02:11.615244,2025-01-08 13:02:11.615282,Rose,Pvt,+254,Gitahi,+254721643860,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Rose Gitahi +254721643860,4
+2025-01-08 13:19:33.574008,2025-01-08 13:19:33.574040,Idris,Pvt,+254,Diba,+254798007734,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Idris Diba +254798007734,4
+2025-01-08 13:34:34.564248,2025-01-08 13:34:34.564295,Steve,Pvt,+254,Kiruri,+254722654654,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Steve Kiruri +254722654654,4
+2025-01-09 11:39:37.023203,2025-01-09 11:39:37.023252,REGAL DISTRIBUTORS SA PTY,REGAL DISTRIBUTORS SA PTY,+27,"9 ELECTRON STREET LINBRA BUSNESS PARK , Johannesburg Gauteng",011,,9 ELECTRON STREET,LINBRA BUSNESS PARK,South Africa,Johannesburg,Gauteng,,"REGAL DISTRIBUTORS SA PTY 9 ELECTRON STREET LINBRA BUSNESS PARK , Johannesburg Gauteng 011",4
+2025-01-09 12:01:21.570489,2025-01-09 12:01:21.570528,Centurion Systems (Pty) Ltd,Centurion Systems (Pty) Ltd,+27,"P O Box Cramerview Johannesburg, Gauteng, 2096 South Africa",+27116992400,,P O Box 506,Cramerview,South Africa,Johannesburg,Gauteng,,"Centurion Systems (Pty) Ltd P O Box Cramerview Johannesburg, Gauteng, 2096 South Africa +27116992400",4
+2025-01-10 07:09:40.573294,2025-01-10 07:09:40.573329,Mike,Pvt,+254,Cheffings,+254733610033,,,,Kenya,nairobi,,,Mike Cheffings +254733610033,2
+2025-01-10 09:55:49.182230,2025-01-10 09:55:49.182276,OWA celling systems Southern Africa (Pty) Ltd,OWA celling systems Southern Africa (Pty) Ltd,+27,19 fourth street Wynberg South Africa,+27117865762,marc@owa.co.za,19 fourth street,Wynberg,South Africa,johannesburg,Gauteng,,OWA celling systems Southern Africa (Pty) Ltd 19 fourth street Wynberg South Africa +27117865762,4
+2025-01-11 08:19:38.449094,2025-01-11 08:19:38.449138,Affiliate flooring Limited,Affiliate flooring Limited,+254,"Parkhaven APT D200 2nd PArkland avenue Nairobi, kenya",+254723989655,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,"Affiliate flooring Limited Parkhaven APT D200 2nd PArkland avenue Nairobi, kenya +254723989655",4
+2025-01-11 09:20:25.477281,2025-01-11 09:20:25.477329,Thandi,Pvt,+27,Barnah,+27794748073,joburg@masafalogistics.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Thandi Barnah +27794748073,4
+2025-01-13 09:46:49.917024,2025-01-13 09:46:49.917057,Sheetal,Pvt,+254,Shah,+254718505216,joburg@masafalogistics.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Sheetal Shah +254718505216,4
+2025-01-14 07:14:55.524681,2025-01-14 07:14:55.524738,Loyce,Pvt,+27,Wanjiku,+27662530850,joburg@masafalogistics.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Loyce Wanjiku +27662530850,4
+2025-01-14 07:24:55.611186,2025-01-14 07:24:55.611226,Jemima,Pvt,+254,Bornman,+254746511810,joburg@masafalogistics.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Jemima Bornman +254746511810,4
+2025-01-14 07:31:08.604489,2025-01-14 07:31:08.604532,Justin,Pvt,+254,Archer,+254746511810,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Justin Archer +254746511810,4
+2025-01-14 07:42:03.522207,2025-01-14 07:42:03.522258,Sister,Pvt,+254,Monica,+254798985023,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Sister Monica +254798985023,4
+2025-01-14 07:55:00.209211,2025-01-14 07:55:00.209290,Mathew,Pvt,+27,Goodwin,+27724705536,joburg@masafalogistics.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Mathew Goodwin +27724705536,4
+2025-01-14 07:59:40.070603,2025-01-14 07:59:40.070658,Antony,Pvt,+27,Mwangi,0634114234,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Antony Mwangi 0634114234,4
+2025-01-14 08:24:52.911257,2025-01-14 08:24:52.911310,Mrs Marry,Pvt,+27,Marry,+27724432399,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Mrs Marry Marry +27724432399,4
+2025-01-14 08:36:59.881055,2025-01-14 08:36:59.881123,Oscar Mwangangi,Synresins Limited,+254,Synresins Limited,+254702335098,oscar@synresins.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Oscar Mwangangi Synresins Limited +254702335098,4
+2025-01-14 08:43:26.575685,2025-01-14 08:43:26.575751,African Tusk Clothing,African Tusk Clothing,+254,Riverview Farm Barrington Road Ruigtevlei Sedgefield,044 343 1021,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,African Tusk Clothing Riverview Farm Barrington Road Ruigtevlei Sedgefield 044 343 1021,4
+2025-01-14 08:49:21.929094,2025-01-14 09:19:51.325143,Maryann,Pvt,+27,Usa,+18329039143,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Marry Usa +18329039143,4
+2025-01-14 09:33:11.766144,2025-01-14 09:33:11.766185,Sammy,Pvt,+27,Sambuli,+27720610008,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Sammy Sambuli +27720610008,4
+2025-01-14 10:03:19.239804,2025-01-14 10:03:19.239851,Ali,Pvt,+254,Hajj,+254713415161,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Ali Hajj +254713415161,4
+2025-01-14 10:13:15.528112,2025-01-14 10:13:15.528163,Marry,Pvt,+254,Wanjiru,+254758849604,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Marry Wanjiru +254758849604,4
+2025-01-15 07:47:52.857542,2025-01-15 07:47:52.857588,Sean,Pvt,+254,Garstin,+254722513143,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Sean Garstin +254722513143,21
+2025-01-15 07:53:25.957314,2025-01-15 07:53:25.957353,Caroline,Pvt,+254,Ndome,+254725312121,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Caroline Ndome +254725312121,21
+2025-01-15 07:58:54.611464,2025-01-15 07:58:54.611549,Mr,Pvt,+254,Ayub,+254726941177,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Mr Ayub +254726941177,21
+2025-01-15 08:22:11.295268,2025-01-15 08:22:11.295306,Elisheba,Pvt,+254,Ndungi,+254748506349,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Elisheba Ndungi +254748506349,21
+2025-01-15 08:33:06.149810,2025-01-15 08:33:06.149869,David,Pvt,+254,Ngandu,+254718852512,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,David Ngandu +254718852512,21
+2025-01-15 08:54:18.245562,2025-01-15 08:54:18.245606,Sister,Pvt,+254,Agari,+254720567065,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Sister Agari +254720567065,21
+2025-01-15 09:01:40.059392,2025-01-15 09:01:40.059441,Keroline,Pvt,+254,Kanyeria,+254722349452,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Keroline Kanyeria +254722349452,21
+2025-01-15 09:23:57.052293,2025-01-15 09:23:57.052332,Gloria,Pvt,+27,Kibor,0835039116,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Gloria Kibor 0835039116,21
+2025-01-15 12:18:29.557880,2025-01-15 12:18:29.557924,Tsitsi,Pvt,+254,Tsitsi,+254111908933,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Tsitsi Tsitsi +254111908933,21
+2025-01-17 09:22:05.107581,2025-01-17 09:22:05.107619,Gitahi,Pvt,+254,Githenji,+254780201741,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Gitahi Githenji +254780201741,21
+2025-01-17 09:49:47.280414,2025-01-17 09:49:47.280457,Frank,Pvt,+27,Odouri,+27748548302,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Frank Odouri +27748548302,21
+2025-01-17 12:38:46.964976,2025-01-17 12:38:46.965016,Evalyne,Pvt,+27,Matara,+27796915239,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Evalyne Matara +27796915239,21
+2025-01-18 09:44:09.469962,2025-01-18 09:44:09.470004,Priscilla,Pvt,+27,Chege,+27768492542,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Priscilla Chege +27768492542,4
+2025-01-20 11:12:57.679430,2025-01-20 11:12:57.679475,Anne,Pvt,+27,Achieng,0735386403,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Anne Achieng 0735386403,4
+2025-01-20 12:08:27.088284,2025-01-20 12:08:27.088339,Masafa,Pvt,+254,Logistics KE,0711595716,,,Nairobi,Kenya,Nairobi,,,Masafa Logistics KE 0711595716,2
+2025-01-20 12:57:20.090856,2025-01-20 12:57:20.090901,Patric,Pvt,+254,Ngechu,+254720493658,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Patric Ngechu +254720493658,4
+2025-01-21 06:25:27.988234,2025-01-21 06:25:27.988284,Esther,Pvt,+27,Mbugua,27796534502,joburg@masafalogistics.com,,,South Africa,,,,Esther Mbugua 27796534502,2
+2025-01-21 07:28:15.333963,2025-01-21 07:28:15.334038,Mrs,Pvt,+254,Mamoyo,+254797199425,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Mrs Mamoyo +254797199425,4
+2025-01-21 08:36:47.313837,2025-01-21 08:36:47.313889,Prisca,Pvt,+27,Mutugi,0636590452,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Prisca Mutugi 0636590452,4
+2025-01-21 09:01:09.495407,2025-01-21 09:01:09.495463,Mrs,Pvt,+254,Carol,+254793927759,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Mrs Carol +254793927759,4
+2025-01-21 10:17:34.686867,2025-01-21 10:17:34.686966,Debbie,Pvt,+254,Shan,+254713509688,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Debbie Shan +254713509688,4
+2025-01-21 11:10:18.585395,2025-01-21 11:10:18.585443,Grace,Pvt,+254,Nyandiya,+254717223001,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Grace Nyandiya +254717223001,4
+2025-01-22 09:16:43.029625,2025-01-22 09:16:43.029662,George,Pvt,+27,Shiro,+27843680901,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,George Shiro +27843680901,4
+2025-01-22 11:09:44.747324,2025-01-22 11:09:44.747402,David,Elite Christian School,+27,Mwaniki,0722432994,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,David Mwaniki 0722432994,4
+2025-01-23 07:48:13.071143,2025-01-23 07:48:13.071196,Alassa,Pvt,+27,Alassa,0722621624,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Alassa Alassa 0722621624,21
+2025-01-24 09:00:48.130788,2025-01-24 09:00:48.130854,Stanley,Pvt,+27,Macharia,+27746878052,wmacharia777@gmail.com,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,N/A,Stanley Macharia +27746878052,4
+2025-01-24 09:16:15.277708,2025-01-24 09:16:15.277765,Norman,Rhino Sawmills,+27,Fourie,+27609629844,norman@gfpmachines.com,johannesburg,Johannesburg,South Africa,Johannesburg,Gauteng,N/A,Norman Fourie +27609629844,4
+2025-01-24 11:30:10.568095,2025-01-24 11:30:10.568145,Justin,Pvt,+254,Justin,+254723704216,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Justin Justin +254723704216,4
+2025-01-24 13:49:34.529397,2025-01-24 13:49:34.529447,Sandra,Pvt,+254,Hill,+254720851937,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Sandra Hill +254720851937,18
+2025-01-25 06:57:58.854934,2025-01-25 06:57:58.855031,Esther,pvt,+27,mbugua,+27796534502,nairobi@masafalogistics.com,,,S.A,,,,Esther mbugua +27796534502,3
+2025-01-25 07:09:39.226710,2025-01-25 07:09:39.226747,Damaris,pvt,+27,Kibe    Durban,+27,nairobi@masafalogistics.com,,,,,,,Damaris Kibe    Durban +27,3
+2025-01-25 07:24:10.444332,2025-01-25 07:24:10.444384,stanford,pvt,+27,mutare,+27782185109,nairobi@masafalogistics.com,,,,,,,stanford mutare +27782185109,3
+2025-01-25 07:30:12.522626,2025-01-25 07:30:12.522852,florence,,+27,muthoni,+27849986394,nairobi@masafalogistics.com,,,,,,,florence muthoni +27849986394,3
+2025-01-25 07:37:50.504028,2025-01-25 07:37:50.504079,keity /francis  botswana,pvt,+267,,+26771670891,nairobi@masafalogistics.com,,,,,,,keity /francis  botswana None +26771670891,3
+2025-01-25 07:54:54.917373,2025-01-25 07:54:54.917439,mary,pvt,+27,kioko durban,+27632771429,,,,,,,,mary kioko durban +27632771429,3
+2025-01-25 08:01:51.222824,2025-01-25 08:01:51.222886,caroh,pvt,+27,kimingi,+27730944158,,,,,,,,caroh kimingi +27730944158,3
+2025-01-25 08:15:19.118815,2025-01-25 08:15:19.118868,elizabeth,pvt,+27,kioki durban,+27,nairobi@masafalogistics.com,,,,,,,elizabeth kioki durban +27,3
+2025-01-25 08:20:05.155532,2025-01-25 08:20:05.155588,esther,pvt,+27,githinji,+27620822340,nairobi@masafalogistics.com,,,,,,,esther githinji +27620822340,3
+2025-01-25 08:27:35.080599,2025-01-25 08:27:35.080644,elizabeth,,+27,N . njenga,+27789859772,nairobi@masafalogistics.com,,,,,,,elizabeth N . njenga +27789859772,3
+2025-01-25 08:32:24.228186,2025-01-25 08:32:33.778868,Thejiwe,pvt,+27,nkogtsi,+27825967677,nairobi@masafalogistics.com,,,,,,,Thejiwe nkogtsi +27825967677,3
+2025-01-25 08:37:12.719980,2025-01-25 08:37:12.720032,GEORGE,pvt,+27,NGANGA  CAPE TOWN,+27,nairobi@masafalogistics.com,,,,,,,GEORGE NGANGA  CAPE TOWN +27,3
+2025-01-25 08:44:18.146508,2025-01-25 08:44:18.146563,lydia,pvt,+268,matsenjwa,+26876033773,nairobi@masafalogistics.com,,,,,,,lydia matsenjwa +26876033773,3
+2025-01-25 08:59:01.395499,2025-01-25 08:59:01.395545,Alice,pvt,+264,Jeomba,+264857922000,nairobi@masafalogistics.com,,,,,,,Alice Jeomba +264857922000,2
+2025-01-25 09:06:09.174322,2025-01-25 09:06:09.174364,simon,pvt,+27,njenga PE,+27613922613,nairobi@masafalogistics.com,,,,,,,simon njenga PE +27613922613,2
+2025-01-25 09:18:27.105196,2025-01-27 10:43:43.181270,salome,pvt,+27,kanyara,+27725867025,nairobi@masafalogistics.com,,,S.A,,,,salome kanyara +27,2
+2025-01-27 07:16:58.827988,2025-01-27 07:16:58.828041,rose,Pvt,+254,wainaina,254,,,nairobi,Kenya,nairobi,,,rose wainaina 254,2
+2025-01-27 07:34:33.006488,2025-01-27 07:34:33.006555,Faranak,Pvt,+254,Faranak,0721437878,,,nairobi,Kenya,nairobi,,,Faranak Faranak 0721437878,2
+2025-01-27 08:59:48.533041,2025-01-27 08:59:48.533093,Sam,Pvt,+254,Sam,+254713402517,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Sam Sam +254713402517,4
+2025-01-27 09:06:44.570781,2025-01-27 09:06:44.570814,Kicheche,Pvt,+254,Champs,+254726660952,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Kicheche Champs +254726660952,4
+2025-01-27 09:37:09.145317,2025-01-27 09:37:09.145361,susan,pvt,+27,kithinji,+27842985188,susankithinji@gmail.com,,,S.A,,,,susan kithinji +27842985188,2
+2025-01-27 09:54:58.757634,2025-01-27 09:54:58.757685,Mwaniki,pvt,+264,,+267813619565,,,,Namibia,,,,Mwaniki None +267813619565,2
+2025-01-27 10:31:22.081415,2025-01-27 10:31:22.081477,Robert,pvt,+27,Wanjohi,+27745212125,,,,S.A,,,,Robert Wanjohi +27745212125,2
+2025-01-27 10:54:51.947049,2025-01-27 10:57:41.536167,salome,pvt,+27,kanyara,+27725867025,nairobi@masafalogistics.com,,,S. Africa,,,,salome kanyara +27725867025,2
+2025-01-27 11:09:20.208112,2025-01-27 11:09:20.208186,Severina,pvt,+27,Njeri,+27735503810,nairobi@masafalogistics.com,,,S. Africa,Cape town,,,Severina Njeri +27735503810,2
+2025-01-27 11:09:29.405767,2025-01-27 11:09:29.405823,Evalyn,Pvt,+254,Warumu,+254701478440,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Evalyn Warumu +254701478440,18
+2025-01-27 11:19:42.572406,2025-01-27 11:19:42.572482,Mary wangui,pvt,+27,Githinji,+27724120987,nairobi@masafalogistics.com,,,S. Africa,Johannesburg,,,Mary wangui Githinji +27724120987,2
+2025-01-27 13:05:50.836046,2025-01-27 13:05:50.836106,Henrietta,Pvt,+254,Parazzi,0740072729,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Henrietta Parazzi 0740072729,18
+2025-01-28 06:11:31.627388,2025-01-28 06:11:31.627509,Tony,pvt,+27,Rio,+27840118080,nairobi@masafalogistics.com,,,S. Africa,,,,Tony Rio +27840118080,19
+2025-01-28 08:24:43.056064,2025-01-28 08:24:43.056122,Ruth,Pvt,+254,Ruth maina,0724315658,,,nairobi,Kenya,nairobi,,,Ruth Ruth maina 0724315658,22
+2025-01-28 09:19:52.696054,2025-01-28 09:19:52.696118,Eric,Pvt,+254,Waweru,07065567945,,,nairobi,Kenya,Nairobi,,,Eric Waweru 07065567945,22
+2025-01-28 09:37:58.983056,2025-01-28 09:37:58.983102,Ruth,Pvt,+254,maina,0723481777,,,nairobi,,nairobi,,,Ruth maina 0723481777,22
+2025-01-28 11:32:26.664091,2025-01-28 11:32:26.664140,Rose,Pvt,+254,Ndunda,0721511262,,,Nairobi,kenya,nairobi,,,Rose Ndunda 0721511262,22
+2025-01-28 12:55:06.325072,2025-01-28 12:55:06.325128,Penny,Cinnabar,+254,Horsey,+254733747848,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Penny Horsey +254733747848,18
+2025-01-29 06:33:49.547282,2025-01-29 06:38:48.515133,Peter,Pvt,+254,Mbatia,0773128485,,,Nairobi,Kenya,nairobi,,,Peter Mbatia 0773128485,22
+2025-01-29 09:03:35.249526,2025-01-29 09:03:35.249583,Christine,Pvt,+254,Wamboi,254,,,Nairobi,Kenya,Nairobi,,,Christine Wamboi 254,22
+2025-01-29 10:53:12.956796,2025-01-29 10:53:12.956853,Prince,pvt,+27,Mlalazi,+27717761792,nairobi@masafalogistics.com,,,S. Africa,nairobi,,,Prince Mlalazi +27717761792,19
+2025-01-29 12:08:46.528328,2025-01-29 12:08:46.528380,Susan/,pvt,+27,William,+2348023102421,nairobi@masafalogistics.com,,,S. Africa,Johannesburg,,,Susan/ William +2348023102421,19
+2025-01-30 08:14:22.494983,2025-01-30 08:14:22.495048,Jay Sea Frieght Movers Ltd,Jay Sea Frieght Movers Ltd,+254,,+254,browngachie@gmail.com,Capetown,Capetown,South Africa,Capetown,Western cape,,Jay Sea Frieght Movers Ltd None +254,4
+2025-01-30 09:50:18.779725,2025-01-30 09:50:18.779782,Mr Mapundo,pvt,+27,,+27787183292,nairobi@masafalogistics.com,,,S. Africa,,,,Mr Mapundo None +27787183292,19
+2025-01-30 11:23:31.697220,2025-01-30 11:23:31.697344,Ida,Pvt,+254,Makoni,+254711320130,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Ida Makoni +254711320130,18
+2025-01-30 11:35:41.968641,2025-01-30 11:35:41.968686,Onesmus,Pvt,+27,Nyangau,+27074715883,joburg@masafalogistics.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Onesmus Nyangau +27074715883,4
+2025-01-30 14:00:54.714652,2025-01-30 14:00:54.714691,Anne,Pvt,+27,Wambui,0760227512,nairobi@masafalogistics.com,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Anne Wambui 0760227512,18
+2025-01-30 14:25:53.016380,2025-01-30 14:25:53.016425,Response Medical,Response Medical kenya,+254,Wambui,+254720522562,nairobi@masafalogistics.com,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Response Medical Wambui +254720522562,18
+2025-01-31 06:58:12.600868,2025-01-31 06:58:12.600935,Lucy,Pvt,+254,Musiira,0708873816,,,nairobi,Kenya,Nairobi,,,Lucy Musiira 0708873816,22
+2025-01-31 07:03:58.932691,2025-01-31 07:03:58.932755,Douglas,BM Management Johannesburg PTY LTD,+27,Spinas,+27823354280,carol@bmprint.com,"Unit 12 Covora street,",Jet Park,South Africa,Johannesburg,,47110273911,Douglas Spinas +27823354280,18
+2025-01-31 11:35:01.988236,2025-01-31 11:35:01.988290,Maureen,Pvt,+254,Achieng,+254724881111,joburg@masafalogistics.com,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Maureen Achieng +254724881111,4
+2025-01-31 13:23:35.300035,2025-01-31 13:23:35.301729,Maryanne,Pvt,+27,Chigonde,+26377225472,nairobi@masafalogistics.com,13 Surum Avenue,Harare,Zimbabwe,Harare,Mashonaland,,Maryanne Chigonde +26377225472,4
+2025-02-03 06:36:13.894147,2025-02-03 06:36:13.894260,Genergy Electrical Ltd,Genergy Electrical Ltd,+254,,+254723764467,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Genergy Electrical Ltd None +254723764467,4
+2025-02-03 10:44:41.192682,2025-02-03 10:44:41.192808,Nemsi  Holding,Nemsi  Holding Limited,+27,Limited,0625510169,joburg@masafalogistics.com,Ngara Park Road,Ngara,South Africa,Nairobi,Nairobi,PO51623344B,Nemsi  Holding Limited 0625510169,4
+2025-02-03 11:20:53.396681,2025-02-03 11:20:53.396738,Mrs,Pvt,+254,Virginia,+254,joburg@masafalogistics.com,Ngara Park Road,Ngara,South Africa,Nairobi,Nairobi,,Mrs Virginia +254,4
+2025-02-04 14:01:54.348047,2025-02-04 14:01:54.348115,Martin,Lewa wildlife conservancy,+254,Mutwiri,+254791570509,,Ngara Park Road,Ngara,Kenya,Ngara,Nairobi,,Martin Mutwiri +254791570509,4
+2025-02-05 11:46:58.284450,2025-02-05 11:46:58.284508,Rebbeca,Pvt,+27,Gikonyo,+27731566202,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Rebbeca Gikonyo +27731566202,18
+2025-02-05 14:54:05.259144,2025-02-05 14:54:05.259199,Edwin,Pvt,+27,Chege,0638511874,eddybasket03@GMAIL.COM,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Edwin Chege 0638511874,18
+2025-02-06 12:20:16.969941,2025-02-06 12:20:16.970011,Dr. Edwin,Pvt,+27,E Ege,+27631082985,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Dr. Edwin E Ege +27631082985,18
+2025-02-06 12:32:21.322676,2025-02-06 12:32:21.322726,George,Pvt,+27,Isaboke,+27840763715,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,George Isaboke +27840763715,18
+2025-02-06 13:36:05.486986,2025-02-06 13:36:05.487054,Kavitha,Pvt,+254,Investments,+254729130518,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Kavitha Investments +254729130518,21
+2025-02-06 13:42:10.358314,2025-02-06 13:42:10.358376,gladys,Pvt,+254,Some,+254722699548,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,gladys Some +254722699548,21
+2025-02-06 14:58:52.610582,2025-02-06 14:58:52.610650,GFP Machines,GFP Machines,+27,,+27822628896,,plot 7,eikenhoff,South Africa,Johannesburg,Gauteng,,GFP Machines None +27822628896,21
+2025-02-07 08:20:19.741358,2025-02-07 08:20:19.741435,Reenet,Pvt,+254,Mogere,+254769753386,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Reenet Mogere +254769753386,18
+2025-02-10 12:09:29.187116,2025-02-10 12:09:29.187167,Sister,Pvt,+254,Maria,+254108433562,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Sister Maria +254108433562,4
+2025-02-10 12:41:53.032844,2025-02-10 12:41:53.032905,Caroline,Pvt,+27,Kanyeria,+254722349452,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Caroline Kanyeria +254722349452,4
+2025-02-11 07:13:32.846207,2025-02-11 07:13:32.846283,Bardahl Africa,Bardahl Africa,+27,,+27 84 581 2884,jacques@bardahleurope.com,Building No 253  30 Rudo Nel Road,Boksburg 1459,South Africa,Johannesburg,Gauteng,,Bardahl Africa None +27 84 581 2884,4
+2025-02-11 07:33:50.285867,2025-02-11 07:33:50.285971,Irungu,Pvt,+27,Nyambura,+27625510169,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Irungu Nyambura +27625510169,4
+2025-02-11 07:38:13.885715,2025-02-11 07:38:13.885779,Richard,Pvt,+27,Laithaka,+27625510169,,Ngara park road,Ngara,Kenya,Nairobi,Gauteng,,Richard Laithaka +27625510169,4
+2025-02-11 07:57:44.996825,2025-02-11 07:57:44.996879,Julia,Dyon Premium,+27,Muriethi,+254732118734,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Julia Muriethi +254732118734,4
+2025-02-11 08:47:48.394177,2025-02-11 08:47:48.394222,Mr,Pvt,+27,Francis,+27625510169,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Mr Francis +27625510169,4
+2025-02-11 08:57:58.450552,2025-02-11 08:57:58.450612,Mr,Pvt,+27,Edward,+72832616182,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Mr Edward +72832616182,21
+2025-02-11 09:05:51.858136,2025-02-11 09:05:51.858184,Mrs M,Pvt,+27,Gladwell,+27625510169,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Mrs M Gladwell +27625510169,4
+2025-02-11 09:17:03.343208,2025-02-11 09:17:03.343348,Domiana,Skinsol Aesthetics,+254,Mwangangi,+254724233477,domiana@skinsolaesthetics.com,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Domiana Mwangangi +254724233477,4
+2025-02-11 13:04:21.960903,2025-02-11 13:04:21.960965,Howard,Pvt,+254,Micah,+25472123645,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Howard Micah +25472123645,4
+2025-02-11 13:25:15.030101,2025-02-11 13:25:15.030190,Johra,Pvt,+254,Said,+254715313697,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Johra Said +254715313697,4
+2025-02-11 13:32:05.966417,2025-02-11 13:32:05.966465,Erick,Pvt,+27,Nyachwaya,+27625510169,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Erick Nyachwaya +27625510169,4
+2025-02-11 13:48:42.282332,2025-02-11 13:48:42.282380,Milcah,Skinbar,+27,Wambui,+27625510169,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Milcah Wambui +27625510169,4
+2025-02-11 14:24:14.637655,2025-02-11 14:24:14.637762,Mrs,Pvt,+27,Nasibo,+27625510169,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Mrs Nasibo +27625510169,4
+2025-02-12 06:50:48.831457,2025-02-12 06:50:48.831526,Zsa Zsa Zsu Ltd,Zsa Zsa Zsu Ltd,+254,,+254712280884,nairobi@masafalogistics.com,Ngara Park Road,Ngara,Kenya,Ngara,Nairobi,,Zsa Zsa Zsu Ltd None +254712280884,4
+2025-02-12 06:53:16.190965,2025-02-12 06:53:16.191020,Janna,Pvt,+27,Janna,+27783207715,,Ngara Park Road,Ngara,Kenya,Ngara,Nairobi,,Janna Janna +27783207715,4
+2025-02-12 07:06:36.318894,2025-02-12 07:06:36.318962,Charles,Pvt,+27,Charles,+27722569301,,Ngara Park Road,Ngara,Kenya,Ngara,Nairobi,,Charles Charles +27722569301,4
+2025-02-12 07:18:10.261053,2025-02-12 07:18:10.261112,Isabell,Pvt,+254,Wambui,+254721577343,,Ngara Park Road,Ngara,Kenya,Ngara,Nairobi,,Isabell Wambui +254721577343,4
+2025-02-12 07:28:22.220103,2025-02-12 07:28:22.220157,Waithera,Pvt,+254,Wanyoike,+254720561744,,Ngara Park Road,Ngara,Kenya,Ngara,Nairobi,,Waithera Wanyoike +254720561744,4
+2025-02-12 07:29:55.109291,2025-02-12 07:29:55.109338,Francis,Pvt,+27,Ogenga,+27625510169,,Ngara Park Road,Ngara,Kenya,Ngara,Nairobi,,Francis Ogenga +27625510169,4
+2025-02-12 07:37:58.085537,2025-02-12 07:37:58.085610,Mr Omwoyo,Pvt,+27,Ogenga,+27625510169,,Ngara Park Road,Ngara,Kenya,Ngara,Nairobi,,Mr Omwoyo Ogenga +27625510169,4
+2025-02-12 09:38:55.412942,2025-02-12 09:38:55.412993,Humphrey,,+254,Mwangi,+254,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Humphrey Mwangi +254,4
+2025-02-12 13:08:18.238783,2025-02-12 13:08:18.238842,Paul,Leopard International Systems,+254,Murigo,+254729834809,,Ngara Park Road,Ngara,kenya,Nairobi,Nairobi,,Paul Murigo +254729834809,4
+2025-02-12 13:41:38.899716,2025-02-12 13:41:38.899798,Mr,Pvt,+254,Samuel,+254,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Mr Samuel +254,4
+2025-02-12 13:54:56.731264,2025-02-12 13:54:56.731318,Mr Moses,pvt,+254,Murigo,+254733887732,,Ngara Park Road,Ngara,kenya,Nairobi,Nairobi,,Mr Moses Murigo +254733887732,4
+2025-02-12 13:56:48.783049,2025-02-12 13:56:48.783093,Emaculate,Pvt,+254,Mutisiya,+254716203890,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Emaculate Mutisiya +254716203890,4
+2025-02-12 14:08:33.487268,2025-02-12 14:08:33.487333,George,Pvt,+27,Manyara,+27693666241,,Ngara Park Road,Ngara,kenya,Nairobi,Nairobi,,George Manyara +27693666241,4
+2025-02-12 14:35:48.535181,2025-02-12 14:35:48.535225,Monica,Pvt,+254,Gura,+254794808377,,Ngara park road,Ngara,Kenya,Nairobi,Nairobi,,Monica Gura +254794808377,4
+2025-02-13 07:11:03.320708,2025-02-13 07:11:03.320771,Caroline,pvt,+254,kiilu,0793927759,Nairobi@masafalogistics.com,,,Kenya,,,,Caroline kiilu 0793927759,22
+2025-02-13 08:01:28.592968,2025-02-13 08:01:28.593124,Alistair,Pvt,+254,Barners,+254716788469,,Ngara Park Road,Ngara,Kenya,Ngara,Nairobi,,Alistair Barners +254716788469,23
+2025-02-13 08:58:48.927558,2025-02-13 08:58:48.927626,Safety By design,Safety by design,+254,,+254722796656,,Ngara Park Road,Ngara,kenya,Nairobi,Nairobi,,Safety By design None +254722796656,4
+2025-02-13 09:31:04.559444,2025-02-13 09:31:04.559518,Mary,Pvt,+27,Nkatha,0746509604,,Ngara Park Road,Ngara,kenya,Nairobi,Nairobi,,Mary Nkatha 0746509604,4
+2025-02-13 09:52:17.651879,2025-02-13 09:52:17.651921,Jastus,Pvt,+27,Murimi,+27685820937,,Ngara Park Road,Ngara,Kenya,Ngara,Nairobi,,Jastus Murimi +27685820937,4
+2025-02-13 11:03:03.161986,2025-02-13 11:03:03.162024,Taltec,Taltec,+27,,0122502188,admin@taltec.co.za,7 Theuns mulder street,P OBox 995,South Africa,Brits,Northwest,4320109392,Taltec None 0122502188,4
+2025-02-13 12:28:29.108516,2025-02-13 12:28:29.108564,Godfrey,pvt,+254,Ngetich,+25472426526,,Ngara Park Road,Ngara,Kenya,Nairobi,Nairobi,,Godfrey Ngetich +25472426526,4

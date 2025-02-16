@@ -1,0 +1,209 @@
+[
+    {
+        "id": "core",
+        "name": "core",
+        "modules": [
+            {
+                "id": "core",
+                "name": "Core",
+                "docs": [
+                    {
+                        "id": "user",
+                        "model": "User",
+                        "name": "User"
+                    },
+                    {
+                        "id": "block_module",
+                        "model": "BlockModule",
+                        "name": "block_module"
+                    },
+                    {
+                        "id": "permission",
+                        "model": "Permission",
+                        "name": "Permission"
+                    },
+                    {
+                        "id": "has_role",
+                        "model": "HasRole",
+                        "name": "has_role"
+                    },
+                    {
+                        "id": "role_profile",
+                        "model": "RoleProfile",
+                        "name": "role_profile"
+                    },
+                    {
+                        "id": "language",
+                        "model": "Language",
+                        "name": "language"
+                    },
+                    {
+                        "id": "branch",
+                        "model": "Branch",
+                        "name": "branch"
+                    },
+                    {
+                        "id": "user_type",
+                        "model": "UserType",
+                        "name": "user_type"
+                    },
+                    {
+                        "id": "user_email",
+                        "model": "UserEmail",
+                        "name": "user_email"
+                    },
+                    {
+                        "id": "user_social_login",
+                        "model": "UserSocialLogin",
+                        "name": "user_social_login"
+                    },
+                    {
+                        "id": "defaultvalue",
+                        "model": "Defaultvalue",
+                        "name": "defaultvalue"
+                    },
+                    {
+                        "id": "user_role_profile",
+                        "model": "UserRoleProfile",
+                        "name": "user_role_profile"
+                    },
+                    {
+                        "id": "role_type",
+                        "model": "RoleType",
+                        "name": "Role Type"
+                    },
+                    {
+                        "id": "gender",
+                        "model": "Gender",
+                        "name": "gender"
+                    },
+                    {
+                        "id": "module_profile",
+                        "model": "ModuleProfile",
+                        "name": "module_profile"
+                    },
+                    {
+                        "id": "reminder",
+                        "model": "Reminder",
+                        "name": "reminder"
+                    },
+                    {
+                        "id": "group",
+                        "model": "Group",
+                        "name": "Group"
+                    },
+                    {
+                        "id": "workspace",
+                        "model": "Workspace",
+                        "name": "workspace"
+                    }
+                ],
+                "print_formats": []
+            }
+        ]
+    },
+    {
+        "id": "masafa",
+        "name": "masafa",
+        "modules": [
+            {
+                "id": "masafa",
+                "name": "Masafa",
+                "docs": [
+                    {
+                        "id": "employee",
+                        "model": "Employee",
+                        "name": "employee"
+                    },
+                    {
+                        "id": "item_group",
+                        "model": "ItemGroup",
+                        "name": "Item Group"
+                    },
+                    {
+                        "id": "invoice",
+                        "model": "Invoice",
+                        "name": "invoice"
+                    },
+                    {
+                        "id": "driver",
+                        "model": "Driver",
+                        "name": "driver"
+                    },
+                    {
+                        "id": "item",
+                        "model": "Item",
+                        "name": "item"
+                    },
+                    {
+                        "id": "payment",
+                        "model": "Payment",
+                        "name": "payment"
+                    },
+                    {
+                        "id": "service",
+                        "model": "Service",
+                        "name": "service"
+                    },
+                    {
+                        "id": "dispatch",
+                        "model": "Dispatch",
+                        "name": "Dispatch"
+                    },
+                    {
+                        "id": "discount",
+                        "model": "Discount",
+                        "name": "Discount"
+                    },
+                    {
+                        "id": "supplier",
+                        "model": "Supplier",
+                        "name": "Supplier"
+                    },
+                    {
+                        "id": "customer",
+                        "model": "Customer",
+                        "name": "customer"
+                    },
+                    {
+                        "id": "crossborder",
+                        "model": "Crossborder",
+                        "name": "crossborder"
+                    },
+                    {
+                        "id": "vehicle",
+                        "model": "Vehicle",
+                        "name": "vehicle"
+                    },
+                    {
+                        "id": "paymentdetails",
+                        "model": "Paymentdetails",
+                        "name": "paymentdetails"
+                    }
+                ],
+                "print_formats": [
+                    {
+                        "id": "consignment",
+                        "model": "Consignment",
+                        "name": "consignment"
+                    },
+                    {
+                        "id": "invoice",
+                        "model": "Invoice",
+                        "name": "Invoice"
+                    },
+                    {
+                        "id": "barcode_print_list",
+                        "model": "BarcodePrintList",
+                        "name": "barcode_print_list"
+                    },
+                    {
+                        "id": "barcode_print",
+                        "model": "BarcodePrint",
+                        "name": "barcode_print"
+                    }
+                ]
+            }
+        ]
+    }
+]

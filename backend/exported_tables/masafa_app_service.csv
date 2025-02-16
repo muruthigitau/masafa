@@ -1,0 +1,437 @@
+created,modified,name,description,price,status,owner_id,customer_id,id
+2024-10-11 09:26:26.733952,2024-10-11 09:26:26.734004,,,,New,4,,000001
+2024-10-11 09:28:15.838217,2024-10-11 09:58:08.081340,,,,Added,4,,000002
+2024-10-11 09:46:11.730925,2024-10-11 09:46:11.730955,,,,New,4,,000003
+2024-10-11 09:55:58.774729,2024-10-11 09:58:08.083968,,,,Added,4,,000004
+2024-10-11 10:01:47.292586,2024-10-24 08:06:41.658899,,,,Added,4,,000005
+2024-10-21 11:43:52.484052,2024-10-21 11:43:52.484085,,,,New,4,,000006
+2024-10-21 11:44:07.227750,2024-10-21 11:44:07.227802,,,,New,4,,000007
+2024-10-21 11:51:54.741906,2024-10-21 11:53:04.973916,Goods In Transit Insuarance,Quote amount covers GIT upto the value of R500000,,Added,4,,000008
+2024-10-21 11:52:29.463812,2024-10-21 11:53:04.977332,Clearance,All Clearance on Transit borders are included on this quotation,,Added,4,,000009
+2024-10-21 11:52:59.564068,2024-10-21 11:53:04.980876,Packaging,"Quote amount is exclusive of packaging, if there is need for extra packaging the client will be advised",,Added,4,,000010
+2024-10-23 10:14:56.474203,2024-10-24 06:43:27.991179,Clearence,10% of the invoice value(USD4000 at the rate of USD1-R17.63) for local COC and border facilitation,7052,Added,4,,000011
+2024-10-25 10:07:46.891688,2024-10-30 12:30:59.389830,Clearance,10% of the invoice value (R14 000 at the rate of R1-KES7.5) for Local COC and border facilitation,10500,Added,1,,000012
+2024-10-25 11:33:04.165338,2024-11-11 09:00:05.811106,Clearance,10% of the invoice value for local (R759450 at the rate of R1-Kes7.5)COC and border facilitataion,569587,Added,4,,000013
+2024-10-25 11:36:24.849249,2024-11-11 09:00:05.835172,Insuarance,Quote amount covers GIT upto the value of R500000,,Added,4,,000014
+2024-10-25 11:49:06.646292,2024-10-30 14:36:47.488677,Clearance,10% of the invoice value (R52442 at the rate of R1-KES7.5) for Local COC and border facilitation,39332,Added,18,,000015
+2024-10-25 11:56:55.441414,2024-10-30 14:36:47.491247,Clearance,10% of the invoice value (R151213 at the rate of R1-KES7.5) for Local COC and border facilitation,113410,Added,18,,000016
+2024-10-26 09:40:12.141709,2024-10-26 09:47:07.074063,Clearence,10% of the invoice value(USD27898.30 at the rate of USD1-Kes130) for local COC and border facilitation,362674,Added,4,,000017
+2024-10-26 09:44:52.584437,2024-10-26 09:47:07.076646,Insurance,Quote includes GIT of up to R500000,,Added,4,,000018
+2024-10-26 09:46:00.991134,2024-10-26 09:47:07.079447,Packaging,"Quote amount is exclusive of packaging, if there is need for extra packaging the client will be advised",,Added,4,,000019
+2024-10-26 09:46:02.711127,2024-10-26 09:46:02.711176,,,,New,4,,000020
+2024-10-26 09:46:03.428155,2024-10-26 09:47:07.082326,Clearance,All Clearance on Transit borders are included on this quotation,,Added,4,,000021
+2024-10-26 10:08:09.350567,2024-11-11 09:00:05.854850,Down Payment,R2000 @the rate of R1-kes7.5 paid by Juan Lab electronics,-15000,Added,4,,000022
+2024-10-26 10:17:17.015243,2024-10-26 10:33:44.848683,Clearance,10% of the invoice value (R at the rate of R5500-KES7.5) for Local COC and border facilitation,4125,Added,18,,000023
+2024-10-26 10:42:26.970454,2024-11-15 06:05:47.004740,Clearance,10% of the invoice value (R5500 at the rate of R1-KES7.5) for Local COC and border facilitation,4125,Added,18,,000024
+2024-10-26 11:06:47.781491,2025-02-14 10:31:28.838790,Clearance,10% of the invoice value (R78550 at the rate of R1-KES7.5) for Local COC and border facilitation,58913,Added,18,,000025
+2024-10-26 11:08:00.700593,2025-02-14 10:31:28.845991,Clearance,10% of the invoice value (R28225 at the rate of R1-KES7.5) for Local COC and border facilitation,21169,Added,18,,000026
+2024-10-26 11:08:08.792948,2025-02-14 10:31:28.852612,Clearance,10% of the invoice value (R2615 at the rate of R1-KES7.5) for Local COC and border facilitation,1961,Added,18,,000027
+2024-10-26 11:10:31.435114,2025-02-14 10:31:28.865383,Clearance,10% of the invoice combined value (R6810 at the rate of R1-KES7.5) for Local COC and border facilitation,5107,Added,18,Kelly Omondi +254717223608,000028
+2024-10-28 09:52:00.852226,2024-10-29 05:20:49.702887,Clearance,10% of the invoice value (R39308 at the rate of R1-KES7.5) for Local COC and border facilitation,29481,Added,18,,000029
+2024-10-28 10:04:31.340321,2024-10-28 10:06:30.910844,Clearance,10% of the invoice value (R14173.92 at the rate of R1-KES7.5) for Local COC and border facilitation,10630,Added,18,,000030
+2024-10-28 11:07:18.592161,2024-10-28 11:46:08.201957,,,,Added,2,,000031
+2024-10-28 11:08:21.287432,2024-10-28 11:46:08.205394,,,,Added,2,,000032
+2024-10-29 05:07:38.098457,2024-10-29 05:07:38.098498,,,,New,2,,000033
+2024-10-29 06:12:47.271556,2024-11-08 17:00:26.116886,hhh,,90,Added,3,,new
+2024-10-29 06:15:52.422676,2024-11-08 17:00:26.119232,too,,800,Added,3,,try
+2024-10-29 06:17:21.878610,2024-11-08 17:00:26.121319,newvid,,700,Added,3,,vid
+2024-11-04 10:06:20.010715,2024-11-04 10:06:20.010738,newvid,,700,Added,3,,vidnnn
+2024-11-04 10:11:19.317497,2024-11-08 08:10:34.503501,tea,chai,1091,Added,3,,nXqtMucwrw
+2024-11-04 10:25:17.419707,2024-11-04 10:25:51.750298,Clearance,10% of the invoice combined value (R5500 at the rate of R1-KES7.5) for Local COC and border facilitation,4125,Added,2,Kelly Omondi +254717223608,9xVGes7wlb
+2024-11-04 10:35:07.586014,2024-11-04 10:35:07.586056,Clearance,10% of the invoice combined value (R6810 at the rate of R1-KES7.5) for Local COC and border facilitation,5107,Added,2,Kelly Omondi +254717223608,DPtu5MWIgz
+2024-11-04 10:36:17.110894,2024-11-04 10:36:47.938107,Clearance,10% of the invoice combined value (R5500 at the rate of R1-KES7.5) for Local COC and border facilitation,4125,Added,2,Kelly Omondi +254717223608,irqIw7Fork
+2024-11-04 10:37:46.423510,2024-11-04 10:37:46.423612,,,,New,2,,meFQuuHkqZ
+2024-11-04 10:38:42.630310,2025-02-14 10:31:28.875113,Clearance,10% of the invoice value ( R 5500 at the rate of R1-KES7.5) for Local COC and border facilitation,4125,Added,2,,VZuWNW3Nar
+2024-11-04 14:41:43.892867,2024-11-08 08:13:30.182234,Shipping,Shipping extras,100,Added,,,E2ETW3oLek
+2024-11-05 06:38:48.975057,2024-11-05 06:38:53.507712,Clearing,10% of the invoice value for local COC and border facilitation,50,Added,4,,cMUhWgv50T
+2024-11-05 11:39:46.251287,2024-11-14 07:51:42.927044,Clearence,Duties and taxis USD7770at the rate of USD1-R1744 for local COC and border facilitation,135549,Added,4,,MbksidyBkV
+2024-11-05 13:42:21.001265,2024-11-05 13:51:56.040100,Clearence,15% of the invoice value(USD52571 at the rate of USD1-R17.45) for local COC and border facilitation,137604,Added,4,,GiJAhH2Y2x
+2024-11-05 14:29:25.848110,2024-11-06 07:05:20.601247,Clearence,10% of the invoice value (USD500 at the rate of USD1-Kes130) for local COC and border facilitation,6500,Added,,,A80r8p5q6v
+2024-11-06 07:04:47.523567,2024-11-06 07:05:20.607360,Collection,Collection fee from Supplier,7500,Added,4,,rpdsMXqgQK
+2024-11-06 09:38:29.651381,2024-11-08 09:50:45.455340,Clearence and Documentation,10% of  the invoice value for local COC and border facilitation,10644,Added,,,SHylgOwkpg
+2024-11-06 09:51:31.799411,2024-11-12 04:58:37.473011,Clearance,10% of the invoice value (R10450 at the rate of R1-kes 7.5) for local COC and border facilitation,7837,Added,,,163XWx5gHK
+2024-11-06 09:51:31.808688,2024-11-12 04:58:37.477506,Collection fee,Collection fee from supplier,7500,Added,,,c5Ppg5fevJ
+2024-11-06 10:38:37.721761,2024-11-06 10:38:41.049021,Clearence,10% of the invoice value for local COC and border facilitation at the rate of USD1-kes130for  local COC and border facilitationion,91000,Added,,,l4GGWRFseC
+2024-11-06 10:38:37.727675,2024-11-06 10:38:41.046679,Collection fee,Collection fee from suppliers,5000,Added,,,6HxCFvAX4q
+2024-11-06 10:45:06.855894,2024-11-06 10:47:06.246583,Clearance,10% of the invoice value (R7815 at the rate of R1-kes 7.5) for local COC and border facilitation,5861,Added,,,r4xZ6oqLrd
+2024-11-06 10:45:55.812876,2024-11-06 10:47:06.244403,Clearance,DUTIES AND TAXES,,Added,21,,MPqmw1TgEE
+2024-11-06 11:09:38.107977,2024-11-08 09:11:45.161542,Clearence,10% of the invoice value (R3842 at the rate of R1-kes 7.5) for local COC and border facilitation,2881,Added,,,FrKIsR2OLT
+2024-11-06 11:29:21.514739,2024-11-12 05:06:07.471617,,10% of the invoice value (R22750 at the rate of R1-KES7.5) for Local COC and border facilitation,17062,Added,18,,YvX2IzPxN6
+2024-11-06 12:08:05.291637,2025-02-13 09:55:58.314696,Clearance,10% of the invoice value (R31450 at the rate of R1-KES7.5) for Local COC and border facilitation,23588,Added,18,,OrkSTReVVc
+2024-11-07 11:39:34.623908,2024-11-07 11:39:37.327125,Clearence,10% of the invoice value(R31500 at the rate of R1-Kes7.5) for local COC and border facilitation,23625,Added,,,Fn2XDgpYbt
+2024-11-08 07:09:23.895790,2024-11-08 07:09:27.533033,Clearence,10% of the invoice value (USD6536.16 at the rate of USD1-Kes130) for local COC and border facilitation,84968,Added,,,ymySizA0vA
+2024-11-08 07:09:23.921330,2024-11-08 07:09:27.530236,Insuarance,This quote has a GIT cover of upto R500000,0,Added,,,6IOVu8wiqF
+2024-11-08 09:07:15.594352,2025-02-14 09:31:13.432640,Clearence,10% of the invoice value (R4188 at the rate of R1-Kes7.5) for local COC and border facilitation,3141,Added,,,Wjzovo8Fa2
+2024-11-08 09:07:15.608722,2025-02-14 09:31:13.456759,Clearence,10% of the invoice value(R49410 at the rate of R1-Kes7.5) for local COC and border facilitation,37057,Added,,,mauMsulMD6
+2024-11-08 09:07:15.614075,2025-02-14 09:31:13.438889,Clearence,10% of the invoice value(R7815 at the rate of R1-Kes7.5) for local COC and border facilitation,5860,Added,,,egTQ2uz6AJ
+2024-11-08 09:07:15.624339,2025-02-14 09:31:13.448127,Documentation,Use of Agents Customs code for Velvet invoice,5000,Added,,,fnozLSePWW
+2024-11-08 09:10:22.966480,2024-11-08 09:11:45.164604,Clearence,10% of the invoice value (R11945 at the rate of R1-kes 7.5) for local COC and border facilitation,8960,Added,4,,dRaVFZYfON
+2024-11-08 10:35:00.363036,2025-02-14 10:28:02.531254,Clearence,10% of the invoice value(R5454 at the rate of R1-Kes7.5) for local COC and border facilitation,4088,Added,,,NupuV08tpc
+2024-11-08 10:35:00.369896,2025-02-14 10:28:02.537822,Clearence,10% of the invoice value(R31390 at the rate of R1-Kes7.5) for local COC and border facilitation,23543,Added,,,ppMzCFPKps
+2024-11-08 10:35:00.373264,2025-02-14 10:28:02.517281,Clearence,10% of the invoice value(R10867 at the rate of R1-Kes7.5) for local COC and border facilitation,8145,Added,,,4AlR2dDaX5
+2024-11-08 11:09:45.238538,2024-11-14 05:43:02.884225,Clearence,10% of the invoice value(USD3211 at the rate of USD1-Kes130) for local COC and border facilitation,41730,Added,,,GUgn8wVvnc
+2024-11-08 11:33:06.268603,2024-11-21 06:08:19.287642,Clearence,10% of the invoice value(R108480 at the rate of R1-Kes7.5) for local COC and border facilitation,81360,Added,,,9FWKSwImhn
+2024-11-08 11:36:53.035401,2025-02-06 14:34:42.136715,Clearence,10% of  the invoice value for local COC and border facilitation,110,Added,,,iNiYWBVVF5
+2024-11-08 12:17:43.527741,2024-11-26 09:33:14.584176,Clearence,10% of the invoice value(R1150 at the rate of R1-Kes7.5) for local COC and border facilitation,863,Added,,,4DY9HWzC1U
+2024-11-08 12:17:43.533589,2024-11-26 09:33:14.586837,Clearence,10% of the invoice value(R25454 at the rate of R1-Kes7.5) for local COC and border facilitation,19090,Added,,,pQNHkdWO16
+2024-11-08 12:28:36.309659,2024-11-12 04:30:31.839952,Clearence,10% of the invoice value(R17969 at the rate of R1-Kes7.5) for local COC and border facilitation,13470,Added,,,nTNUQRgoaY
+2024-11-08 14:38:25.612284,2024-12-16 06:27:02.676729,Clearence,10% of the invoice value(R239967 at the rate of R1-Kes7.5) for local COC and border facilitation,179970,Added,,,R6RdmLCN4C
+2024-11-08 14:38:25.618695,2024-12-16 06:27:02.649248,Collection fee,Collection fee from supplier,43450,Added,,,E8WFKMEZfD
+2024-11-08 14:44:00.284411,2024-11-12 05:39:13.334423,Clearence,10% of the invoice value (USD4366 at the rate of USD1-Kes130) for local COC and border facilitation,56758,Added,,,ANra2M8pG7
+2024-11-08 14:59:26.133041,2024-11-12 08:07:11.208391,Collection fee,Collection fee from supplier,7500,Added,,,oY5dlyQN2v
+2024-11-08 15:05:33.494970,2024-11-12 08:08:48.424043,Clearence,10% of the invoice value(R7446 at the rate of R1-Kes7.5) for local COC and border facilitation,5584,Added,,,1i94TLlfN9
+2024-11-08 15:10:38.814811,2024-11-13 05:57:58.495968,Clearence,10% of the invoice value (USD937 at the rate of USD1-Kes130) for local COC and border facilitation,12181,Added,,,5zBsFx8yS9
+2024-11-08 15:27:27.746913,2024-11-12 11:46:44.791262,Clearence,10% of the invoice value(R17437 at the rate of R1-Kes7.5) for local COC and border facilitation,13072,Added,,,S5rQ4kpS3C
+2024-11-08 15:45:18.289941,2024-11-08 15:45:25.308298,Clearence,10% of the invoice value(R759450 at the rate of R1-Kes7.5) for local COC and border facilitation,5695890,Added,,,nPh99j55CS
+2024-11-08 15:52:46.444396,2024-11-08 17:00:26.113419,nmm,,9000,Added,3,,jdmMdcesZE
+2024-11-11 12:31:43.682217,2024-11-26 18:35:10.152749,Banglatrading kenya Ltd: PIN P052153212E,Warehouse no: 13A Fairview road Pangani  Nairobi kenya  0724688005,,Added,4,,X4QFhOfbg1
+2024-11-11 14:16:24.786680,2024-12-03 06:54:09.403125,Collection,,250,Added,18,,K2eu9kmwUy
+2024-11-11 14:18:36.918129,2024-11-11 14:19:02.059158,Collection,,100,Added,18,,rHOqV5QgVy
+2024-11-11 14:19:51.940809,2024-11-11 14:20:17.971684,Collection,,100,Added,18,,3GAxCUNIWX
+2024-11-12 04:51:00.657479,2024-11-12 04:51:02.193119,Service fee,10% of the invoice value ( R 15787 at the rate of R1-KES7.5) for Local COC and border facilitation,11840,Added,,,6BqQnddh7V
+2024-11-12 06:05:22.294171,2025-02-12 13:40:54.896041,Clearance,10% of the invoice value ( Eur 6920  at the rate of Eur 1-KES 138) for Local COC and border facilitation,95496,Added,,,MudSZZn3AX
+2024-11-12 09:03:40.680072,2024-11-12 09:03:43.723389,Clearance,10% of the invoice value (R7186) for Local COC and border facilitation,719,Added,,,vr095TbRLY
+2024-11-12 09:52:09.739486,2024-11-20 10:01:53.401885,Clearance,10% of the invoice value (R16990) for Local COC and border facilitation,12743,Added,,,8ZlqO9NdZi
+2024-11-12 10:10:57.501558,2025-02-13 13:58:52.126300,Clearance,10% of the invoice value R1560 at the rate of R 1 = Ksh 7.5,1170,Added,2,,oDAZ5VMFM6
+2024-11-12 10:51:45.383983,2024-11-12 10:52:03.222981,Clearance,"This Quote is exclusive of Duties, Taxes & Clearance. Client is to cater for own clearance at the port of entry",0,Added,,,tE8gJ4JQcj
+2024-11-12 10:51:45.390912,2024-11-12 10:52:03.212559,Insurance,Quote amount covers GIT up to the value of R500 000,0,Added,,,F2opj5ZsAq
+2024-11-12 10:51:45.394600,2024-11-12 10:52:03.231845,Packaging,This Quote is exclusive of packing if is required client will advised,0,Added,,,ys85FfvXSK
+2024-11-12 11:03:41.470263,2024-11-12 11:04:19.626134,Clearance,"This Quote is exclusive of Duties, Taxes & Clearance. Client is to cater for own clearance at the port of entry",0,Added,,,nhjOt1HHv4
+2024-11-12 11:03:41.476983,2024-11-12 11:04:19.631544,Insurance,Quote amount covers GIT up to the value of R500 000,0,Added,,,rGmOpGvVyS
+2024-11-12 11:03:41.482463,2024-11-12 11:04:19.615126,Packaging,This Quote is exclusive of packing if is required client will advised,0,Added,,,JLEndoT8QM
+2024-11-14 07:56:49.934267,2024-11-14 07:56:52.658311,Clearance,10% of the invoice value ( R  7424 at the rate of R1-KES7.5) for Local COC and border facilitation,5568,Added,,,MeVnV8BaeK
+2024-11-14 11:02:39.513155,2024-11-14 11:02:39.513210,,,,New,2,,yce8PrJTGB
+2024-11-14 11:03:01.584645,2024-11-14 11:03:01.584693,,,,New,2,,CljouAeAvi
+2024-11-14 11:03:03.324133,2024-11-14 11:03:03.324177,,,,New,2,,I3vtvdkeRV
+2024-11-14 11:10:05.837073,2024-11-27 10:08:14.622182,Clearance,10% of the invoice value ( R 31390 & R 10867 at the rate of R1-KES7.5) for Local COC and border facilitation,31692,Added,,,C93oFMTYbn
+2024-11-14 11:12:26.469380,2025-02-14 10:30:38.769265,Clearance,10% of the invoice value ( R 5454 at the rate of R1-KES7.5) for Local COC and border facilitation,4090,Added,,,5I4NfIX3cM
+2024-11-15 09:04:05.986483,2025-02-12 09:21:49.536954,Clearence,10% of the of the invoice value (R114990 at the rate of R1-Kes7.5)for local COC and border facilitation,86243,Added,,,yvh2w0x7qS
+2024-11-15 09:04:05.994870,2025-02-12 09:21:49.525069,Insuarance,Quote amount covers GIT (Goods in transit) up to the value of R500000,0,Added,,,PTNsRjzM3Z
+2024-11-15 09:04:05.999295,2025-02-12 09:21:49.532487,Packaging,"Quote amount is exclusive of packaging, if there is need for extra packaging the client will be advised",0,Added,,,siUXY3FBCQ
+2024-11-15 09:54:42.764141,2024-11-15 09:55:55.856074,Clearence and Documentation,"10% of the invoice value(R221582.61 amount excludes VAT, delivery and packaging @the rate of R1-Kes7.5) for local COC and border facilitation",166190,Added,,,BaJ9e5xoC1
+2024-11-15 09:54:42.770718,2024-11-15 09:55:55.860057,Insuarance,Quote amount covers GIT (Goods in transit) up to the value of R500000,0,Added,,,NvNakC8uyp
+2024-11-15 09:54:42.777758,2024-11-15 09:55:55.862773,Packaging,"Quote amount is exclusive of packaging, if there is need for extra packaging the client will be advised",0,Added,,,RZvc9A1Ili
+2024-11-19 07:54:20.023770,2024-11-22 13:30:15.105134,Clearence,10% of the invoice value (R118418.21 at the rate of R1-Kes7.5) for local COC and border facilitation,88813,Added,,,oqGrSBzSRD
+2024-11-19 07:54:20.045994,2024-11-22 13:30:15.098247,Collection fee,Collection fee from supplier,7000,Added,,,EF9hkbcPZz
+2024-11-19 07:54:20.064408,2024-11-22 13:30:15.100835,Insuarance,Quote amount covers GIT (Goods in transit) up to the value of R500000,0,Added,,,HBn1zn9LHS
+2024-11-19 11:57:07.826651,2024-12-13 14:14:19.512998,Clearance,8% of the invoice value (R183976 at the rate of R1-KES7.5) for Local COC and border facilitation,110385,Added,,,efSRRjSWFQ
+2024-11-19 12:11:38.689451,2024-11-26 09:47:53.387884,Clearance,10% of the invoice value (R14005 at the rate of R1-KES7.5) for Local COC and border facilitation,10504,Added,,,gGU2pwtlrd
+2024-11-19 12:42:15.841389,2024-11-30 08:04:29.699088,Clearance,10% of the invoice value (R170018 at the rate of R1-KES7.5) for Local COC and border facilitation,127514,Added,,,CdM7Id7dJH
+2024-11-19 12:42:15.859968,2024-11-30 08:04:29.707160,Collection,Collection fee from supplier,2000,Added,,,sXdE7robx6
+2024-11-19 12:42:15.869809,2024-11-30 08:04:29.702586,,,0,Added,,,Qszs3TtzzH
+2024-11-19 13:05:25.614440,2024-11-26 10:04:16.292541,Clearance,10% of the invoice value (R6704 at the rate of R1-KES7.5) for Local COC and border facilitation,5028,Added,,,oEDMhLt8Z2
+2024-11-19 14:32:57.084097,2024-11-26 12:33:01.531806,Clearance,10% of the invoice value (R45128 at the rate of R1-KES7.5) for Local COC and border facilitation,33846,Added,,,SrKUeiccHX
+2024-11-19 14:39:10.741651,2024-11-27 05:56:25.043877,Clearance,10% of the invoice value (R33599 at the rate of R1-KES7.5) for Local COC and border facilitation,25200,Added,,,zbrc0LpVzD
+2024-11-20 09:45:52.076588,2025-01-03 06:41:19.704302,Packaging,Packaging Fee (Labor and material),2500,Added,18,,1WMrRNlcBn
+2024-11-20 10:13:56.129721,2024-11-27 09:47:44.613419,Clearance,10% of the invoice value (R25411.20 at the rate of R1-KES7.5) for Local COC and border facilitation,19058,Added,,,nVcgBCtWew
+2024-11-20 10:19:38.957374,2024-11-20 10:22:04.633969,Clearence,10% of the invoice value(USD400 at the rate of R1-R18.11) for local COC and border facilitataion,724,Added,,,dkTUm4vjJZ
+2024-11-20 10:41:02.881366,2024-11-27 13:02:38.814762,Clearence,"Quote amount is exclusive of duties and taxes ,Customer to cater for duties and taxes for the goods at the port of entry",0,Added,,,Q2KKrMTQRL
+2024-11-20 10:41:02.902045,2024-11-27 13:02:38.810587,Insuarance,Quote amount covers GIT upto the value of R500000,0,Added,,,2fMz00GHWN
+2024-11-20 10:41:02.912227,2024-11-27 13:02:38.820177,Service,All Clearance on Transit borders are included on this quotation,0,Added,,,ylp1Wtu2Eu
+2024-11-20 10:41:02.923887,2024-11-27 13:02:38.817621,Packaging,"Quote amount is exclusive of packaging, if there is need for extra packaging the client will be advised",0,Added,,,lnwXKF1iNK
+2024-11-20 10:59:04.295256,2024-11-20 13:52:59.047390,Clearence and Documentation,"Quote amount is exclusive of duties and taxes ,Customer to cater for duties and taxes for the goods at the port of entry into Uganda.",0,Added,,,TPQc7uLE8Q
+2024-11-20 10:59:04.305784,2024-11-20 13:52:59.037509,Insuarance,Quote amount covers GIT up to the value of R500000,0,Added,,,Eq12CQLut5
+2024-11-20 10:59:04.312561,2024-11-20 13:52:59.055336,Packaging,"Quote amount is exclusive of packaging, if there is need for extra packaging the client will be advised",0,Added,,,y2NT5JIcCn
+2024-11-20 10:59:04.318394,2024-11-20 13:52:59.041793,Service,All Clearance on Transit borders are included on this quotation,0,Added,,,RgphV8eXxv
+2024-11-22 07:26:21.220714,2024-11-22 07:42:46.033592,Clearence and Documentation,10% of the invoice value(R14300 at the rate of R1-Kes7.5) for local COC and border facilitation,10725,Added,,,Ih93sXRVqg
+2024-11-22 07:26:21.240817,2024-11-22 07:42:46.030167,Collection fee,"Quote amount does not  include collection from supplier, Collection will be an extra payment.",0,Added,,,5q24JOwMe6
+2024-11-22 07:40:01.133853,2024-11-22 07:42:46.036108,Insuarance,Quote amount GIT of up to R500000,0,Added,4,,NC2XfgBPMj
+2024-11-22 07:41:23.910480,2024-11-22 07:42:46.039107,Packaging,"Quote Amount is exclusive of packaging, If there is need for extra packaging Client will be advised",0,Added,4,,vWqoIRh5qG
+2024-11-25 12:35:21.365550,2024-11-26 06:54:54.327523,Clearence and Documentation,10% of the invoice value(R66820 at the rate of R1-7.5) for local COC and border facilitation,50115,Added,,,7oxhktV7OP
+2024-11-25 13:21:35.450880,2024-11-26 07:00:21.784801,Clearence and Documentation,10% of the invoice value(R55276 at the rate of R1-Kes7.5) for local COC and border facilitation,41457,Added,,,8phDzYOt9h
+2024-11-25 21:10:53.399492,2024-11-28 11:16:55.552640,Clearance,10% of the invoice value (R11090) for Local COC and border facilitation,8317,Added,,,jfggoLXjeM
+2024-11-26 12:58:43.130518,2024-12-17 07:13:23.229713,Clearence and Documentataion,10% of the invoice value(R6300) for local COC and border facilitation,630,Added,4,,DJyI005VIt
+2024-11-26 14:36:18.129642,2024-11-26 14:36:27.631815,Packaging,Kindly note all the items will not be sent as is and will need packaging,0,Added,,,ZC66km3KTC
+2024-11-26 14:36:18.138570,2024-11-26 14:36:27.648577,Collection fee,Masafa Logistics does not offer door to door collection and deliver and that would be an extra cost,0,Added,,,aLjQbOHq8M
+2024-11-26 17:00:17.755908,2024-12-13 14:14:19.515508,,,,Added,1,,w06SmfGjoO
+2024-11-27 06:54:26.451155,2024-11-27 06:54:31.133108,Clearance,10% of the invoice value ( R 3250  at the rate of R1-KES7.5) for Local COC and border facilitation,2437,Added,,,XYm17jbYIn
+2024-11-27 07:56:22.181707,2025-02-14 06:32:22.435597,Collection fee,Collection fee,100,Added,,,iG5AD3MEjw
+2024-11-28 07:36:24.065007,2025-02-14 12:30:33.368755,Packaging,All TVs should be crated to be transported and that is an extra charge,0,Added,,,zJPQ0VP6HO
+2024-11-28 10:31:11.423619,2024-12-31 13:23:53.026825,Clearance,10% of the invoice value (R117672) for Local COC and border facilitation,11770,Added,,,KpbqMTheaH
+2024-11-28 10:31:11.429885,2024-12-31 13:23:53.023024,Packaging,This Quote is exclusive of packing if is required client will advised,0,Added,,,A6VRCdJ1q4
+2024-11-28 10:31:11.436299,2024-12-31 13:23:53.030383,Insurance,Quote amount covers GIT up to the value of R500 000,0,Added,,,xCCkxCTVBL
+2024-11-28 11:10:12.799772,2024-11-30 08:07:59.703572,,,,Added,18,,Z4QLMvK2Di
+2024-11-28 13:03:34.925159,2024-11-28 13:07:52.172477,Transport,Local Transport from Johannesburg to Port Elizabeth,30120,Added,4,,mQDzrGtqpx
+2024-11-29 15:23:55.201301,2024-11-29 15:32:37.306508,Clearence and documentation,10% of the invoice value for local COC and border facilitation,44464,Added,,,gqweB7CsOO
+2024-11-30 08:50:27.776465,2025-01-09 10:28:34.119022,Clearance and Documentation,10% of the invoice value (USD9434.56 at the rate of USD1-R18.06 for local COC and border facilitation,17040,Added,,,nlOVTyKiMC
+2024-11-30 09:27:34.502841,2025-02-14 12:29:25.770069,Clearence and Documentation,10% of the invoice value(Rupas gift center R19193 ) for local COC and border facilitation,1919,Added,,,BSndryZ53a
+2024-11-30 09:31:48.182279,2025-02-14 12:29:25.790302,Clearence and Documentation,10% of the invoice value(At Home R54962.31 ) for local COC and border facilitation,5496,Added,4,,wxnpnM3trE
+2024-11-30 09:31:49.669795,2025-02-14 12:29:25.776948,Clearence and Documentation,10% of the invoice value(Planet Nails R23055.35 ) for local COC and border facilitation,2305,Added,4,,bqYjenpQI9
+2024-12-02 08:20:14.405256,2024-12-02 15:11:38.273090,Clearance,"This Quote is exclusive of Duties, Taxes & Clearance. Client is to cater for own clearance at the port of entry",0,Added,,,UtCyZRwJXx
+2024-12-02 08:20:14.419129,2024-12-02 15:11:38.274956,Insurance,Quote amount covers GIT up to the value of R500 000,0,Added,,,wmIwjqQWF8
+2024-12-02 08:20:14.431201,2024-12-02 15:11:38.270794,Packaging,This Quote is exclusive of packing if is required client will advised,0,Added,,,8U4dh36o22
+2024-12-02 08:47:38.470124,2024-12-05 06:56:24.097186,Clearance,"This Quote is exclusive of Duties, Taxes & Clearance. Client is to cater for own clearance at the port of entry",0,Added,,,5JHo8GkI2Y
+2024-12-02 08:47:38.475125,2024-12-05 06:56:24.099843,Insurance,Quote amount covers GIT up to the value of R500 000,0,Added,,,DKVMwAIZXl
+2024-12-02 08:47:38.485144,2024-12-05 06:56:24.102753,Packaging,This Quote is exclusive of packing if is required client will advised,0,Added,,,sZClRyHr0v
+2024-12-03 09:28:04.638071,2024-12-16 06:26:04.655535,Clearance,10% of the invoice value (R71268 at the rate of R1-KES7.5) for Local COC and border facilitation(Feral Marine),53451,Added,,,ul2pJ5hZXx
+2024-12-03 09:28:04.647843,2024-12-16 06:26:04.644508,Clearance,10% of the invoice value (R24900 at the rate of R1-KES7.5) for Local COC and border facilitation (Burqip),18675,Added,,,0OJGBNULth
+2024-12-03 09:28:04.659615,2024-12-16 06:26:04.651737,Collection,Collection fee from Burqip,5000,Added,,,JfIzYW1hAs
+2024-12-03 09:28:04.664863,2024-12-16 06:26:04.647370,Collection,Collection fee from Feral Marine,17310,Added,,,60GTtR0GOF
+2024-12-03 09:53:31.888344,2024-12-03 09:53:34.751535,Clearance,"10% of the invoice value (R3,607.83 at the rate of R1-KES7.5) for Local COC and border facilitation",2710,Added,,,TRVD8VHTOz
+2024-12-03 10:02:02.115200,2024-12-03 10:02:04.071143,Clearance,10% of the invoice value (R12648 at the rate of R1-KES7.5) for Local COC and border facilitation,9486,Added,,,XkgTFOw0ix
+2024-12-03 10:18:49.802821,2024-12-03 10:22:26.914912,Clearance,10% of the invoice value (R8521.72 at the rate of R1-KES7.5) for Local COC and border facilitation,6391,Added,,,fgYFtcr74r
+2024-12-04 07:10:12.437025,2024-12-13 07:30:50.352791,Clearence and documentation,10% of the invoice value(R14600 at the rate of R1-Kes7.5) for local COC and border facilitation,10950,Added,,,AfHP70QoVj
+2024-12-04 08:14:16.800853,2025-01-15 14:51:13.741137,Clearance and documents,"10% of the invoice value(Burquip R36675.80 at the rate of R1-Kes7.5) for local COC and border
+facilitation",27507,Added,,Captain Andy's Fishing Suppliers +254723974666,6bt29NqVmW
+2024-12-04 08:14:16.810663,2025-01-15 14:51:13.743337,Clearence and documentation,10% of the invoice value (TSA R4188 at the rate of R1-Kes7.5) for local COC and border facilitation,3141,Added,,,fwl7t4QRKK
+2024-12-04 08:14:16.821401,2025-01-15 14:51:13.738746,KRA,Clearence and documentation,183948,Added,,,0uIjVGK8pB
+2024-12-04 08:14:16.837812,2025-01-15 14:51:13.747805,Collection,Burquip collection,5000,Added,,,yePLYW0tAh
+2024-12-04 08:37:18.082532,2025-02-13 09:08:14.431480,Clearence and documentation,"10% of the invoice value(R18948, R35983 & R 37130 at the rate of R1-Kes7.5) for local COC and border facilitation",69072,Added,,,6dKsBiZv5f
+2024-12-04 08:54:29.087907,2024-12-14 07:09:46.358731,Clearence and documentation,10% of the invoice value(R7130 at the rate of R1-Kes7.5) for local COC and border facilitation,5347,Added,,,OzpAXiJ8s8
+2024-12-04 09:11:30.833601,2025-02-14 10:29:12.022726,Clearance,10% of the invoice value (R5374 at the rate of R1-KES7.5) for Local COC and border facilitation,4031,Added,,,lD45Wq8Zly
+2024-12-04 09:11:30.843728,2025-02-14 10:29:12.037853,Clearance,10% of the invoice value (R4854 at the rate of R1-KES7.5) for Local COC and border facilitation,3641,Added,,,reICXsHCw2
+2024-12-04 09:33:18.595152,2025-01-10 05:28:08.618228,Clearance,10% of the invoice value (R118418.21 at the rate of R1-KES7.5) for Local COC and border facilitation,88814,Added,,,E0UCwzflQR
+2024-12-04 09:33:18.696224,2025-01-10 05:28:08.616193,Collection,Collection fee from supplier,20000,Added,,,9qo5nM2ReU
+2024-12-04 14:00:30.590636,2025-01-08 08:42:35.237137,Clearence and documentation,10% of the invoice value (R5195 at the rate of R1-Kes7.5) for local COC and border facilitation,3900,Added,,,zOccOSdKf9
+2024-12-05 09:11:38.330716,2025-02-14 11:57:14.993043,Clearance,10% of the invoice value (USD14987 at the rate of USD1-R18.07) for local COC and border facilitation,27080,Added,,,ZWCjhirwZg
+2024-12-05 09:11:38.340634,2025-02-14 11:57:14.997986,Insurance,The quote amount covers GIT of up to R500000,0,Added,,,pL4OXIIIjk
+2024-12-05 09:34:50.092757,2024-12-05 09:43:08.058672,Clearance,10% of the invoice value (ZAR 203 501.73) for local COC and border facilitation,20350,Added,,,8QfuC5fCNv
+2024-12-05 09:34:50.101808,2024-12-05 09:43:08.066262,Insurance,Quote amount covers GIT of up to R500000,0,Added,,,qdX15YsrMV
+2024-12-05 09:57:48.435628,2025-01-08 09:36:03.452388,Clearance,10% of the invoice value (R2947 at the rate of R1-KES7.5) for Local COC and border facilitation,2211,Added,,,OXdJx193BB
+2024-12-05 09:57:48.441653,2025-01-08 09:36:03.454537,Collection,Collection fee from supplier,1144,Added,,,wiBR85XzOZ
+2024-12-05 10:10:11.721473,2024-12-05 10:43:17.807714,Clearance,10% of the invoice value (R21721 at the rate of R1-KES7.5) for Local COC and border facilitation,16291,Added,,,cyQEVpooRu
+2024-12-05 10:10:11.731346,2024-12-05 10:43:17.800153,Collection,Collection fee from supplier,11434,Added,,,Zv803PRHRh
+2024-12-05 10:31:26.863238,2024-12-05 10:59:50.656011,Clearance,10% of the invoice value (R22052) for Local COC and border facilitation,2205,Added,,,ghdTjkNpFV
+2024-12-05 10:31:26.869123,2024-12-05 10:59:50.648687,Collection,Collection fee from supplier,1144,Added,,,bNebyr5Av4
+2024-12-06 07:20:44.226648,2024-12-13 14:16:40.916771,Clearance,10% of the invoice value (R33574 at the rate of R1-kes 7.5) for local COC and border facilitation,23500,Added,,,THATw6JNNk
+2024-12-06 07:28:45.833742,2025-01-08 09:01:21.111587,Collection fee,Collection fee from supplier,5000,Added,,,tCG6W5xrbm
+2024-12-06 07:50:58.692271,2024-12-16 06:43:23.886038,Collection fee,Collection fee from supplier,12000,Added,,,cgY9Z4c77Q
+2024-12-06 09:05:47.362797,2025-02-12 12:50:05.673781,Clearance,10% of the invoice value (EUR4356 at the rate of EUR1-kes 136.5) for local COC and border facilitation,59460,Added,,,xaPwBG54w9
+2024-12-06 10:23:39.881001,2024-12-17 07:22:08.976019,Collection fee,Collection fee,200,Added,,,AOqhjbO8iU
+2024-12-06 10:38:16.386423,2025-01-13 06:51:11.121472,Clearance,10% of the invoice value (R35360 at the rate of R1-kes 7.5) for local COC and border facilitation,26520,Added,,,ei7DaRYF7C
+2024-12-06 12:48:00.662410,2024-12-06 12:50:32.451560,Packaging fee,Packaging material and labour,9700,Added,,,k8e0oYIkVL
+2024-12-06 12:48:00.672212,2024-12-06 12:50:32.453918,Collection fee,Collection fee,1200,Added,,,lRsfQAJWCe
+2024-12-06 14:03:18.963568,2025-02-12 14:47:17.754136,Packaging,"3x bubble wrap - 325 x3 =R975.00 ½x corrugated board - 650 x0.5 =R325.00 3x Pallet wrap black - 295 x3 =R885.00 50x Boxes - 50 x40 =R2000.00 20x buff tapes - 30 x20 =R600.00 ½x roll fragile sticker - 200x0.5 =R100.00 ⅛x roll orange sticker - 200 /8 =R25.00 5x security tapes - 30 x5 =R150.00  Labour/Collection - R1,600.00  Dolphin - R1,665.00",8325,Added,,,VwUyCsYbEF
+2024-12-09 09:05:54.925051,2024-12-09 09:06:04.800536,packaging,Packaging fee,2000,Added,,,by9WxgYJ5g
+2024-12-11 07:49:39.300347,2025-02-12 07:44:16.638460,Packaging fee,Packaging material and labour,800,Added,,,PLHCjOKi5N
+2024-12-11 10:02:31.594314,2025-02-14 11:51:30.268593,Clearance,10% of the invoice value (R21989 ) for local COC and border facilitation,2189,Added,,,TlYAhub7vm
+2024-12-11 10:02:31.602124,2025-02-14 11:51:30.279279,Clearance,10% of the invoice value (R13869) for local COC and border facilitation,1386,Added,,,ZX47oBD0i9
+2024-12-11 10:47:35.822630,2024-12-16 08:56:56.071123,Clearance,10% of the invoice value (R14788 at the rate of R1-KES7.5) for Local COC and border facilitation,11091,Added,18,,cbWAU8e3Tj
+2024-12-11 10:48:48.429250,2024-12-16 08:56:56.072928,Clearance,10% of the invoice value (R40527.49 at the rate of R1-KES7.5) for Local COC and border facilitation,30396,Added,18,,qbkD4wFvC9
+2024-12-11 10:51:55.503351,2024-12-16 08:56:56.068583,Collection,Collection Fee from supplier,2500,Added,18,,KLjf3f0IhV
+2024-12-11 11:33:56.516842,2024-12-11 11:34:03.823499,Clearance,10% of the invoice value (R12648 at the rate of R1-kes 7.5) for local COC and border facilitation,9486,Added,,,6RUqxsbGVq
+2024-12-11 12:04:53.897025,2024-12-13 10:22:18.070889,Clearance,10% of the invoice value (R9000 at the rate of R1-KES7.5) for Local COC and border facilitation,6750,Added,,,OPKNB1Beox
+2024-12-11 12:04:53.905564,2024-12-13 10:22:18.068633,Packaging,Packaging Fee,2000,Added,,,KdTc5yg6v3
+2024-12-11 13:16:22.188357,2025-01-08 08:52:16.455104,Collection fee,Collection fee,350,Added,,,rUVU8099Lb
+2024-12-11 14:29:01.505549,2025-01-08 07:46:16.060843,Packaging fee,Packaging fee for previous invoice,2500,Added,,,gVUpNex6cX
+2024-12-11 14:38:42.117927,2025-01-08 08:47:32.657140,Clearance,10% of the invoice value (R28825at the rate of R1-kes 7.5) for local COC and border facilitation,21618,Added,,,848ToRuAal
+2024-12-13 08:04:12.853684,2025-01-04 07:08:43.641541,Clearance,10% of the invoice value ( R 173818  at the rate of R1-KES7.5) for Local COC and border facilitation,130363,Added,,,gAEcrYwe0t
+2024-12-13 08:04:12.860638,2025-01-04 07:08:43.635921,Collection And Packaging,Collection And packaging,12000,Added,,,YcM4495kr7
+2024-12-13 08:42:39.999981,2024-12-13 08:44:17.370908,Delivery fee,Delivery fee to Supplier,12000,Added,,,jphIqPNbJm
+2024-12-13 14:11:18.761311,2024-12-13 14:12:37.521404,Duties and taxes,"Quote amount is Exclusive of Duties and taxies , Client to cater for duties and Taxes at the port of Entry",0,Added,,,3Xa040nIs3
+2024-12-13 14:11:18.769294,2024-12-13 14:12:37.527606,Loading and Offloading,"Quote amount is exclusive of loading and of loading of the container on the flat bed, Client to advice if those service will be needed",0,Added,,,6vEvi5Aqcm
+2024-12-16 09:52:05.519125,2024-12-16 09:52:09.344914,clearance,10% of the combined invoice value R2957&12648 at the rate of 1R  = Kesh 7.5 for local Coc and border facilitation,11703,Added,,,bd0Ndxh2WW
+2024-12-16 15:52:10.986298,2025-02-12 14:49:41.593019,Mrs Lorna,Collection fee,1500,Added,,,v5klXUxKu2
+2024-12-16 17:08:01.231937,2025-02-12 14:49:41.585803,Packaging,Packaging material and labour,20398,Added,4,,2PWH7vjWMY
+2024-12-18 05:43:51.149949,2025-01-15 14:51:13.745649,KEBS,Clearance,18770,Added,2,,jGM779AOBp
+2024-12-19 07:28:48.410242,2025-02-12 09:03:17.278068,Clearance and documents,10% of the invoice value R 14158 at the rate R1=kes7.5 for local CoC and border facilitation,10618,Added,2,,AqqRjSdTei
+2024-12-21 08:13:10.492190,2025-02-10 06:06:06.192352,Collection,Collection fee,450,Added,,,jhCrE2uumq
+2024-12-21 08:13:10.503466,2025-02-10 06:06:06.180977,Packaging,Packaging fee,750,Added,,,WVdZBWMJ8I
+2024-12-21 08:30:46.817819,2025-01-10 12:08:32.010335,Collection,Collection fee,650,Added,,,YUrhJJs56k
+2024-12-21 08:30:46.828949,2025-01-10 12:08:32.013247,Clearance,10% of the invoice value (R22782.61) for local COC and border facilitation,2278,Added,,,naJYaMaR8c
+2024-12-21 09:16:36.150648,2025-01-13 06:52:26.886495,Collection,Collection fee,20000,Added,,,Lz7cIkAyZZ
+2024-12-21 09:16:36.157375,2025-01-13 06:52:26.893358,Clearance,8% of the invoice value (Usd8910 at the rate of Usd1-kes 130) for local COC and border facilitation,92664,Added,,,yQHohxmzGv
+2024-12-21 10:33:21.779806,2024-12-21 10:33:21.779857,Packaging,packaging fee for TV,600,New,4,,gL9qmsTpsN
+2024-12-21 10:34:23.536098,2025-01-08 08:52:16.451638,Packaging,Packaging fee,600,Added,4,,45h8Mt9WqX
+2024-12-31 08:52:33.371177,2025-01-31 13:28:48.781216,Duties and taxes,Clearance of duties and taxes,1280,Added,,,mvFcFuBAd5
+2024-12-31 13:11:22.609935,2024-12-31 13:11:24.111222,CL 74 RM GP,5xdays waiting period from 25th December to 31st December 2024.Client to sort Drivers expenses and pay $250 per day for the truck delays at the Border. Our company only allows (3)days to clear with customs .,1250,Added,,,FxQwxHtgKb
+2024-12-31 13:25:02.011395,2024-12-31 13:25:04.887300,Clearance,10% of the invoice value (23000 at the rate of R1-KES7.5) for local COC and border facilitation,17250,Added,,,9KQu1piSIn
+2024-12-31 13:25:02.018605,2024-12-31 13:25:04.890989,Packaging,This Quote is exclusive of packing if is required client will advised,0,Added,,,dMTI0bT2dW
+2024-12-31 13:25:02.024782,2024-12-31 13:25:04.881206,Insurance,Quote amount covers GIT up to the value of R500 000,0,Added,,,2Q0sL2yUYq
+2025-01-03 05:39:30.826430,2025-01-08 08:28:01.813065,Services,Collection fee,6500,Added,,,P6SsD0al68
+2025-01-03 05:39:30.837917,2025-01-08 08:28:01.808789,Services,10% of the invoice value Usd 3040 @ the rate of 1usd= ksh130 for CoC and border facilitation,39520,Added,,,K1kSYc6URo
+2025-01-03 06:15:41.320623,2025-01-08 08:54:07.796568,Services,10% of the invoice value R 8557 @ the rate of 1 R= ksh7.5 for CoC and border facilitation,6417,Added,,,EGjTmDFlZG
+2025-01-03 06:26:39.776782,2025-01-08 08:55:49.255340,Services,10% of the invoice value R12648 at the rate of R1=ksh7.5 for CoC and border facilliatation,9486,Added,2,,7gF4MPwoo5
+2025-01-03 06:45:56.890506,2025-01-08 08:57:48.998670,Service,10% of the invoice value R 37250 at the rate of R1=ksh7.5 for CoC and border facilliatation,27937,Added,2,,3M6kkIGXUe
+2025-01-03 08:56:17.282793,2025-01-08 07:46:16.062526,Packaging Fee,Packaging fee for 1 Sofa,650,Added,4,,uC9RUmFuAR
+2025-01-03 08:58:16.186540,2025-01-08 07:46:16.057945,Clearance and documentation,10% of the invoice value for local COC and border facilitation,643,Added,4,,Vt44eyFHJr
+2025-01-03 10:43:37.509451,2025-01-08 07:43:19.423222,Services,10% of the invoice value R 32698 at the rate of R1=ksh7.5 for CoC and border facilliatation,24523,Added,2,,1QnVZ7U7Y2
+2025-01-03 10:44:01.512306,2025-01-08 07:43:19.426343,Services,Collection fee,2500,Added,2,,QmJ4zF6l8S
+2025-01-03 10:52:09.820220,2025-01-08 13:17:31.188570,Services,10% of the invoice value Usd 840 @ the rate of 1usd= ksh130 for CoC and border facilitation,10920,Added,,,IW8OZ4EnCq
+2025-01-04 07:12:05.067499,2025-01-30 11:52:06.436128,Services,10% of the invoice value R 13998 @ the rate of 1 R= ksh7.5 for CoC and border facilitation,10498,Added,,,Fphmud6WqV
+2025-01-04 07:42:53.675564,2025-02-12 12:24:56.397663,Clearance,10% of the invoice value (R11403) for local COC and border facilitation,1140,Added,4,,j9lJM9mUVq
+2025-01-04 07:45:24.210053,2025-02-12 12:24:56.402778,Clearance,10% of the invoice value (R15194) for the local COC and border facilitation,1519,Added,4,,jQLtVpaJBq
+2025-01-04 07:47:16.018475,2025-02-12 12:24:56.392706,Clearance,10% of the invoice value (R2923) for the local COC and border facilitation,292,Added,4,,HGnsXItIWy
+2025-01-06 12:43:59.430220,2025-02-13 13:05:40.805588,Services,10% of the invoice value R 35580 at the rate of R1-Kes7.5 for  local COC and border facilitation,26685,Added,2,,sQ6hI3MREt
+2025-01-06 14:11:49.166417,2025-01-06 14:11:52.536293,Clearance,10% of the invoice value ($13703.04) for Local COC and border facilitation,178139,Added,,,7obHVjQtdM
+2025-01-07 08:21:22.892020,2025-01-27 11:37:53.119528,Services,10% of the invoice value (R 11676 at the rate of  R1-kes 7.5) for local COC and border facilitation,8757,Added,2,,MyQ73PDNvt
+2025-01-08 10:12:06.847433,2025-01-08 10:13:29.868013,Clearance,10% of the invoice value(R123400 at the rate of R1-KES7.5) for local COC and border facilitation,92550,Added,4,,RUC4Wtm1iy
+2025-01-08 10:12:48.007538,2025-01-08 10:13:29.865442,Collection,Collection fee,4500,Added,4,,5zy2ScAvXn
+2025-01-08 11:51:43.147052,2025-01-08 11:51:44.650462,Clearance,10% of the invoice value (R27590 at the rate of R1-kes 7.5) for local COC and border facilitation,20692,Added,,,mqbudovBd7
+2025-01-08 12:39:08.633125,2025-02-10 13:42:34.030654,Packaging,Packaging fee,2500,Added,,,P0JvySbprK
+2025-01-10 10:17:51.215345,2025-01-10 10:17:51.215378,Packaging,,0,New,3,,fqZNGrZGuu
+2025-01-10 10:18:19.304067,2025-02-12 13:45:31.217037,Packaging,This quote is exclusive of packaging client to be advised if there is extra packaging needed.,0,Added,3,,Awa5FNkr2G
+2025-01-10 10:21:41.885186,2025-02-12 13:45:31.238676,Collections,This quote is exclusive of collection and delivery from Masafa warehouse,0,Added,4,,ucgn27SDQg
+2025-01-10 10:24:50.365011,2025-02-12 13:45:31.228209,Insurance,This quote covers GIT of up to R500 000,0,Added,4,,Ossqne1BB8
+2025-01-10 10:26:22.414709,2025-02-12 13:45:31.243404,Clearance,This quotation is exclusive of customs clearance. Client to cater for own clearance,0,Added,4,,ybuy21E7qR
+2025-01-10 10:33:59.287664,2025-01-10 10:33:59.287713,Pack,,0,New,3,,qZk9y0Xn3I
+2025-01-11 08:31:54.813501,2025-01-15 07:24:29.356866,Clearence,10% of the invoice value(USD5804 at the rate of USD1-Kes130) for local COC and border facilitation,75452,Added,,,RrA0vz7zB6
+2025-01-11 08:31:54.821494,2025-01-15 07:24:29.395089,Insuarance,This quote covers GIT of upto R500000,0,Added,,,vV4jdL42Eh
+2025-01-11 08:31:54.831528,2025-01-15 07:24:29.334829,Collection fee,"This quote is not is exclusive of collection from supplier, if there is need to collect from supplier client will be advised",0,Added,,,Kk9wZIz4gF
+2025-01-11 08:31:54.839179,2025-01-15 07:24:29.387889,Packaging,"The quote amount is exclusive of packaging, if there is need for extra packaging the client will be advised",0,Added,,,ZqHGTYB6Wq
+2025-01-11 09:28:03.856061,2025-01-11 09:30:45.466395,Packaging,"This quote is exclusive of packaging, Client to be advised on packaging",0,Added,,,RZVREdHdFH
+2025-01-11 09:28:03.864032,2025-01-11 09:30:45.447252,Clearence,The quote amount is inclusive of clearence,0,Added,,,3OaSSjPCd3
+2025-01-11 09:28:03.873742,2025-01-11 09:30:45.455292,Insuarance,This quote has a GIT cover of upto R500000,0,Added,,,OyYLtOsQc6
+2025-01-13 10:02:06.382324,2025-01-13 10:02:38.373756,Packaging,"The quote amount is exclusive of packaging, if there is need for extra packaging the client will be advised",0,Added,,,nKN8GMobUO
+2025-01-13 10:02:06.397473,2025-01-13 10:02:38.370711,Clearence and Documentation,The quote amount is inclusive of clearence,0,Added,,,LVLMAKuIxX
+2025-01-13 10:02:06.404887,2025-01-13 10:02:38.366369,Service,This is a door to door collection and delivery,0,Added,,,1nchwlCiap
+2025-01-14 07:34:03.270903,2025-02-10 12:16:23.682454,Clearence,10% of the invoice value(R26230 at the rate of R1-Kes7.5) for local COC and border facilitation,19672,Added,,,qYNmmexan5
+2025-01-14 09:01:46.582414,2025-01-14 10:48:27.854516,Clearance,10% of the invoice value(R203501) for local COC and border facilitation,20350,Added,4,,EXGhq1wEy9
+2025-01-14 10:10:16.125486,2025-02-14 11:56:57.906046,Clearence and Documentation,10% of the invoice value (USD1120 at the rate of USD1-R19.1) for local COC and border facilitation,2140,Added,,,gmlE1M3ULF
+2025-01-14 10:10:16.133625,2025-02-14 11:56:57.920861,Clearence and Documentation,10% of the invoice value (USD11000 at the rate of USD1-R19.1) for local COC and border facilitation,21010,Added,,,h39JJejU83
+2025-01-14 10:22:39.241983,2025-02-14 10:55:32.383177,Collection fee,Collection fee,200,Added,,,JWNbSHeYQw
+2025-01-14 10:52:53.583055,2025-01-15 09:58:06.609985,Clearence and Documentation,10% of the invoice value(R203501at the rate of R1-Kes7.5) for local COC and border facilitation,152626,Added,,,Jdy2eFyr93
+2025-01-15 07:26:29.236157,2025-02-14 11:50:59.692650,Clearence and Documentation,10% of  the combined invoice value(R21989 and R13869) for local COC and border facilitation for 27006199,3585,Added,,,FZe7XE7QKH
+2025-01-15 07:26:29.241665,2025-02-14 11:50:59.726960,Clearence and Documentation,10% of  the invoice value(R184732) for local COC and border facilitation for 27006211,18472,Added,,,waZFbcjxXw
+2025-01-15 07:26:29.247703,2025-02-14 11:50:59.701237,Clearence and Documentation,10% of  the invoice value(R13178) for local COC and border facilitation for 27006213,1317,Added,,,JGJY3GQ2c3
+2025-01-15 07:26:29.253155,2025-02-14 11:50:59.706988,Clearence and Documentation,10% of  the invoice value(R1529) for local COC and border facilitation 27006212,152,Added,,,VPjJGufuO7
+2025-01-16 08:02:04.874735,2025-01-16 08:02:21.099097,Clearance,"This quote is exclusive of clearance , client to cater for all clearance",0,Added,,,JmalpdKzgc
+2025-01-16 08:02:04.882809,2025-01-16 08:02:21.101985,Insurance,Quote amount covers GIT of up to R500000,0,Added,,,MaJByRwpMF
+2025-01-16 08:02:04.889217,2025-01-16 08:02:21.104177,Packaging,"This quote is exclusive of packaging, client to be advised if there is any need for extra packaging.",0,Added,,,b2oWij8Yku
+2025-01-17 09:44:58.077478,2025-02-14 11:50:09.275409,Clearance,10% of the invoice value (R22900) for local COC and border facilitation,2290,Added,,,Mw1TvgDNhx
+2025-01-17 18:49:51.523238,2025-01-27 11:37:42.748788,Clearance,"Invoice amount is exclusive of duties and taxes ,Customer to cater for duties and taxes for the goods at the port of entry.",0,Added,,,70l0z5e8WZ
+2025-01-17 18:49:51.527152,2025-01-27 11:37:42.755571,Insurance,Invoice amount covers GIT upto the value of R500000,0,Added,,,7vzfGOdJOv
+2025-01-17 18:49:51.530836,2025-01-27 11:37:42.768307,Service,All Clearance on Transit borders are included on this invoice,0,Added,,,t61l5x925a
+2025-01-20 08:14:58.805511,2025-02-13 07:41:00.318764,Services,10% of the invoice value(R 55486at the rate of R1-Kes7.5) for local COC and border facilitation,41615,Added,2,,ErsZqOYrDU
+2025-01-20 11:13:42.489613,2025-02-14 06:32:22.421612,Storage,Storage fee from 21st Dec 2024,200,Added,2,,Apw45ruZp1
+2025-01-21 08:22:12.330447,2025-02-12 09:16:54.189665,Clearance,10% of the invoice value (USD1844 at the rate of USD1-kes 130) for local COC and border facilitation,23972,Added,,,QFTJXUa8LL
+2025-01-21 10:29:48.777795,2025-02-12 08:37:14.064207,Transport fee,Transport from Kenya to South Africa,7260,Added,,,wrE6OJmq4H
+2025-01-22 09:20:25.118673,2025-02-01 08:01:16.433576,Packaging,Packaging fee,500,Added,,,ZSNkImTHgh
+2025-01-22 11:16:05.790078,2025-02-12 09:49:26.218121,Clearance,10% of the invoice value (R9175 at the rate of R1-kes 7.5) for local COC and border facilitation,6880,Added,,,zaPiSJUbUv
+2025-01-23 10:00:00.593659,2025-02-14 10:18:46.755185,Clearance,10% of the invoice value (R2412 at the rate of R1-kes 7.5) for local COC and border facilitation,1809,Added,,,ATTQWGySCL
+2025-01-23 10:00:00.620334,2025-02-14 10:18:46.783058,Clearance,10% of the invoice value (R18315 at the rate of R1-kes 7.5) for local COC and border facilitation,13736,Added,,,rUTPvch9Os
+2025-01-24 09:24:16.850056,2025-01-24 09:24:26.268595,Clearance,10% of the invoice value(R240000) for local COC and border facilitataion,24000,Added,,,ECn8n2enWM
+2025-01-24 09:24:17.250990,2025-01-24 09:24:26.308199,Packaging,"Quote amount is exclusive of packaging if there is need for extra packaging , Client will be advised",0,Added,,,i1qhui5Lok
+2025-01-24 09:24:18.125789,2025-01-24 09:24:26.299007,Insurance,Quote amount covers GIT of up to R500000,0,Added,,,U4w14MUtBb
+2025-01-24 09:24:18.276494,2025-01-24 09:24:26.281654,Clearance,Quote amount is inclusive of transit clearence,0,Added,,,EVSvssL8AP
+2025-01-24 09:58:55.423806,2025-01-24 10:06:56.895859,Clearance,10% of the invoice value (R20288) for local COC and border facilitation,0,Added,,,FycPVpUoT3
+2025-01-24 09:58:55.442643,2025-01-24 10:06:56.905010,Clearance,10% of the invoice value (R8447) for local COC and border facilitation,844,Added,,,d4GzDYFMAs
+2025-01-24 10:00:24.504085,2025-01-24 10:06:56.888283,Collection,Collection fee,1500,Added,4,,4fmaEHHNyF
+2025-01-24 13:56:56.072973,2025-01-24 13:59:11.066370,Clearance,10% of the invoice value (R16447 at the rate of R1-kes 7.5) for local COC and border facilitation,12335,Added,,,0381m3kbXW
+2025-01-24 13:57:30.830696,2025-01-24 13:59:11.093429,Collection,This quote is exclusive of collection from suppliers in Cape Town,0,Added,18,,jXNOSqDmxb
+2025-01-27 09:10:18.994323,2025-02-12 10:57:36.705847,Clearance,10% of the invoice value (R55080 at the rate of R1-kes 7.5) for local COC and border facilitation,41310,Added,,,8TidiAT83D
+2025-01-27 11:29:57.846766,2025-02-12 12:52:09.269134,Clearance,10% of the invoice value (EUR6850 at the rate of EUR1-kes 135.64) for local COC and border facilitation,92914,Added,,,c0CULvz7BQ
+2025-01-27 11:29:57.862169,2025-02-12 12:52:09.253872,Clearance,10% of the invoice value (EUR662 at the rate of EUR1-kes 135.64) for local COC and border facilitation,8980,Added,,,KrV43gV1sB
+2025-01-27 11:29:57.877242,2025-02-12 12:52:09.233678,Clearance,10% of the invoice value (EUR60.10 at the rate of EUR1-kes 135.64) for local COC and border facilitation,816,Added,,,CXRkcQIxDC
+2025-01-27 11:46:43.055528,2025-02-14 09:30:18.664695,Clearance,,8823,Added,,,yjZRiOhRBe
+2025-01-27 11:46:43.065988,2025-02-14 09:30:18.642000,Clearance,10% of the invoice value (R30945 at the rate of R1-kes 7.5) for local COC and border facilitation,23209,Added,,,oR2YZiYOuT
+2025-01-27 11:46:43.075256,2025-02-14 09:30:18.598752,Clearance,10% of the invoice value (R11763 at the rate of R1-kes 7.5) for local COC and border facilitation,8823,Added,,,6VYX5Vh9sk
+2025-01-27 11:46:43.085638,2025-02-14 09:30:18.604722,Clearance,10% of the invoice value (R34986 at the rate of R1-kes 7.5) for local COC and border facilitation,26240,Added,,,hWYOCfAx7r
+2025-01-27 13:10:21.307044,2025-02-12 12:55:50.204724,Clearance,10% of the invoice value (R2140 at the rate of R1-kes 7.5) for local COC and border facilitation,1605,Added,,,mepNQnKWcs
+2025-01-28 12:58:06.758083,2025-02-12 12:57:21.182278,Clearance,10% of the invoice value (R23000 at the rate of R1-kes 7.5) for local COC and border facilitation,17250,Added,,,1mROliK7nm
+2025-01-30 08:29:31.501474,2025-01-30 08:29:35.269876,Clearence and Documentation,"This Quote is exclusive of duties and taxes, Client to cater for own duties and taxes at the port of entry",0,Added,,,1RzLUY9WeE
+2025-01-30 08:29:31.517207,2025-01-30 08:29:35.278470,Insuarance,Quote amount covers GIT (Goods in transit)  of up to the value of R500000,0,Added,,,SsCKhO0Izh
+2025-01-30 08:29:31.530836,2025-01-30 08:29:35.273898,Packaging,"Quote amount is exclusive of packaging, if there is need for extra packaging the client will be advised",0,Added,,,FHMVtZ61y5
+2025-01-30 13:32:01.996195,2025-02-12 13:52:53.523508,Clearance,10% of the invoice value (R6024 at the rate of R1-kes 7.5) for local COC and border facilitation,4515,Added,,,os0GRJnHCm
+2025-01-30 13:46:17.115108,2025-02-12 13:47:18.523956,Clearance,10% of the invoice value (R40700 at the rate of R1-kes 7.5) for local COC and border facilitation (invoice G12346),4515,Added,,,QdGeWpwbth
+2025-01-30 13:46:17.138055,2025-02-12 13:47:18.518690,Clearance,10% of the invoice value (R219838 at the rate of R1-kes 7.5) for local COC and border facilitation (invoice G12345),164873,Added,,,1mt6OtfswF
+2025-01-30 14:36:52.489666,2025-02-12 13:18:34.192622,Clearance,10% of the invoice value (USD6941 at the rate of USD1-kes 130) for local COC and border facilitation (invoice G12345),90233,Added,,,hKbDyvJwmk
+2025-01-30 14:47:32.768506,2025-02-12 13:16:53.156637,Clearance,10% of the invoice value (R23106 at the rate of R1-kes 130) for local COC and border facilitation (invoice G12345),17325,Added,,,ET3fOGHGph
+2025-01-31 07:16:30.581244,2025-01-31 07:21:42.177594,Packaging fee,"Quote amount is exclusive of packaging if there is need for extra packaging , Client will be advised",0,Added,,,Pwk0LkWLCD
+2025-01-31 07:16:30.612601,2025-01-31 07:21:42.164635,Collection fee,Quote amount is exclusive of collection and delivery door to door,0,Added,,,I16VVKPLP4
+2025-01-31 07:16:30.629051,2025-01-31 07:21:42.183818,Insurance,Quote amount covers GIT of up to R500000,0,Added,,,QUxHA3bucl
+2025-01-31 07:20:57.433298,2025-01-31 07:21:42.169751,Clearence,18% of the invoice value for Border facilitation,2810,Added,18,,NfaiYKGThz
+2025-01-31 13:26:34.522118,2025-01-31 13:33:47.938705,Clearence and documentation,Duties and taxes,3240,Added,,,JAyN3ugGb2
+2025-01-31 13:37:25.234187,2025-01-31 13:39:36.888258,Clearence and documentation,Duties and taxes,1520,Added,,,uB7eagkfwH
+2025-02-03 06:42:30.460593,2025-02-03 06:44:08.713853,Clearence and Documentation,10% of the invoice value(R10200 at the rate of R1-Kes7.5) for local COC and border facilitation,7650,Added,,,LGd6aOF8LO
+2025-02-03 06:42:30.518440,2025-02-03 06:44:08.721218,Packaging,"Quote amount is exclusive of packaging, if there is need for extra packaging the client will be advised",0,Added,,,XmpW9ghKsU
+2025-02-03 06:42:30.564296,2025-02-03 06:44:08.727209,Insuarance,Quote amount covers GIT (Goods in transit) up to the value of R500000,0,Added,,,tzuIb4wqHZ
+2025-02-03 10:51:42.454767,2025-02-03 11:00:30.984571,Insurance,This quote covers GIT of up to R500 000,0,Added,,,rGc8TK1HOg
+2025-02-03 10:55:04.545084,2025-02-03 10:55:04.545135,,,,New,4,,8tydUj9UPl
+2025-02-03 10:55:04.862857,2025-02-03 11:00:30.963331,,,,Added,4,,6my6AApTzS
+2025-02-03 11:42:57.170135,2025-02-03 11:57:02.430904,Packaging,Packaging fee,2000,Added,4,,nNK0ZxToLX
+2025-02-06 08:47:40.723557,2025-02-13 07:57:53.308291,Clearance,10% of the invoice value (R19430) for local COC and border facilitation,1943,Added,,,YMNILPuDX3
+2025-02-06 08:47:40.750464,2025-02-13 07:57:53.320910,Collection fee,Collection fee from supplier,450,Added,,,pZjxaPhVsg
+2025-02-06 15:07:20.654942,2025-02-11 06:54:47.456213,Clearence and Documentation,10% of the invoice value for local COC and border facilitation for  local COC and border facilitationion,14000,Added,,,uZR37Lw3ff
+2025-02-06 15:07:20.692752,2025-02-11 06:54:47.413370,Insuarance,This quote has a GIT cover of upto R500000,0,Added,,,craQE7zD9P
+2025-02-06 15:07:20.727603,2025-02-11 06:54:47.434151,Packaging,"Quote amount is exclusive of packaging, if there is need for extra packaging the client will be advised",0,Added,,,pPe3erERbn
+2025-02-06 15:07:20.745526,2025-02-11 06:54:47.356697,collection,Collection fee from supplier,1200,Added,,,TuuhsfGPeG
+2025-02-08 10:29:41.928826,2025-02-08 10:36:41.049665,Insuarance,Quote amount covers GIT (Goods in transit) up to the value of R500000,0,Added,,,OYQ2ILZNWY
+2025-02-08 10:29:41.951798,2025-02-08 10:36:41.045118,Clearence,"Quote amount is exclusive of duties and taxes ,Customer to cater for duties and taxes for the goods at the port of entry into South Africa",0,Added,,,7yCig8YZ3a
+2025-02-08 10:29:41.962951,2025-02-08 10:36:41.053989,Packaging,"Quote amount is exclusive of packaging, if there is need for extra packaging the client will be advised",0,Added,,,PzEIXl5EVz
+2025-02-08 11:02:16.348181,2025-02-08 11:02:18.073293,Clearance,"Quote is exclusive of duties and taxes , Client to cater for own duties and taxes at the port  of Entry",0,Added,,,tK9qLtYEOF
+2025-02-08 11:02:16.371939,2025-02-08 11:02:18.060129,Packaging,"Quote is exclusive of packaging, If there is need for extra packaging , client to be advised",0,Added,,,FBMX4HO8T6
+2025-02-08 11:02:16.397102,2025-02-08 11:02:18.052539,Insuarance,Quote amount covers GIT of up to R500000,0,Added,,,EiOFDFHODi
+2025-02-08 11:02:16.454208,2025-02-08 11:02:18.068515,Clearing,Quote amount covers clearance for transit borders,0,Added,,,azz3CLWcqt
+2025-02-10 07:26:13.745621,2025-02-10 07:38:11.214375,Clearing,"Quote is exclusive of duties and taxes , Client to cater for own duties and taxes at the port of Entry",0,Added,,,LO5hG8Sn5P
+2025-02-10 07:26:13.771388,2025-02-10 07:38:11.221226,Clearing,Quote amount covers clearance for transit borders,0,Added,,,Sfoo9uWdE1
+2025-02-10 07:26:13.787563,2025-02-10 07:38:11.230047,Packaging,"Quote is exclusive of packaging, If there is need for extra packaging , client to be advised  Insuarance Quote amount covers GIT of up to R500000  Su",0,Added,,,XsE1J1XVqs
+2025-02-10 11:50:09.590006,2025-02-14 11:50:09.285520,Clearence,16% of the invoice value (R3825) for local COC and border facilitation,612,Added,4,,rnAIMLIbJ8
+2025-02-10 11:52:18.449558,2025-02-14 11:50:09.268289,Clearance,16% of the invoice value (R21989) for local COC and border facilitation,3518,Added,4,,2M59IhFSJX
+2025-02-10 12:15:24.488383,2025-02-12 09:01:34.797297,,,0,Added,,,6zFWYKsJ8W
+2025-02-10 12:15:24.505517,2025-02-12 09:01:34.818157,Clearence,10% of the invoice value(R89876 at the rate of R1-Kes7.5) for local COC and border facilitation,67407,Added,,,kvoUSHmG5t
+2025-02-10 12:15:24.525920,2025-02-12 09:01:34.810019,Clearence,10% of the invoice value(R19782 at the rate of R1-Kes7.5) for local COC and border facilitation,14837,Added,,,M5BevxpJX3
+2025-02-10 12:15:24.555474,2025-02-12 09:01:34.831428,Clearence,10% of the invoice value(R12970 at the rate of R1-Kes7.5) for local COC and border facilitation,9728,Added,,,lkM1RXnaab
+2025-02-10 12:37:27.878311,2025-02-10 12:38:19.535009,Clearence and documentation,10% of the invoice value (R26230 at the rate of R1-kes 7.5) for local COC and border facilitation,19673,Added,,,66cTJtfUqp
+2025-02-10 13:00:18.767502,2025-02-12 14:23:11.483788,Clearence and documentation,10% of the invoice value (R21853.79) for local COC and border facilitation,2185,Added,,,2kDbBakT1q
+2025-02-10 13:00:18.785312,2025-02-12 14:23:11.492467,Clearence and documentation,10% of the invoice value (R44697) for local COC and border facilitation,4469,Added,,,En1ybwTEzJ
+2025-02-10 13:05:56.784974,2025-02-12 14:21:14.079922,Clearence and documentation,10% of the invoice value (R37600) for local COC and border facilitation,3760,Added,,,wHwDhTMeOT
+2025-02-10 13:58:30.568308,2025-02-14 11:06:32.080807,Clearence and documentation,10% of the invoice value (R25712 at the rate of R1-kes 7.5) for local COC and border facilitation,19283,Added,,,bRSzvrSVpu
+2025-02-10 13:58:30.645567,2025-02-14 11:06:32.087858,Clearence and documentation,10% of the invoice value (R2400 at the rate of R1-kes 7.5) for local COC and border facilitation,1800,Added,,,hWf1GhCzQ8
+2025-02-11 07:26:25.394788,2025-02-11 07:30:08.019416,Collection fee,Collection fee from supplier,500,Added,,,1qZr9nwBJp
+2025-02-11 07:29:59.287494,2025-02-11 07:30:08.027550,Clearance,10% of the invoice value(R16936.80) for local COC and border facilitataion,1693,Added,4,,EEsCt7SVaH
+2025-02-11 07:36:30.009877,2025-02-11 07:36:33.636755,Clearance,10% of the invoice value (R76000) for local COC and border facilitation,7600,Added,,,kF8FD6yBp2
+2025-02-11 07:36:30.062904,2025-02-11 07:36:33.630211,Packaging fee,Packaging fee,1200,Added,,,UdUB16hlFj
+2025-02-11 07:36:30.101087,2025-02-11 07:36:33.644137,Collection fee,Collection fee from supplier,550,Added,,,l1krWwwfzu
+2025-02-11 07:47:54.058570,2025-02-11 07:47:58.935912,Clearance,10% of the invoice value for local COC and border facilitation,925,Added,,,QqBAlLAHdq
+2025-02-11 07:47:54.110992,2025-02-11 07:47:58.952480,Clearance,10% of the invoice value  for local COC and border facilitation,739,Added,,,ysofyEOW9Z
+2025-02-11 07:47:54.123482,2025-02-11 07:47:58.941496,Clearance,10% of the invoice value for local COC and border facilitation,866,Added,,,ie4PBGs7W0
+2025-02-11 07:47:54.137190,2025-02-11 07:47:58.945852,Collection fee,Collection fee from supplier,1200,Added,,,uKMgFY15Hk
+2025-02-11 08:03:56.468539,2025-02-11 08:59:02.187391,Clearance,10% of the invoice value (R10247.70) for local COC and border facilitation,1024,Added,,,KHiekXmdyS
+2025-02-11 08:57:35.497774,2025-02-11 08:59:02.179742,Clearance,10% of the invoice value  for local COC and border facilitation,1408,Added,4,,2XWkDVynC3
+2025-02-11 09:12:20.464692,2025-02-11 12:15:00.642323,Clearance,10% of the invoice value  for local COC and border facilitation,1318,Added,,,2seAwHu8VH
+2025-02-11 09:12:20.484578,2025-02-11 12:15:00.652581,Clearance,10% of the invoice value  for local COC and border facilitation,5793,Added,,,WJABn1ONBD
+2025-02-11 09:12:20.507046,2025-02-11 12:15:00.659391,Clearance,10% of the invoice value  for local COC and border facilitation,19145,Added,,,d7HdfZKBfN
+2025-02-11 09:20:25.517007,2025-02-11 14:12:59.684010,Clearance,10% of the invoice value (R70967) for local COC and border facilitation,7096,Added,,,hsVEYShFVr
+2025-02-11 09:20:25.747901,2025-02-11 14:12:59.675543,Collection fee,Collection fee from supplier,450,Added,,,NG2PLUQWlC
+2025-02-11 13:10:50.202708,2025-02-11 13:10:56.564742,clearance,10% of the invoice value for local COC ad borde facilitation,5842,Added,4,,c9YE47pP6N
+2025-02-11 13:18:40.270870,2025-02-12 13:50:50.030086,Clearance,10% of the invoice value(R24850 at the rate of R1-Kes 7.5)  for local COC and border facilitation,18638,Added,,,h2FGwDNBKp
+2025-02-11 13:45:25.853109,2025-02-12 07:42:49.499410,Clearance,10% of the invoice value  for local COC and border facilitation,4250,Added,,,CAODQ3b0iX
+2025-02-11 13:45:25.910208,2025-02-12 07:42:49.507234,Clearance,10% of the invoice value  for local COC and border facilitation,1585,Added,,,ZJj4Q29A29
+2025-02-11 14:09:14.748612,2025-02-12 07:42:49.494646,clearance,10% of the invoice value for local COC and border facilitation,1477,Added,4,,8wSOhP3mYL
+2025-02-11 14:18:32.090665,2025-02-11 14:18:35.116864,Collection fee,Collection fee from supplier,450,Added,,,LrXoEsqTSU
+2025-02-11 14:18:32.152636,2025-02-11 14:18:35.125787,Clearance,10% of the invoice value  for local COC and border facilitation,1873,Added,,,ShDA6QtMYD
+2025-02-11 14:32:08.127884,2025-02-11 14:32:36.876665,Packaging,Packaging fee,600,Added,,,gTz5nYlvgS
+2025-02-12 07:11:48.682702,2025-02-13 10:32:37.285038,Clearence and documentation,"This quote is exclusive of duties, taxes and clearance. Client to cater for own clearance at the port of entry",0,Added,,,DEcl80CfxQ
+2025-02-12 07:11:48.729252,2025-02-13 10:32:37.294971,Insurance,This quote covers GIT of up to R500 000,0,Added,,,RwT6zZaP0o
+2025-02-12 07:11:48.741449,2025-02-13 10:32:37.308972,Packaging fee,"Quote amount is exclusive of packaging if there is need for extra packaging , Client will be advised",0,Added,,,STNNCukABk
+2025-02-12 07:11:48.756880,2025-02-13 10:32:37.275218,Clearence,this quote is inclusive of clearance in transport borders,0,Added,,,43PVNnBAIB
+2025-02-12 09:01:42.814231,2025-02-12 09:01:42.814328,Collection,Collection fee,200,New,4,,dAZcV6zcPi
+2025-02-12 09:07:18.451029,2025-02-12 09:07:49.038701,collection fee,collection fee,200,Added,4,,PXH5uEBi55
+2025-02-12 09:13:10.888494,2025-02-12 09:16:54.180331,Collectoin fee,Colleection fee for two trips,9000,Added,4,,8RJ6HYF1GZ
+2025-02-12 09:14:49.624941,2025-02-12 09:16:54.198841,Clearance,10% of the invoice value (USD1400 at the rate of USD1-kes 130) for local COC and border facilitation,18200,Added,4,,sZtIPxJcA5
+2025-02-12 09:29:41.063243,2025-02-12 09:29:42.489910,Clearance,10% of the invoice value (USD5416 at the rate of R1-kes 130) for local COC and border facilitation,70408,Added,,,CZNroPvaLZ
+2025-02-12 09:29:41.081842,2025-02-12 09:29:42.499421,Clearance,10% of the invoice value (R27840 at the rate of R1-kes 7.5) for local COC and border facilitation,20880,Added,,,UdTdvsKBZB
+2025-02-12 09:29:41.099445,2025-02-12 09:29:42.510291,Collection fee,Collection fee from supplier,8000,Added,,,Ytrb2Phnu4
+2025-02-12 09:31:26.407117,2025-02-12 09:32:26.916310,Collection fee,Collection fee from supplier,6500,Added,4,,HDsn6qDIx9
+2025-02-12 09:41:00.596528,2025-02-12 09:41:24.433027,Clearance,10% of the invoice value (R18775 at the rate of R1-kes 7.5) for local COC and border facilitation,14077,Added,,,eJRr8n6TgU
+2025-02-12 09:43:06.723566,2025-02-12 09:45:24.685541,Clearance,10% of the invoice value (R19745 at the rate of R1-KES 7.5) for local COC and border facilitation,14805,Added,4,,QBRBvqZ83j
+2025-02-12 10:00:54.892569,2025-02-12 10:03:49.721324,Clearance,10% of the invoice value (R2964 at the rate of R1-kes 7.5) for local COC and border facilitation,2220,New,4,,OoTqwArFV7
+2025-02-12 10:03:51.574222,2025-02-12 10:05:55.408296,Clearance,10% of the invoice value (R5465 at the rate of R1-kes 7.5) for local COC and border facilitation,4095,New,4,,QIDt5J9Byb
+2025-02-12 10:25:36.816221,2025-02-14 10:18:46.775029,Clearance,10% of the invoice value (R5465 at the rate of R1-kes 7.5) for local COC and border facilitation,4095,Added,4,,mCs3g8GsNT
+2025-02-12 10:26:33.152145,2025-02-14 10:18:46.768124,Clearance,10% of the invoice value (R2964 at the rate of R1-kes 7.5) for local COC and border facilitation,2220,Added,4,,MYmxSp0Crf
+2025-02-12 10:49:54.173971,2025-02-14 11:50:31.117817,Clearence,10% of the invoice value (R269623)for local COC and border facilitation,26962,Added,4,,Gv7Ir1sc8h
+2025-02-12 13:14:53.074428,2025-02-12 13:14:56.104672,Clearance,10% of the invoice value (RUSD1269at the rate of USD1-Kes130) for local COC and border facilitation,16380,Added,,,1RkEEyLr8k
+2025-02-12 13:43:43.467088,2025-02-12 13:43:45.708960,Collection fee,Collection fee from supplier,5500,Added,,,2pHO9nCb2F
+2025-02-12 13:43:43.483723,2025-02-12 13:43:45.715436,Clearance,10% of the invoice valueEUR(440) for local COC and border facilitation,5720,Added,,,dVuqUxOZaX
+2025-02-13 07:03:37.797707,2025-02-13 07:03:54.516050,,,,Added,22,,hF8hvlbU8V
+2025-02-13 07:10:27.772400,2025-02-14 11:56:35.816555,Clearance,10% of the invoice value (R320000for local COC and border facilitation,32000,Added,,,jq2DKOB6l6
+2025-02-13 09:03:06.244339,2025-02-13 09:03:12.099450,Clearence and documentation,10% of the invoice value (USD1064 at the rate of USD1-kes 130) for local COC and border facilitation,13832,Added,,,uvEUnP5nsI
+2025-02-13 09:11:53.347517,2025-02-13 09:13:11.484633,Clearence and documentation,10% of the invoice value (R13160 at the rate of R1-kes7.5) for local COC and border facilitation,9870,Added,,,J7n8As5lib
+2025-02-13 10:01:31.182784,2025-02-13 10:07:03.780946,Clearance,10% of the invoice value  (R14350 at the rate of R1-KES 7.5) for local COC and border facilitation,10763,Added,4,,c5SZ8OZRMA
+2025-02-13 10:35:12.143402,2025-02-13 10:35:15.108090,Clearence and documentation,KRA duties and taxes,965000,Added,,,ugXi5PQpeM
+2025-02-13 10:43:26.637554,2025-02-13 10:43:29.346688,Clearence and documentation,10% of the invoice value (R14309 for local COC and border facilitation,1430,Added,,,zR46pWs8Y9
+2025-02-13 10:43:26.654533,2025-02-13 10:43:29.340232,Collection fee,Collection fee from supplier,500,Added,,,GlVddUUaUl
+2025-02-13 11:13:43.958639,2025-02-13 11:13:51.003968,Clearence and documentation,10% of the invoice value (R153212) for local COC and border facilitation,15321,Added,,,MkvpYrYsz8
+2025-02-13 11:13:43.980936,2025-02-13 11:13:51.020807,Insurance,Quote amount covers GIT of up to R500000,0,Added,,,mcZsr1NqFD
+2025-02-13 11:13:44.017461,2025-02-13 11:13:51.013223,Packaging fee,"Quote amount is exclusive of packaging if there is need for extra packaging , Client will be advised",0,Added,,,ZaHkWCH1Uh
+2025-02-13 14:01:28.931085,2025-02-13 14:02:40.233046,Clearance,10% of the invoice value for local COC and border facilitation,16102,Added,4,,PbPh1LJtaY
+2025-02-14 10:52:39.876901,2025-02-14 10:52:43.234314,Clearance,10% of the invoice value (R84840 at the rate of R1-kes 7.5) for local COC and border facilitation,63630,Added,,,6LkoVJ3M1Q
+2025-02-14 11:16:26.889799,2025-02-14 11:21:05.368114,Clearance,10% of the invoice value (R181108 at the rate of R1 -7.5 KES) for local COC and border facilitation.,135830,Added,4,,HsTlTQHISk
+2025-02-14 13:13:55.323328,2025-02-14 13:13:58.899945,Collection fee,Collection fee from supplier,1200,Added,,,TamytgCl4Z
+2025-02-14 13:13:55.343799,2025-02-14 13:13:58.888334,Clearance,"Quote amount is exclusive of duties and taxes, Client to cater for own duties and taxies at the port of entry",0,Added,,,3i2gmPc6XK
+2025-02-14 13:13:55.362668,2025-02-14 13:13:58.894045,Insurance,Quote amount covers GIT of up to R500000,0,Added,,,QKoqFMZlUC
+2025-02-14 13:24:10.105028,2025-02-14 13:24:13.619234,Clearance,10% of the invoice value (R328000) for local COC and border facilitation,32800,Added,,,98rEERirwt
+2025-02-14 13:24:10.120861,2025-02-14 13:24:13.625494,Insurance,Quote amount covers GIT of up to R500000,0,Added,,,bv2OWFWzMW
+2025-02-14 13:24:10.135939,2025-02-14 13:24:13.608840,Packaging,"Quote amount is exclusive of packaging if there is need for extra packaging , Client will be advised",0,Added,,,88AWO91kwY
+2025-02-14 13:24:10.149338,2025-02-14 13:24:13.631639,Clearance,Quote amount is inclusive of transit clearance,0,Added,,,gvo3ImJlaW
