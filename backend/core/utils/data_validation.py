@@ -123,7 +123,7 @@ def validate_serializer_data(serializer, serializer_data):
     Returns:
         Serializer: The updated serializer with validated data.
     """
-    validated_data = serializer_data
+    validated_data = serializer_data 
     for field_name, field in serializer.fields.items():
         value = validated_data.get(field_name, None)
 

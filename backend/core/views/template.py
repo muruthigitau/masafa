@@ -222,7 +222,14 @@ class GenericViewSet(viewsets.ModelViewSet):
         pk_fields = self._extract_pk_fields(data)  
         m2m_fields = self._extract_m2m_fields(data) 
         
-        serializer_data = data.copy()  
+        model_class = self.get_serializer().Meta.model
+
+        # Extract valid model fields
+        model_fields = {field.name for field in model_class._meta.get_fields()}
+
+        # Remove any unexpected fields from data
+        serializer_data = {key: value for key, value in data.items() if key in model_fields}
+ 
         self._handle_pk_fields(serializer_data, pk_fields)  
         
         serializer = self.get_serializer(data=serializer_data) 
@@ -233,6 +240,7 @@ class GenericViewSet(viewsets.ModelViewSet):
         instance = updated_serializer.save()  # Create the instance with the related fields already set
         
         self._handle_m2m_fields(instance, m2m_fields)  # Handle many-to-many fields
+        
         instance.save()
         
         return updated_serializer.data

@@ -43,7 +43,6 @@ const AppDashboard = () => {
           }`
         );
 
-        console.log("Report data:", response.data);
 
         setReportData({
           summary: {
@@ -99,10 +98,10 @@ const AppDashboard = () => {
   };
 
   return (
-    <div className="flex flex-col space-y-6 px-4 py-4 rounded-xl shadow-lg">
+    <div className="flex flex-col space-y-6 px-8 py-4 rounded-xl shadow-lg">
       <h2 className="text-3xl font-bold text-purple-800">Dashboard</h2>
          {/* Navigation Links */}
-         <div className="w-full px-6">
+         <div className="w-full">
         <h2 className="text-xl font-semibold mb-4">Shortcuts</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-3">
           {links.map((link, index) => (
@@ -149,9 +148,13 @@ const AppDashboard = () => {
             type={
               filter === "day"
                 ? "date"
+                : filter === "week"
+                ? "week"
                 : filter === "month"
                 ? "month"
-                : "number"
+                : filter === "year"
+                ? "month"
+                : "text"
             }
             min={filter === "year" ? "2000" : undefined}
             max={filter === "year" ? new Date().getFullYear() : undefined}
@@ -170,7 +173,7 @@ const AppDashboard = () => {
 
       {reportData ? (
         <>
-          <ReportCards data={reportData?.summary} />
+          <ReportCards data={reportData?.summary} top_items={reportData?.top_items} />
           <ReportGraph data={reportData} />
         </>
       ) : (

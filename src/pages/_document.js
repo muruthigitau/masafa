@@ -4,51 +4,51 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
-        <title>Blox ERP - Comprehensive and Adaptable ERP Solution</title>
+        <title>Masafa Logistics - Streamlined and Reliable Logistics Solutions</title>
 
         {/* SEO Meta Tags */}
         <meta
           name="description"
-          content="Blox ERP - A scalable and customizable enterprise resource planning solution designed for diverse industries."
+          content="Masafa Logistics - Providing efficient and scalable logistics solutions for businesses worldwide."
         />
         <meta
           name="keywords"
-          content="Blox ERP, enterprise resource planning, ERP software, business management, CRM, HR, inventory management, supply chain, manufacturing, financial management"
+          content="Masafa Logistics, logistics solutions, supply chain management, shipping, freight forwarding, transportation, warehouse management, logistics software"
         />
-        <meta name="author" content="Blox ERP" />
+        <meta name="author" content="Masafa Logistics" />
 
         {/* Open Graph Meta Tags for SMO */}
         <meta
           property="og:title"
-          content="Blox ERP - Comprehensive and Adaptable ERP Solution"
+          content="Masafa Logistics - Streamlined and Reliable Logistics Solutions"
         />
         <meta
           property="og:description"
-          content="Streamline your business operations with Blox ERP, the flexible and scalable ERP solution tailored for all industries."
+          content="Optimize your logistics and supply chain operations with Masafa Logistics, a comprehensive solution for businesses in need of reliable, cost-effective transport and logistics services."
         />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.bloxerp.com" />
+        <meta property="og:url" content="https://www.masafalogistics.com" />
         <meta
           property="og:image"
-          content="https://test.bloxerp.com/blox-logo.png"
+          content="https://test.masafalogistics.com/masafa-logo.png"
         />
-        <meta property="og:site_name" content="Blox ERP" />
+        <meta property="og:site_name" content="Masafa Logistics" />
 
         {/* Twitter Card Meta Tags */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="Blox ERP - Comprehensive and Adaptable ERP Solution"
+          content="Masafa Logistics - Streamlined and Reliable Logistics Solutions"
         />
         <meta
           name="twitter:description"
-          content="Blox ERP offers a modular, scalable ERP solution designed to manage business operations across various industries."
+          content="Masafa Logistics offers scalable logistics solutions designed to optimize shipping, supply chain management, and more for businesses globally."
         />
         <meta
           name="twitter:image"
-          content="https://test.bloxerp.com/blox-logo.png"
+          content="https://test.masafalogistics.com/masafa-logo.png"
         />
-        <meta name="twitter:site" content="@BloxERP" />
+        <meta name="twitter:site" content="@MasafaLogistics" />
 
         {/* Existing links and scripts */}
         <link
