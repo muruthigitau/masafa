@@ -211,6 +211,11 @@
                         "id": "consignment",
                         "model": "Manifest",
                         "name": "Manifest"
+                    },
+                    {
+                        "id": "dispatch",
+                        "model": "Dispatch",
+                        "name": "dispatch"
                     }
                 ]
             }
