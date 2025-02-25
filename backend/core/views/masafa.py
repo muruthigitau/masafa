@@ -156,24 +156,24 @@ class TransitCrossborderAPIView(APIView):
                         message = (
                             f"Hi {customer.first_name}, your goods ({item_names}) are on their way. "
                             f"Use Item IDs ({item_ids}) for tracking: "
-                            f"https://test.masafalogistics.com/tracking?phone={customer.phone}. "
+                            f"https://masafalogistics.com/tracking?phone={customer.phone}. "
                             "Thank you!"
                         ) 
                         sms_message = (
                             f"Hi {customer.first_name}, your ({len(customer_items)}) good(s) are on their way. "
-                            f"https://test.masafalogistics.com/tracking?phone={customer.phone}. "
+                            f"https://masafalogistics.com/tracking?phone={customer.phone}. "
                             "Thank you!"
                         )
 
                     elif action == "Offload":
                         message = (
                             f"Hi {customer.first_name}, your goods ({item_names}) are ready for pickup. "
-                            f"Details: https://test.masafalogistics.com/pickup?phone={customer.phone}. "
+                            f"Details: https://masafalogistics.com/pickup?phone={customer.phone}. "
                             "Thank you!"
                         ) 
                         sms_message = (
                             f"Hi {customer.first_name}, your ({len(customer_items)}) good(s) are ready for pickup. "
-                            f"Details: https://test.masafalogistics.com/pickup?phone={customer.phone}. "
+                            f"Details: https://masafalogistics.com/pickup?phone={customer.phone}. "
                             "Thank you!"
                         ) 
                         
@@ -206,7 +206,7 @@ class TransitCrossborderAPIView(APIView):
                         # Send SMS notification
                         message = (
                             f"Hi {customer.first_name}, your invoice ({invoice.id}) has been generated. "
-                            f"Track it here: https://test.masafalogistics.com/tracking?phone={customer.phone}&invoice={invoice.id}. "
+                            f"Track it here: https://masafalogistics.com/tracking?phone={customer.phone}&invoice={invoice.id}. "
                             "Thank you!"
                         )
 
@@ -268,41 +268,7 @@ class ItemDispatchAPIView(APIView):
                 return Response(
                     {"error": "Some items are missing from dispatch", "data": missing_item_ids},
                     status=status.HTTP_400_BAD_REQUEST,
-                )
-
-            # Dictionary to store customer notifications
-            customer_notifications = {}
-
-            # Process each dispatched item
-            for item in dispatched_items:
-                item.status = "Dispatched"
-                item.save()
-
-                # Group items by customer for email
-                if item.customer:
-                    customer = item.customer
-                    if customer.email not in customer_notifications:
-                        customer_notifications[customer.email] = {
-                            "customer": customer,
-                            "items": [],
-                        }
-                    customer_notifications[customer.email]["items"].append(item.name)
-
-            # Send combined email notifications and SMS
-            for email, data in customer_notifications.items():
-                customer = data["customer"]
-                items_list = ", ".join(data["items"])
-                total_items = len(data["items"])
-
-                # Send SMS with total item count
-                sms_message = f"Hi {customer.first_name}, your {total_items} item(s) have been collected. Thank you for trusting us!"
-                send_sms(customer.phone, sms_message)
-
-                # Send a single email with all items listed
-                email_message = f"Hi {customer.first_name}, your goods ({items_list}) have been collected. Thank you for trusting us!"
-                context = {"message": email_message}
-                send_custom_email("Goods Dispatch", "email/default.html", context, [email])
-                
+                )                
 
         except Dispatch.DoesNotExist:
             return Response(

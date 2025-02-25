@@ -67,8 +67,8 @@ const LinkSelectField = ({
           value = value.replace(/\{(.+?)\}/g, (_, match) => {
             const formValue = form[match];
             return formValue !== undefined
-              ? typeof formValue === "object" && formValue.id
-                ? formValue.id
+              ? typeof formValue === "object" && formValue?.id
+                ? formValue?.id
                 : formValue
               : `{${match}}`; // Keep placeholder if form value doesn't exist
           });
@@ -79,11 +79,22 @@ const LinkSelectField = ({
 
       try {
         // Pass filters individually
+
+        const excludeIds = Array.isArray(value)
+          ? value.map((item) => item.value)
+          : [];
+        const searchValue = Array.isArray(filterValue)
+          ? ""
+          : filterValue !== ""
+          ? filterValue
+          : search;
+
+        filters._exclude = excludeIds.join(",");
         const queryParams = {
           page_length: 10,
           search,
           ...filters,
-          search: filterValue,
+          search: searchValue,
         };
 
         const response = await fetchData(queryParams, endpoint);
@@ -105,7 +116,17 @@ const LinkSelectField = ({
         setOptions([{ value: "add-new", label: "+ Add new", isAddNew: true }]);
       }
     },
-    [endpoint, appData, readOnly, preview, hidden, field, form, filterValue]
+    [
+      endpoint,
+      appData,
+      readOnly,
+      preview,
+      hidden,
+      field,
+      form,
+      value,
+      filterValue,
+    ]
   );
 
   useEffect(() => {

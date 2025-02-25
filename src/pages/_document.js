@@ -4,7 +4,9 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
-        <title>Masafa Logistics - Streamlined and Reliable Logistics Solutions</title>
+        <title>
+          Masafa Logistics - Streamlined and Reliable Logistics Solutions
+        </title>
 
         {/* SEO Meta Tags */}
         <meta
@@ -30,7 +32,7 @@ export default function Document() {
         <meta property="og:url" content="https://www.masafalogistics.com" />
         <meta
           property="og:image"
-          content="https://test.masafalogistics.com/masafa-logo.png"
+          content="https://masafalogistics.com/masafa-logo.png"
         />
         <meta property="og:site_name" content="Masafa Logistics" />
 
@@ -46,7 +48,7 @@ export default function Document() {
         />
         <meta
           name="twitter:image"
-          content="https://test.masafalogistics.com/masafa-logo.png"
+          content="https://masafalogistics.com/masafa-logo.png"
         />
         <meta name="twitter:site" content="@MasafaLogistics" />
 

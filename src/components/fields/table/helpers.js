@@ -19,7 +19,10 @@ export const fetchDocumentData = async (slug) => {
     let columns = fieldOrder
       .map((fieldName) => {
         const field = fields.find((f) => f.fieldname === fieldName);
-        return field && field.in_list_view === 1
+        return field &&
+          (field.in_list_view == 1 ||
+            field.in_list_view === true ||
+            field.in_list_view === "1")
           ? { label: field.label, fieldname: field.fieldname }
           : null;
       })

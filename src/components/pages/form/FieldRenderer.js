@@ -298,7 +298,7 @@ const FieldRenderer = ({
         <>
           {renderLabel()}
           <div className="text-right flex justify-between w-full">
-            <ConnectionField field={item} />
+            <ConnectionField field={item} readOnly={item?.read_only} />
           </div>
         </>
       );

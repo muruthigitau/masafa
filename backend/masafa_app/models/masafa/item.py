@@ -30,3 +30,10 @@ class Item(BaseModel):
     description = models.TextField(null=True, blank=True)
     barcode = models.CharField(max_length=255, null=True, blank=True)
     qr_code = models.CharField(max_length=255, null=True, blank=True)
+    exclude_in_inventory_list = models.BooleanField(null=True, blank=True)
+    CHOICES_ITEM_CONDITION = [
+        ("New", "New"),
+        ("Used", "Used"),
+    ]
+    item_condition = models.CharField(choices=CHOICES_ITEM_CONDITION, max_length=255, default='Used', null=True, blank=True)
+    paid = models.BooleanField(null=True, blank=True)

@@ -44,3 +44,4 @@ class Crossborder(BaseModel):
     loaded_at = models.DateField(null=True, blank=True)
     offloaded_at = models.DateField(null=True, blank=True)
     items = models.ManyToManyField("masafa_app.Item", related_name="CrossborderItems", )
+    consolidated_invoice = models.CharField(max_length=255, null=True, blank=True)

@@ -10,8 +10,9 @@ class ItemFilter(filters.FilterSet):
     type = filters.CharFilter(lookup_expr='icontains', label='Type')
     customer = filters.CharFilter(lookup_expr='icontains', label='Customer')
     status = filters.CharFilter(lookup_expr='icontains', label='Status')
+    item_condition = filters.CharFilter(lookup_expr='icontains', label='Item Condition')
 
     class Meta:
         model = Item
-        fields = ['id', 'item_group', 'name', 'weight', 'packaging_type', 'type', 'customer', 'status']
+        fields = ['id', 'item_group', 'name', 'weight', 'packaging_type', 'type', 'customer', 'status', 'item_condition']
 

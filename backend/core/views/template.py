@@ -87,11 +87,26 @@ class GenericViewSet(viewsets.ModelViewSet):
         page = query_params.pop("page", [1])[0]
         page_length = query_params.pop("page_length", [25])[0]
         sort_field = query_params.pop("_sort_field", ["modified"])[0]
-        sort_order = query_params.pop("_sort_order", ["desc"])[0]
+        sort_order = query_params.pop("_sort_order", ["desc"])[0] 
+        exclude = query_params.pop("_exclude", [""])[0]
+
+        # Convert exclude to a list of integers
+        try:
+            exclude_ids = list(map(str, exclude.split(","))) if exclude else []
+        except ValueError:
+            return Response(
+                {"error": "Invalid exclude parameter. Must be a comma-separated list of integers."},
+                status=status.HTTP_400_BAD_REQUEST,
+            )
 
         # Apply filters
         filtered_queryset = self.apply_filters(self.get_queryset(), query_params)
-        
+
+        # Apply exclusion
+        if exclude_ids:
+            filtered_queryset = filtered_queryset.exclude(id__in=exclude_ids)
+
+        # Sorting logic
         if sort_field or sort_order:
             try:
                 if sort_field:
@@ -99,8 +114,7 @@ class GenericViewSet(viewsets.ModelViewSet):
                     if sort_field not in [field.name for field in self.queryset.model._meta.fields]:
                         sort_field = "id"
                 else:
-                    # Default sorting if no sort field is provided
-                    sort_field = "id"  # Assume `id` as the default sort field
+                    sort_field = "id"  # Default sort field
 
                 # Apply sorting
                 sort_prefix = "-" if sort_order.lower() == "desc" else ""
@@ -144,6 +158,7 @@ class GenericViewSet(viewsets.ModelViewSet):
                 "current_page": current_page,
             }
         )
+
         
     def apply_filters(self, queryset, query_params):
         """

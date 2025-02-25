@@ -183,11 +183,6 @@
                 ],
                 "print_formats": [
                     {
-                        "id": "consignment",
-                        "model": "Consignment",
-                        "name": "consignment"
-                    },
-                    {
                         "id": "invoice",
                         "model": "Invoice",
                         "name": "Invoice"
@@ -195,12 +190,27 @@
                     {
                         "id": "barcode_print_list",
                         "model": "BarcodePrintList",
-                        "name": "barcode_print_list"
+                        "name": "Barcode Print List"
                     },
                     {
                         "id": "barcode_print",
                         "model": "BarcodePrint",
-                        "name": "barcode_print"
+                        "name": "Barcode Print"
+                    },
+                    {
+                        "id": "packing_list",
+                        "model": "PackingList",
+                        "name": "Packing List"
+                    },
+                    {
+                        "id": "inventory_list",
+                        "model": "InventoryList",
+                        "name": "Inventory List"
+                    },
+                    {
+                        "id": "consignment",
+                        "model": "Manifest",
+                        "name": "Manifest"
                     }
                 ]
             }
