@@ -18,7 +18,7 @@ def send_sms(phone_number, message, code="254"):
     if phone_number.startswith('+'):
         phone_number = phone_number[1:]
     if len(phone_number) > 10:
-        no = f"{code}{phone_number[-12:]}"
+        no = f"{phone_number[-12:]}"
     elif 9 <= len(phone_number) <= 10:
         no = f"{code}{phone_number[-9:]}"
    
