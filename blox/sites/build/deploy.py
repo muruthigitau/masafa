@@ -6,17 +6,19 @@ import socket
 from typing import List
 from ...utils.config import PROJECT_ROOT, write_running_ports
 
+def run_with_sudo(command: List[str]) -> None:
+    subprocess.run(["sudo"] + command, check=True)
+
+def install_required_packages():
+    """
+    Ensure all required packages are installed.
+    """
+    packages = ["apache2", "libapache2-mod-wsgi-py3", "certbot", "python3-certbot-apache", "supervisor"]
+    run_with_sudo(["apt-get", "update"])
+    run_with_sudo(["apt-get", "install", "-y"] + packages)
+    click.echo("All required packages are installed.")
 
 def find_free_port(start_port: int = 3000) -> int:
-    """
-    Find a free port starting from the given start_port.
-
-    Args:
-        start_port (int): The port number to start searching from.
-
-    Returns:
-        int: A free port number.
-    """
     port = start_port
     while True:
         with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as sock:
@@ -24,98 +26,47 @@ def find_free_port(start_port: int = 3000) -> int:
                 return port
             port += 1
 
-
-def run_with_sudo(command: List[str]) -> None:
+def setup_apache(domain: str, appname: str, django_port: int):
     """
-    Run a command with sudo privileges.
-
-    Args:
-        command (List[str]): The command to run with sudo.
+    Set up Apache configuration for Django.
     """
-    subprocess.run(command, check=True)
+    apache_conf = f"""
+    <VirtualHost *:80>
+        ServerName {domain}
+        ServerAlias www.{domain}
 
+        WSGIDaemonProcess {appname} python-home={PROJECT_ROOT}/env python-path={PROJECT_ROOT}/backend
+        WSGIProcessGroup {appname}
+        WSGIScriptAlias / {PROJECT_ROOT}/backend/{appname}/wsgi.py
 
-def setup_nginx(domain: str, appname: str, nextjs_port: int, django_port: int) -> None:
+        <Directory {PROJECT_ROOT}/backend/{appname}>
+            Require all granted
+        </Directory>
+
+        Alias /static/ {PROJECT_ROOT}/backend/static/
+        <Directory {PROJECT_ROOT}/backend/static/>
+            Require all granted
+        </Directory>
+    </VirtualHost>
     """
-    Set up Nginx configuration for the given domain and app.
-
-    Args:
-        domain (str): The domain name.
-        appname (str): The application name.
-        nextjs_port (int): The port number for the Next.js application.
-        django_port (int): The port number for the Django application.
-    """
-    nginx_conf = f"""
-    server {{
-        listen 80;
-        server_name {domain} www.{domain};
-
-        location / {{
-            proxy_pass http://127.0.0.1:{nextjs_port};
-            proxy_set_header Host $host;
-            proxy_set_header X-Real-IP $remote_addr;
-            proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-            proxy_set_header X-Forwarded-Proto $scheme;
-        }}
-
-        location /apis/ {{
-            proxy_pass http://127.0.0.1:{django_port};
-            proxy_set_header Host $host;
-            proxy_set_header X-Real-IP $remote_addr;
-            proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-            proxy_set_header X-Forwarded-Proto $scheme;
-        }}
-
-        location /static/ {{
-            alias /path/to/your/static/files/;
-        }}
-    }}
-    """
-
-    conf_path = f"/etc/nginx/sites-available/{appname}"
-    symlink_path = f"/etc/nginx/sites-enabled/{appname}"
-
-    # Write the configuration to /etc/nginx/sites-available with sudo
+    conf_path = f"/etc/apache2/sites-available/{appname}.conf"
     with open(conf_path, "w") as file:
-        file.write(nginx_conf)
+        file.write(apache_conf)
+    run_with_sudo(["a2ensite", appname])
+    run_with_sudo(["systemctl", "reload", "apache2"])
+    click.echo(f"Apache configuration for {appname} has been set up.")
 
-    # Create symlink in /etc/nginx/sites-enabled with sudo
-    run_with_sudo(["ln", "-s", conf_path, symlink_path])
-    run_with_sudo(["nginx", "-t"])
-    run_with_sudo(["systemctl", "reload", "nginx"])
-    click.echo(f"Nginx configuration for {appname} has been set up and reloaded.")
-
-
-def setup_supervisor(appname: str, django_port: int, nextjs_port: int) -> None:
-    """
-    Set up Supervisor configuration for the given app.
-
-    Args:
-        appname (str): The application name.
-        django_port (int): The port number for the Django application.
-        nextjs_port (int): The port number for the Next.js application.
-    """
-    # Create logs directory if it doesn't exist
+def setup_supervisor(appname: str, django_port: int, nextjs_port: int):
     logs_dir = os.path.join(PROJECT_ROOT, "logs")
     os.makedirs(logs_dir, exist_ok=True)
-
-    # Log files
     django_log = os.path.join(logs_dir, f"{appname}_django.log")
     nextjs_log = os.path.join(logs_dir, f"{appname}_nextjs.log")
 
-    # Prompt for the username
-    username = click.prompt(
-        "Enter the username to run the Supervisor process", type=str
-    )
-
-    venv_path = os.path.join(PROJECT_ROOT, "env")
-    python_executable = os.path.join(venv_path, "bin", "python3")
-    if sys.platform.startswith("win"):
-        python_executable = os.path.join(venv_path, "Scripts", "python.exe")
-
+    username = click.prompt("Enter the username to run the Supervisor process", type=str)
+    
     supervisor_conf = f"""
     [program:{appname}_django]
-    command={python_executable} manage.py runserver 0.0.0.0:{django_port}
+    command={PROJECT_ROOT}/env/bin/python3 manage.py runserver 0.0.0.0:{django_port}
     directory={PROJECT_ROOT}/backend
     autostart=true
     autorestart=true
@@ -125,72 +76,55 @@ def setup_supervisor(appname: str, django_port: int, nextjs_port: int) -> None:
     
     [program:{appname}_nextjs]
     command=npm run start -- --port {nextjs_port}
-    directory={PROJECT_ROOT}/
+    directory={PROJECT_ROOT}/frontend
     autostart=true
     autorestart=true
     stderr_logfile={nextjs_log}
     stdout_logfile={nextjs_log}
     user={username}
     """
-
     conf_path = f"/etc/supervisor/conf.d/{appname}.conf"
-
-    # Write the configuration to /etc/supervisor/conf.d with sudo
     with open(conf_path, "w") as file:
         file.write(supervisor_conf)
-
-    # Update Supervisor configurations and start the app with sudo
     run_with_sudo(["supervisorctl", "reread"])
     run_with_sudo(["supervisorctl", "update"])
     run_with_sudo(["supervisorctl", "start", f"{appname}_django"])
     run_with_sudo(["supervisorctl", "start", f"{appname}_nextjs"])
     click.echo(f"Supervisor configuration for {appname} has been set up and started.")
 
-
-def setup_ssl(domain: str) -> None:
-    """
-    Set up SSL using Let's Encrypt for the given domain.
-
-    Args:
-        domain (str): The domain name.
-    """
+def setup_ssl(domain: str):
     click.echo("Setting up SSL with Let's Encrypt...")
-    # Using sudo to install SSL certificates
-    run_with_sudo(["certbot", "--nginx", "-d", domain, "-d", f"www.{domain}"])
+    run_with_sudo(["certbot", "--apache", "-d", domain, "-d", f"www.{domain}"])
     click.echo(f"SSL certificate for {domain} has been set up.")
 
+def undo_setup(appname: str):
+    """
+    Undo the setup in case of failure.
+    """
+    click.echo("Rolling back setup...")
+    run_with_sudo(["a2dissite", appname])
+    run_with_sudo(["systemctl", "reload", "apache2"])
+    run_with_sudo(["rm", f"/etc/apache2/sites-available/{appname}.conf"])
+    run_with_sudo(["rm", f"/etc/supervisor/conf.d/{appname}.conf"])
+    run_with_sudo(["supervisorctl", "stop", f"{appname}_django"])
+    run_with_sudo(["supervisorctl", "stop", f"{appname}_nextjs"])
+    run_with_sudo(["supervisorctl", "update"])
+    click.echo("Setup has been undone.")
 
 @click.command()
 @click.argument("mode", default="prod")
-def deploy(mode: str) -> None:
-    """
-    Deploy the application in the specified mode.
-
-    Args:
-        mode (str): The deployment mode (default is "prod").
-    """
-    # print(999999)
-    venv_path = os.path.join(PROJECT_ROOT, "env")
-    if not os.path.exists(venv_path):
-        click.echo("Virtual environment not found. Please run 'blox setup' first.")
-        return
-
-    os.path.join(venv_path, "bin", "python3")
-    if sys.platform.startswith("win"):
-        os.path.join(venv_path, "Scripts", "python.exe")
-
+def deploy(mode: str):
+    install_required_packages()
     django_port = find_free_port(8000)
     nextjs_port = find_free_port(3000)
-
     domain = click.prompt("Enter your domain name", type=str)
     appname = click.prompt("Enter your app name", type=str)
-
-    # setup_nginx(domain, appname, nextjs_port, django_port)
-    # setup_supervisor(appname, django_port, nextjs_port)
-    setup_ssl(domain)
-
-    # Writing running ports to the specified file
-    # write_running_ports(django_port, nextjs_port)
-
-    # Closing the script after starting the processes via Supervisor
-    click.echo("Deployment is complete. The services are running in the background.")
+    try:
+        setup_apache(domain, appname, django_port)
+        setup_supervisor(appname, django_port, nextjs_port)
+        setup_ssl(domain)
+        write_running_ports(django_port, nextjs_port)
+        click.echo("Deployment is complete. The services are running in the background.")
+    except Exception as e:
+        click.echo(f"Error occurred: {e}", err=True)
+        undo_setup(appname)
