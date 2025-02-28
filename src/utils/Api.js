@@ -5,22 +5,26 @@ import { getTenant } from "./tenant";
 
 const djangoPort = process.env.NEXT_PUBLIC_DJANGO_PORT;
 
-let apiUrl = "";
+// let apiUrl = "";
 
-if (typeof window !== "undefined") {
-  const nextJsRootUrl = window.location.origin;
-  const hasPort = window.location.port;
+// if (typeof window !== "undefined") {
+//   const nextJsRootUrl = window.location.origin;
+//   const hasPort = window.location.port;
 
-  if (hasPort) {
-    apiUrl = `${nextJsRootUrl.replace(window.location.port, djangoPort)}/apis`;
-  } else {
-    const protocol = nextJsRootUrl.startsWith("https://") ? "https" : "http";
-    const domain = nextJsRootUrl.replace(/^https?:\/\//, "").split("/")[0];getTenant
-    apiUrl = `${protocol}://${domain}/apis`;
-  }
-} else {
-  apiUrl = `http://localhost:${djangoPort}/apis`;
-}
+//   if (hasPort) {
+//     apiUrl = `${nextJsRootUrl.replace(window.location.port, djangoPort)}/apis`;
+//   } else {
+//     const protocol = nextJsRootUrl.startsWith("https://") ? "https" : "http";
+//     const domain = nextJsRootUrl.replace(/^https?:\/\//, "").split("/")[0];getTenant
+//     apiUrl = `${protocol}://${domain}/apis`;
+//     // apiUrl = `test.masafa.softleek.com`;
+//   }
+// } else {
+//   apiUrl = `http://localhost:${djangoPort}/apis`;
+// }
+
+const apiUrl = "https://test.masafa.softleek.com/apis/";
+
 
 const formatUrl = (url) => (url.endsWith("/") ? url : url + "/");
 
