@@ -42,7 +42,7 @@ const SectionItem = ({ section, handleFocus, handleBlur, selectedItem }) => {
 
       {/* Conditionally render content based on collapse state */}
       {!isCollapsed && (
-        <div className="flex space-x-8">
+        <div className="flex flex-col md:flex-row md:space-x-8">
           {section?.columns?.map((column, index) => (
             <ColumnItem
               key={index}

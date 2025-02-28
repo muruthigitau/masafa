@@ -87,7 +87,7 @@ const Navbar = () => {
           </nav>
 
           <div className="flex items-center grow sm:mt-0 lg:flex lg:basis-auto w-full justify-end">
-            <div className="flex items-center md:ml-auto md:pr-4 ">
+            <div className="flex items-center md:ml-auto pl-8 md:pr-4 ">
               <div className="relative flex flex-wrap items-stretch w-full rounded-lg">
                 <Search />
               </div>

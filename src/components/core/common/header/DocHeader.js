@@ -71,7 +71,7 @@ const DocHeader = ({
     <>
       {isLoading && <Loading />}
       <div
-        className="relative flex items-center mx-4 p-0 bg-center bg-cover min-h-14 rounded-2xl"
+        className="relative flex items-center mx-4 mt-4 md:mt-0 p-0 bg-center bg-cover min-h-14 rounded-2xl"
         style={{
           backgroundImage: `url('/img/curved-images/curved0.jpg')`,
           backgroundPositionY: "50%",
@@ -132,7 +132,7 @@ const DocHeader = ({
                   </li>
                 ))}
               </ul>
-              <div className="flex flex-row space-x-2 items-center">
+              <div className="flex flex-wrap space-x-2 space-y-2 w-full items-end justify-end">
                 {action && (
                   <PrimaryButton text={action} onClick={updateStatus} />
                 )}
