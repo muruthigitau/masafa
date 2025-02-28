@@ -7,7 +7,7 @@ const NotificationModal = ({ isOpen, onClose, reminders }) => {
 
   return (
     <Modal isOpen={isOpen} onClose={onClose} position="top" className="!pt-20">
-      <div className="py-2 px-5 w-[800px] overflow-y-auto">
+      <div className="py-2 px-5 w-full max-w-2xl md:max-w-3xl lg:max-w-4xl xl:max-w-5xl overflow-y-auto">
         <div className="flex justify-between items-center mb-3">
           <h2 className="text-xl font-semibold text-purple-900">
             Upcoming Reminders

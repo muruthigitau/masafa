@@ -44,15 +44,15 @@ const Navbar = () => {
   return (
     <>
       <div className="w-full max-w-[1536px] z-50 flex flex-wrap items-center justify-between transition-all duration-250 ease-soft-in bg-transparent">
-        <div className="flex items-center justify-between w-full px-4 py-1">
+        <div className="flex items-center justify-between w-full px-2 md:px-4 py-1">
           <Link href="/">
             <img
               src="/img/logos/logo.png"
               alt="Blox ERP Logo"
-              className="h-12 w-auto p-1"
+              className="h-10 md:h-12 ml-4 w-auto p-1 flex items-center cursor-pointer"
             />
           </Link>
-          <nav className="flex flex-row md:flex-col gap-x-4">
+          <nav className="hidden md:flex md:flex-col gap-x-4">
             <ol className="flex flex-wrap pt-1 bg-transparent rounded-lg sm:mr-16">
               <div
                 className="flex items-center cursor-pointer pr-4 pl-8 text-sm font-semibold transition-all ease-nav-brand"
@@ -86,7 +86,7 @@ const Navbar = () => {
             </ol>
           </nav>
 
-          <div className="flex items-center mt-2 grow sm:mt-0 sm:mr-6 md:mr-0 lg:flex lg:basis-auto">
+          <div className="flex items-center grow sm:mt-0 lg:flex lg:basis-auto w-full justify-end">
             <div className="flex items-center md:ml-auto md:pr-4 ">
               <div className="relative flex flex-wrap items-stretch w-full rounded-lg">
                 <Search />
@@ -95,19 +95,19 @@ const Navbar = () => {
             <ul className="flex flex-row justify-end pl-4 mb-0 list-none">
               {isAuthenticated ? (
                 <>
-                  <li className="flex items-center mr-4">
+                  <li className="flex items-center mr-2 md:mr-4">
                     <RemindersIcon />
                   </li>
-                  <li className="flex items-center mr-2">
+                  <li className="flex items-center mx-1 md:mr-2">
                     <Link href="/profile">
                       <div
                         className={`flex items-center text-sm font-semibold cursor-pointer hover:text-yellow-400 transition duration-300 ease-in-out transform hover:scale-125 ${textColor} cursor-pointer`}
                       >
                         <FontAwesomeIcon
                           icon={faUserCircle}
-                          className={`mr-2 text-green-600 ${iconColor}`}
-                          size="xl"
+                          className={`mr-2 text-green-600 ${iconColor} text-lg md:text-2xl`}
                         />
+
                         {/* <span className="hidden sm:inline">Profile</span> */}
                       </div>
                     </Link>
@@ -119,8 +119,7 @@ const Navbar = () => {
                     >
                       <FontAwesomeIcon
                         icon={faSignOutAlt}
-                        className={`mr- ${iconColor}`}
-                        size="xl"
+                        className={`text-green-600 ${iconColor} text-lg md:text-2xl`}
                       />
                       {/* <span className="hidden sm:inline">Logout</span> */}
                     </div>

@@ -82,13 +82,13 @@ const Sidebar = () => {
     <aside
       className={`${
         !sidebarHidden ? "" : "hidden"
-      } w-fit relative flex flex-col`}
+      } -mt-20 md:mt-0 w-fit relative z-100 flex flex-col`}
       ref={sidebarRef}
     >
       {isCollapsed && (
         <button
           onClick={toggleSidebar}
-          className="w-fit fixed z-100 text-slate-700 py-2 px-2 group text-sm md:text-xl top-16 bg-gray-50 rounded" // Use group class for managing hover effect
+          className="w-fit fixed z-100 text-slate-700 py-2 px-2 group text-sm md:text-xl top-2 md:top-16 bg-gray-50 rounded" // Use group class for managing hover effect
         >
           {/* Default icon (faBars) */}
           <FontAwesomeIcon
@@ -104,8 +104,8 @@ const Sidebar = () => {
       )}
 
       <div
-        className={`w-fit max-h-[92vh] overflow-auto ease-nav-brand block -translate-x-full flex-wrap flex-grow items-center justify-between border-0 p-1 antialiased transition-transform duration-200 left-0 translate-x-0 ${
-          !isCollapsed ? "" : "hidden"
+        className={`w-fit h-screen md:max-h-[92vh] overflow-auto ease-nav-brand block -translate-x-full flex-wrap flex-grow items-center justify-between border-0 p-1 antialiased transition-transform duration-200 left-0 translate-x-0 ${
+          !isCollapsed ? "fixed md:relative bg-white" : "hidden"
         }`}
       >
         <div className="h-fit flex items-center justify-between px-4">
@@ -144,13 +144,7 @@ const Sidebar = () => {
               icon={faDashboard}
               text="Home"
               link="/"
-              active={dashboardText === "Home"}
-            />
-            <SidebarList
-              icon={faDashboard}
-              text="Dashboard"
-              link="/"
-              active={dashboardText === "Dashboard"}
+              active={dashboardText === ("Home" || "Dashboard" || "")}
             />
             <SidebarList
               icon={faCartShopping}
