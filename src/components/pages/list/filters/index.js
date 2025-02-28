@@ -128,9 +128,9 @@ const Filters = ({
 
   return (
     <div className="relative">
-      <div className="grid grid-cols-1 md:grid-cols-9 gap-x-2 gap-y-2 px-4">
+      <div className="grid grid-cols-1 md:grid-cols-10 md:gap-x-2 gap-y-2 md:px-4">
         {/* Filters */}
-        <div className="col-span-1 md:col-span-6 lg:col-span-6 xl:col-span-6 grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-x-2 gap-y-2 w-full">
+        <div className="col-span-1 md:col-span-6 lg:col-span-7 xl:col-span-7 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-x-2 gap-y-2 w-full">
           {Object?.keys(combinedFilters)?.map((filterKey) => {
             const filter = combinedFilters[filterKey];
             return (

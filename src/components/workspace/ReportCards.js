@@ -52,31 +52,38 @@ const ReportCards = ({ data, top_items }) => {
 
   return (
     <div className="space-y-6">
-      <div className="grid grid-cols-2 gap-6 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
+      <div className="grid grid-cols-2 gap-3 md:gap-6 sm:grid-cols-3 lg:grid-cols-6">
         {cardData.map((card, index) => (
           <div
             key={index}
-            className={`p-4 rounded-lg shadow-md flex items-center ${card.color} hover:scale-105 transition-transform`}
+            className={`p-2 md:p-4 rounded-lg shadow-md flex flex-col md:flex-row items-start md:items-center ${card.color} hover:scale-105 transition-transform`}
           >
             <div className="text-2xl mr-4">{card.icon}</div>
             <div>
-              <h3 className="text-sm font-medium text-gray-700">{card.title}</h3>
-              <p className="text-lg font-semibold text-gray-900">{card.value}</p>
+              <h3 className="text-sm font-medium text-gray-700">
+                {card.title}
+              </h3>
+              <p className="text-lg font-semibold text-gray-900">
+                {card.value}
+              </p>
             </div>
           </div>
         ))}
       </div>
 
       {/* Top Items with same styles as cards */}
-      <div className="space-y-4">
+      <div className="space-y-4 mb-2">
+        <h2 className="text-xl font-semibold text-gray-800">Top Items</h2>
         {top_items && top_items.length > 0 ? (
-          <div className="grid grid-cols-2 gap-6 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
+          <div className="grid grid-cols-2 gap-3 md:gap-6 sm:grid-cols-3 lg:grid-cols-6">
             {top_items.map((item, index) => (
               <div
                 key={index}
-                className={`p-4 rounded-lg shadow-md flex items-center bg-gray-100 text-gray-700 hover:scale-105 transition-transform`}
+                className={`p-2 md:p-4 rounded-lg shadow-md flex flex-col md:flex-row items-start md:items-center bg-gray-100 text-gray-700 hover:scale-105 transition-transform`}
               >
-                <div className="text-xl mr-4">{item.icon ? item.icon : <FaBox />}</div>
+                <div className="text-xl mr-4">
+                  {item.icon ? item.icon : <FaBox />}
+                </div>
                 <div>
                   <h3 className="text-sm font-medium">{item.name}</h3>
                   <p className="text-lg font-semibold">{item.count}</p>

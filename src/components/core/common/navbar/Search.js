@@ -94,7 +94,7 @@ const Search = () => {
 
   return (
     <div className="relative flex flex-wrap items-stretch w-full transition-all rounded-lg ease-soft w-80 xl:w-96">
-      <span className="text-sm ease-soft leading-5.6 absolute z-50 -ml-px flex h-full items-center whitespace-nowrap rounded-lg rounded-tr-none rounded-br-none border border-r-0 border-transparent bg-transparent py-1 px-2.5 text-center font-normal text-slate-500 transition-all">
+      <span className="text-xs md:text-sm ease-soft leading-5.6 absolute z-50 -ml-px flex h-full items-center whitespace-nowrap rounded-lg rounded-tr-none rounded-br-none border border-r-0 border-transparent bg-transparent py-1 px-2.5 text-center font-normal text-slate-500 transition-all">
         <FontAwesomeIcon icon={faSearch} className="text-purple-500" />
       </span>
       <input
