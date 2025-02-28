@@ -50,8 +50,7 @@ def setup_apache(domain: str, appname: str, django_port: int):
     </VirtualHost>
     """
     conf_path = f"/etc/apache2/sites-available/{appname}.conf"
-    with open(conf_path, "w") as file:
-        file.write(apache_conf)
+    run_with_sudo(["bash", "-c", f"echo '{apache_conf}' > {conf_path}"])
     run_with_sudo(["a2ensite", appname])
     run_with_sudo(["systemctl", "reload", "apache2"])
     click.echo(f"Apache configuration for {appname} has been set up.")
@@ -84,8 +83,7 @@ def setup_supervisor(appname: str, django_port: int, nextjs_port: int):
     user={username}
     """
     conf_path = f"/etc/supervisor/conf.d/{appname}.conf"
-    with open(conf_path, "w") as file:
-        file.write(supervisor_conf)
+    run_with_sudo(["bash", "-c", f"echo '{supervisor_conf}' > {conf_path}"])
     run_with_sudo(["supervisorctl", "reread"])
     run_with_sudo(["supervisorctl", "update"])
     run_with_sudo(["supervisorctl", "start", f"{appname}_django"])
@@ -94,12 +92,13 @@ def setup_supervisor(appname: str, django_port: int, nextjs_port: int):
 
 def setup_ssl(domain: str):
     click.echo("Setting up SSL with Let's Encrypt...")
-    run_with_sudo(["certbot", "--apache", "-d", domain, "-d", f"www.{domain}"])
+    # run_with_sudo(["certbot", "--apache", "-d", domain, "-d", f"www.{domain}"])
     click.echo(f"SSL certificate for {domain} has been set up.")
 
 def undo_setup(appname: str):
     """
     Undo the setup in case of failure.
+    masafalogistics.softleek.com
     """
     click.echo("Rolling back setup...")
     run_with_sudo(["a2dissite", appname])

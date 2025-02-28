@@ -3,7 +3,7 @@
     "site_name": "masafa",
     "database": {
       "ENGINE": "django.db.backends.sqlite3",
-      "NAME": "/home/name/Projects/blox/live/backend/masafa.sqlite3"
+      "NAME": "/home/softleek/masafa/backend/masafa.sqlite3"
     },
     "installed_apps": ["masafa"],
     "domains": ["masafa.localhost", "masafa.127.0.0.1"]
