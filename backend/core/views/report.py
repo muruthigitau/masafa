@@ -67,12 +67,18 @@ class DetailedReportView(APIView):
                 periods = [start_time + timedelta(days=i) for i in range(7)]  # 7 days
 
             elif filter_by == "month":
-                start_time = selected_date.replace(day=1)  # Start of month
-                next_month = (start_time.replace(month=start_time.month % 12 + 1, day=1)
-                              if start_time.month < 12 else datetime(start_time.year + 1, 1, 1))
-                date_filters["created__range"] = [start_time, next_month]
+                start_time = selected_date.replace(day=1)  # Start of the selected month
+                previous_30_days = selected_date - timedelta(days=30)  # 30 days before selected_date
+
+                next_month = (
+                    start_time.replace(month=start_time.month % 12 + 1, day=1)
+                    if start_time.month < 12
+                    else datetime(start_time.year + 1, 1, 1)
+                )
+                
+                date_filters["created__range"] = [previous_30_days, selected_date]  # 30 days before selected_date to selected_date
                 time_group = TruncDay("created")
-                periods = [start_time + timedelta(days=i) for i in range((next_month - start_time).days)]  # 30 days
+                periods = [previous_30_days + timedelta(days=i) for i in range(30)]
 
             elif filter_by == "year":
                 start_time = selected_date.replace(month=1, day=1)  # Start of year

@@ -86,7 +86,7 @@ const Sidebar = () => {
       <aside
         className={`${
           !sidebarHidden ? "" : "hidden"
-        } -mt-16 md:mt-0 w-fit relative z-100 flex flex-col`}
+        } -mt-16 md:mt-0 w-fit relative z-100 md:z-0 flex flex-col`}
         ref={sidebarRef}
       >
         {isCollapsed && (

@@ -23,7 +23,7 @@ const djangoPort = process.env.NEXT_PUBLIC_DJANGO_PORT;
 //   apiUrl = `http://localhost:${djangoPort}/apis`;
 // }
 
-const apiUrl = "https://test.masafa.softleek.com/apis/";
+const apiUrl = "https://api.masafa.masafalogistics.com/apis/";
 
 
 const formatUrl = (url) => (url.endsWith("/") ? url : url + "/");

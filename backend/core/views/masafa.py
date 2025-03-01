@@ -315,14 +315,14 @@ class TrackItemsView(generics.GenericAPIView):
     def _get_items_by_invoice(self, invoice_id, phone):
         try:
             invoice_obj = Invoice.objects.get(id=invoice_id, customer__phone__icontains=phone)
-            items = invoice_obj.items.all().order_by('-created_at')[:20]
+            items = invoice_obj.items.all().order_by('-created')[:20]
             serializer = self.get_serializer(items, many=True)
             return Response(serializer.data)
         except Invoice.DoesNotExist:
             return Response({'detail': 'Invoice not found for the provided phone number.'}, status=status.HTTP_404_NOT_FOUND)
 
     def _get_items_by_id(self, item_id, phone):
-        items = Item.objects.filter(id__icontains=item_id, customer__phone__icontains=phone).order_by('-created_at')[:20]
+        items = Item.objects.filter(id__icontains=item_id, customer__phone__icontains=phone).order_by('-created')[:20]
         serializer = self.get_serializer(items, many=True)
         return Response(serializer.data)
 

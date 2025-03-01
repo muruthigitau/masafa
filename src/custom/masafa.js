@@ -37,7 +37,6 @@ export const useStatusHandler = (dashboardText) => {
   const action = currentStatusConfig?.actions[0];
 
   const handleErrorResponse = (res) => {
-    console.log("res", res);
 
     if (res?.error) {
       const list = res?.message?.data;
@@ -144,9 +143,29 @@ export const useStatusHandler = (dashboardText) => {
   };
 
   const handleScannedCode = async (code) => {
-    const extractedCode = code.split("/").pop();
-    let response;
     try {
+      const url = new URL(code);
+      const params = new URLSearchParams(url.search);
+  
+      // Extract based on priority
+      let extractedCode = params.get("id") || params.get("invoice") || params.get("invoice_id");
+  
+      // If none of the expected params exist, check for any param containing "ML"
+      if (!extractedCode) {
+        for (const [key, value] of params.entries()) {
+          if (value.includes("ML")) {
+            extractedCode = value;
+            break;
+          }
+        }
+      }
+  
+      if (!extractedCode) {
+        toast.error(`Invalid code: No valid ID found for ${extractedCode}` );
+        return;
+      }
+  
+      let response;
       switch (currentStatus) {
         case "Loading":
           response = await postData(
@@ -167,13 +186,15 @@ export const useStatusHandler = (dashboardText) => {
           );
           break;
       }
-      if (response?.data)
+  
+      if (response?.data) {
         toast.success(`${extractedCode} - ${response.data.message}`);
+      }
     } catch (error) {
-      // toast.error(`Error: ${error.message}`);
+      toast.error(`Invalid QR code format - ${error}`);
     }
   };
-
+  
   useLoadingOffloadingKeyEvents(currentStatus, handleScannedCode);
 
   useEffect(() => {

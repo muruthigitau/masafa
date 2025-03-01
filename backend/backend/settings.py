@@ -259,7 +259,7 @@ with open(os.path.join(PROJECT_PATH, 'sites', 'sites.json')) as f:
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.sqlite3",
-        "NAME": BASE_DIR / "db.sqlite3",
+        "NAME": "/home/masafax/masafa/backend/masafa.sqlite3"
     }
 }
 
