@@ -37,7 +37,6 @@ export const useStatusHandler = (dashboardText) => {
   const action = currentStatusConfig?.actions[0];
 
   const handleErrorResponse = (res) => {
-
     if (res?.error) {
       const list = res?.message?.data;
       if (list) {
@@ -143,27 +142,34 @@ export const useStatusHandler = (dashboardText) => {
 
   const handleScannedCode = async (code) => {
     try {
-      const url = new URL(code);
-      const params = new URLSearchParams(url.search);
-  
-      // Extract based on priority
-      let extractedCode = params.get("id") || params.get("invoice") || params.get("invoice_id");
-  
-      // If none of the expected params exist, check for any param containing "ML"
-      if (!extractedCode) {
-        for (const [key, value] of params.entries()) {
-          if (value.includes("ML")) {
-            extractedCode = value;
-            break;
+      let extractedCode;
+
+      const paramsString = code.split("?")[1];
+      if (paramsString) {
+        const params = new URLSearchParams(paramsString);
+
+        // Extract based on priority
+        extractedCode =
+          params.get("id") || params.get("invoice") || params.get("invoice_id");
+
+        // If none of the expected params exist, check for any param containing "ML"
+        if (!extractedCode) {
+          for (const [key, value] of params.entries()) {
+            if (value.includes("ML")) {
+              extractedCode = value;
+              break;
+            }
           }
         }
+      } else {
+        extractedCode = code;
       }
-  
+
       if (!extractedCode) {
-        toast.error(`Invalid code: No valid ID found for ${extractedCode}` );
+        toast.error(`Invalid code: No valid ID found for ${extractedCode}`);
         return;
       }
-  
+
       let response;
       switch (currentStatus) {
         case "Loading":
@@ -185,7 +191,7 @@ export const useStatusHandler = (dashboardText) => {
           );
           break;
       }
-  
+
       if (response?.data) {
         toast.success(`${extractedCode} - ${response.data.message}`);
       }
@@ -193,7 +199,7 @@ export const useStatusHandler = (dashboardText) => {
       toast.error(`Invalid QR code format - ${error}`);
     }
   };
-  
+
   useLoadingOffloadingKeyEvents(currentStatus, handleScannedCode);
 
   useEffect(() => {
