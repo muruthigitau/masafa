@@ -43,7 +43,6 @@ export const useStatusHandler = (dashboardText) => {
       if (list) {
         setIsLoading(false);
       }
-      console.log("list", list);
 
       const tailwindList = (
         <ul className="list-inside space-y-1.5 w-full">

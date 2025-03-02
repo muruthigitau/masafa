@@ -41,8 +41,14 @@ const DocHeader = ({
 
   const { slug, id } = rt?.query;
 
-  const { errorModal, currentStatus, action, updateStatus, handleScannedCode } =
-    useStatusHandler(dashboardText);
+  const {
+    errorModal,
+    currentStatus,
+    action,
+    updateStatus,
+    handleScannedCode,
+    isLoading: customLoading,
+  } = useStatusHandler(dashboardText);
   const [canEdit, setCanEdit] = useState(false);
   const [canDelete, setCanDelete] = useState(false);
 
@@ -69,7 +75,7 @@ const DocHeader = ({
 
   return (
     <>
-      {isLoading && <Loading />}
+      {isLoading || (customLoading && <Loading />)}
       <div
         className="relative flex items-center mx-4 mt-4 md:mt-0 p-0 bg-center bg-cover min-h-14 rounded-2xl"
         style={{
@@ -98,9 +104,9 @@ const DocHeader = ({
           <div className="flex-none w-auto max-w-full px-3 my-auto">
             <div className="h-full">
               {/* <Link href={link}> */}
-                <h5 className="mb-1 text-gray-900 font-bold">
-                  {toTitleCase(title)}
-                </h5>
+              <h5 className="mb-1 text-gray-900 font-bold">
+                {toTitleCase(title)}
+              </h5>
               {/* </Link> */}
               <p className="mb-0 font-semibold leading-normal text-sm">
                 {subtitle}
