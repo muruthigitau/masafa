@@ -58,7 +58,7 @@ const DocumentDetail = () => {
         const title = toTitleCase(slug);
         updateDashboardText(title);
         updatePagesText(toTitleCase(docData.module));
-        updatePageInfo({ text: title, link: `${slug}` });
+        updatePageInfo({ text: title, link: `/app/${slug}` });
         updateNavLinks([
           { text: toTitleCase(docData.app), link: `/apps/${docData.app_id}` },
           {

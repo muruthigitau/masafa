@@ -33,10 +33,11 @@ import { useNavbar } from "@/contexts/NavbarContext";
 import { useRouter } from "next/router";
 import sidebarConfig from "@/data/sidebar.json"; // Import sidebar.json for sidebar settings
 import { generateSidebarData } from "../../../../utils/generateSidebarData";
+import Link from "next/link";
 
 const Sidebar = () => {
   const { sidebarWidth, setSidebarWidth, sidebarHidden } = useSidebar();
-  const { dashboardText } = useNavbar();
+  const { dashboardText, pageInfo } = useNavbar();
   const sidebarRef = useRef(null);
   const [isCollapsed, setIsCollapsed] = useState(false);
   const router = useRouter();
@@ -134,9 +135,11 @@ const Sidebar = () => {
               rel="noreferrer"
               href="/"
             >
-              <span className="ml-4 mr-2 font-semibold text-xl transition-all duration-200 ease-nav-brand">
-                {dashboardText}
-              </span>
+              <Link href={pageInfo?.link || "/"}>
+                <span className="ml-4 mr-2 font-semibold text-xl transition-all duration-200 ease-nav-brand">
+                  {pageInfo?.text || "Home"}
+                </span>
+              </Link>
             </a>
           </div>
 

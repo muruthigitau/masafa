@@ -196,15 +196,16 @@ REST_USE_JWT = True
 
 EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
 EMAIL_HOST = config("EMAIL_HOST", default="smtp.example.com")
+REPLY_EMAIL = config("REPLY_EMAIL", default=EMAIL_HOST)
 EMAIL_PORT = config("EMAIL_PORT", default=587, cast=int)
 EMAIL_HOST_USER = config("EMAIL_HOST_USER", default="user@example.com")
 EMAIL_HOST_PASSWORD = config("EMAIL_HOST_PASSWORD", default="password")
 EMAIL_USE_TLS = config("EMAIL_USE_TLS", default=True, cast=bool)
 EMAIL_USE_SSL = config("EMAIL_USE_SSL", default=False, cast=bool)
-EMAIL_SSL_CERTFILE = config("EMAIL_SSL_CERTFILE", default=None)
-EMAIL_SSL_KEYFILE = config("EMAIL_SSL_KEYFILE", default=None)
 EMAIL_TIMEOUT = config("EMAIL_TIMEOUT", default=10, cast=int)
-EMAIL_SSL_CAFILE = config("EMAIL_SSL_CAFILE", default=None)
+# EMAIL_SSL_CERTFILE = config("EMAIL_SSL_CERTFILE", default=None)
+# EMAIL_SSL_KEYFILE = config("EMAIL_SSL_KEYFILE", default=None)
+# EMAIL_SSL_CAFILE = config("EMAIL_SSL_CAFILE", default=None)
 
 SERVER_EMAIL = config("SERVER_EMAIL", default="server@example.com")
 DEFAULT_FROM_EMAIL = config("DEFAULT_FROM_EMAIL", default="webmaster@example.com")

@@ -34,6 +34,7 @@ class Item(BaseModel):
     CHOICES_ITEM_CONDITION = [
         ("New", "New"),
         ("Used", "Used"),
+        ("Mixed", "Mixed"),
     ]
     item_condition = models.CharField(choices=CHOICES_ITEM_CONDITION, max_length=255, default='Used', null=True, blank=True)
     paid = models.BooleanField(null=True, blank=True)

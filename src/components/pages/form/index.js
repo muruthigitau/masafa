@@ -22,7 +22,8 @@ const DoctypeForm = ({
   additionalButtons = [],
   is_doc = true,
 }) => {
-  const { localConfig, localAppData, setLocalConfig, setLocalAppData  } = useConfig();
+  const { localConfig, localAppData, setLocalConfig, setLocalAppData } =
+    useConfig();
   const { form, setForm, setLoading, data, setData } = useData();
   const [isEditing, setIsEditing] = useState(false);
   const [smsModalOpen, setSmsModalOpen] = useState(false);
@@ -38,31 +39,29 @@ const DoctypeForm = ({
     setIsEditing(true);
   }, [localConfig]);
 
-   useEffect(() => {
-        
-        if (!slug) return;
-    
-        const fetchDocumentData = async () => {
-          try {
-            // Fetch document details
-            const docData = findDocDetails(slug);
-            if (!docData) throw new Error("Failed to fetch document details");
-    
-            setLocalAppData({ ...docData, endpoint: `${docData.app_id}/${slug}` });
-    
-            // Fetch configuration data
-            const configData = await importFile(slug, `${slug}.json`);
-            if (!configData) throw new Error("Failed to load configuration");
-    
-            setLocalConfig(configData.content);
-  
-          } catch (error) {
-            console.error(error.message);
-          }
-        };
-    
-        fetchDocumentData();
-      }, [slug]);
+  useEffect(() => {
+    if (!slug) return;
+
+    const fetchDocumentData = async () => {
+      try {
+        // Fetch document details
+        const docData = findDocDetails(slug);
+        if (!docData) throw new Error("Failed to fetch document details");
+
+        setLocalAppData({ ...docData, endpoint: `${docData.app_id}/${slug}` });
+
+        // Fetch configuration data
+        const configData = await importFile(slug, `${slug}.json`);
+        if (!configData) throw new Error("Failed to load configuration");
+
+        setLocalConfig(configData.content);
+      } catch (error) {
+        console.error(error.message);
+      }
+    };
+
+    fetchDocumentData();
+  }, [slug]);
 
   const handleSaveClick = (event) => {
     event.preventDefault(); // Prevent default form submission
@@ -200,7 +199,8 @@ const DoctypeForm = ({
           buttonActions.handleEditClick(setIsEditing, { id, config, router })
         }
         handleSaveClick={handleSaveClick}
-        title={localConfig?.name}
+        // title={localConfig?.name}
+        title={id}
         buttons={buttons}
         link={link}
       />

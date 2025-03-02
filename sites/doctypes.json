@@ -216,6 +216,11 @@
                         "id": "dispatch",
                         "model": "Dispatch",
                         "name": "dispatch"
+                    },
+                    {
+                        "id": "internal_manifest",
+                        "model": "InternalManifest",
+                        "name": "Internal Manifest"
                     }
                 ]
             }
